@@ -1,0 +1,5 @@
+[
+  { "gtin":"3017620422003", "market":"FR", "label":"Nutella 400g" },
+  { "gtin":"5449000000996", "market":"GB", "label":"Coca-Cola 330ml can" },
+  { "gtin":"0000000000000", "market":"IN", "label":"control — known-absent barcode" }
+]

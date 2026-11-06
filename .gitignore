@@ -1,0 +1,43 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# Signing and key material never belongs in the repo
+*.pem
+*.p8
+*.p12
+*.keystore
+*.jks
+*.mobileprovision
+*.log
+.DS_Store
+tools/coverage-spike/out/
+
+# Generated native projects. This app uses Expo's continuous native generation:
+# ios/ and android/ are rebuilt from app.json plus the config plugins in
+# plugins/ by `expo prebuild`, and `prebuild --clean` deletes them outright.
+# Committing them means merge conflicts over machine-generated Xcode project
+# files and a repo that silently diverges from its own config.
+apps/mobile/ios/
+apps/mobile/android/
+.expo/
+**/Pods/
+
+# Build + tooling output
+tools/coverage-spike/out/
+*.log
+.DS_Store
+
+# Snapshots of official lists (tools/source-sync). Public data, re-downloadable,
+# and too large to version; the database records each file's hash and date.
+data/sources/
+
+# Design-tool exports: each bundles the editor's runtime and its icon font.
+# The *.dc.html sources and canvas.json beside them are the design.
+design/verso-app-design.html
+design/wireframes/verso-wireframes.html
+
+# /brag working files (frames, takes, stems); the finished video lives in docs/
+brag-output*/

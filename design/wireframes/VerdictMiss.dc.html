@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap">
+  <style>
+    body { margin: 0; background: #FFFFFF; font-family: 'Archivo', system-ui, sans-serif; }
+    a { color: #2E3F91; } a:hover { color: #22307A; }
+    .w * { box-sizing: border-box; }
+  </style>
+</helmet>
+<div class="w" style="width: 390px; height: 844px; background: #FFFFFF; color: #1A1A1A; display: flex; flex-direction: column;">
+  <div style="height: 48px; flex: none;"></div>
+  <div style="display: flex; align-items: center; height: 56px; padding: 0 8px; border-bottom: 1px solid #D9D9D6; flex: none;">
+    <div style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"></path></svg>
+    </div>
+    <span style="font-size: 15.5px; font-weight: 600;">Result</span>
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column; padding: 28px 24px 0; gap: 22px;">
+    <div style="width: 52px; height: 52px; border: 1.5px solid #D9D9D6; border-radius: 6px; display: flex; align-items: center; justify-content: center;">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#6E6E6B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path><path d="M8 11h6"></path></svg>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <h1 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.2; letter-spacing: -0.02em;">Nothing to read yet</h1>
+      <p style="margin: 0; font-size: 14.5px; line-height: 1.5; color: #6E6E6B;">That barcode is not in any catalogue we can reach, and we have no photo of the panel to read.</p>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 0; border-top: 1px solid #D9D9D6;">
+      <div style="display: flex; align-items: center; gap: 14px; height: 60px; border-bottom: 1px solid #E9E9E6;">
+        <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="flex: none;"><path d="M3 8a2 2 0 0 1 2-2h2l1.5-2h7L17 6h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><circle cx="12" cy="12" r="3.5"></circle></svg>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 2px;">
+          <span style="font-size: 14.5px; font-weight: 600;">Read the ingredient panel</span>
+          <span style="font-size: 12px; color: #6E6E6B;">Works even when the barcode does not</span>
+        </div>
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round"><path d="M9 6l6 6-6 6"></path></svg>
+      </div>
+      <div style="display: flex; align-items: center; gap: 14px; height: 60px; border-bottom: 1px solid #E9E9E6;">
+        <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="flex: none;"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 2px;">
+          <span style="font-size: 14.5px; font-weight: 600;">Search by product name</span>
+          <span style="font-size: 12px; color: #6E6E6B;">If you know the brand</span>
+        </div>
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round"><path d="M9 6l6 6-6 6"></path></svg>
+      </div>
+      <div style="display: flex; align-items: center; gap: 14px; height: 60px; border-bottom: 1px solid #E9E9E6;">
+        <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="flex: none;"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 2px;">
+          <span style="font-size: 14.5px; font-weight: 600;">Add this product</span>
+          <span style="font-size: 12px; color: #6E6E6B;">Photograph the pack to put it in the catalogue</span>
+        </div>
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round"><path d="M9 6l6 6-6 6"></path></svg>
+      </div>
+    </div>
+
+    <span style="font-family: 'Caveat', cursive; font-size: 16px; color: #6E6E6B; line-height: 1.35;">A dead end is the most common outcome outside the EU and US &mdash; so it gets three ways out, not an apology.</span>
+  </div>
+  <div style="height: 28px; flex: none;"></div>
+</div>
+</x-dc>
+</body>
+</html>

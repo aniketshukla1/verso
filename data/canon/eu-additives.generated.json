@@ -1,0 +1,4732 @@
+[
+ {
+  "slug": "curcumin",
+  "display_name": "Curcumin",
+  "kind": "colour",
+  "ins": "100",
+  "e": "E100",
+  "cas": null,
+  "function": "Food additive, E100 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-2985).",
+  "synonyms": [
+   "Curcumin|common",
+   "E100|e_number",
+   "INS 100|ins_number"
+  ]
+ },
+ {
+  "slug": "riboflavins",
+  "display_name": "Riboflavins",
+  "kind": "colour",
+  "ins": "101",
+  "e": "E101",
+  "cas": null,
+  "function": "Food additive, E101 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-2986).",
+  "synonyms": [
+   "Riboflavins|common",
+   "E101|e_number",
+   "INS 101|ins_number"
+  ]
+ },
+ {
+  "slug": "carminic-acid-carmine",
+  "display_name": "Carminic acid, Carmine",
+  "kind": "colour",
+  "ins": "120",
+  "e": "E120",
+  "cas": null,
+  "function": "Food additive, E120 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-2990).",
+  "synonyms": [
+   "Carminic acid, Carmine|common",
+   "E120|e_number",
+   "INS 120|ins_number"
+  ]
+ },
+ {
+  "slug": "amaranth",
+  "display_name": "Amaranth",
+  "kind": "colour",
+  "ins": "123",
+  "e": "E123",
+  "cas": null,
+  "function": "Food additive, E123 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-2992).",
+  "synonyms": [
+   "Amaranth|common",
+   "E123|e_number",
+   "INS 123|ins_number"
+  ]
+ },
+ {
+  "slug": "patent-blue-v",
+  "display_name": "Patent Blue V",
+  "kind": "colour",
+  "ins": "131",
+  "e": "E131",
+  "cas": null,
+  "function": "Food additive, E131 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-2996).",
+  "synonyms": [
+   "Patent Blue V|common",
+   "E131|e_number",
+   "INS 131|ins_number"
+  ]
+ },
+ {
+  "slug": "chlorophylls-and-chlorophyllins",
+  "display_name": "Chlorophylls and Chlorophyllins",
+  "kind": "colour",
+  "ins": "140",
+  "e": "E140",
+  "cas": null,
+  "function": "Food additive, E140 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-2999).",
+  "synonyms": [
+   "Chlorophylls and Chlorophyllins|common",
+   "E140|e_number",
+   "INS 140|ins_number"
+  ]
+ },
+ {
+  "slug": "copper-complexes-of-chlorophylls-and-chlorophyllins",
+  "display_name": "Copper complexes of chlorophylls and chlorophyllins",
+  "kind": "colour",
+  "ins": "141",
+  "e": "E141",
+  "cas": null,
+  "function": "Food additive, E141 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3000).",
+  "synonyms": [
+   "Copper complexes of chlorophylls and chlorophyllins|common",
+   "E141|e_number",
+   "INS 141|ins_number"
+  ]
+ },
+ {
+  "slug": "green-s",
+  "display_name": "Green S",
+  "kind": "colour",
+  "ins": "142",
+  "e": "E142",
+  "cas": null,
+  "function": "Food additive, E142 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3001).",
+  "synonyms": [
+   "Green S|common",
+   "E142|e_number",
+   "INS 142|ins_number"
+  ]
+ },
+ {
+  "slug": "plain-caramel",
+  "display_name": "Plain caramel",
+  "kind": "colour",
+  "ins": "150a",
+  "e": "E150a",
+  "cas": null,
+  "function": "Food additive, E150a in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3002).",
+  "synonyms": [
+   "Plain caramel|common",
+   "E150a|e_number",
+   "INS 150a|ins_number"
+  ]
+ },
+ {
+  "slug": "caustic-sulphite-caramel",
+  "display_name": "Caustic sulphite caramel",
+  "kind": "colour",
+  "ins": "150b",
+  "e": "E150b",
+  "cas": null,
+  "function": "Food additive, E150b in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3004).",
+  "synonyms": [
+   "Caustic sulphite caramel|common",
+   "E150b|e_number",
+   "INS 150b|ins_number"
+  ]
+ },
+ {
+  "slug": "ammonia-caramel",
+  "display_name": "Ammonia caramel",
+  "kind": "colour",
+  "ins": "150c",
+  "e": "E150c",
+  "cas": null,
+  "function": "Food additive, E150c in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3005).",
+  "synonyms": [
+   "Ammonia caramel|common",
+   "E150c|e_number",
+   "INS 150c|ins_number"
+  ]
+ },
+ {
+  "slug": "brilliant-black-pn",
+  "display_name": "Brilliant Black PN",
+  "kind": "colour",
+  "ins": "151",
+  "e": "E151",
+  "cas": null,
+  "function": "Food additive, E151 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3007).",
+  "synonyms": [
+   "Brilliant Black PN|common",
+   "E151|e_number",
+   "INS 151|ins_number"
+  ]
+ },
+ {
+  "slug": "vegetable-carbon",
+  "display_name": "Vegetable carbon",
+  "kind": "colour",
+  "ins": "153",
+  "e": "E153",
+  "cas": null,
+  "function": "Food additive, E153 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3008).",
+  "synonyms": [
+   "Vegetable carbon|common",
+   "E153|e_number",
+   "INS 153|ins_number"
+  ]
+ },
+ {
+  "slug": "brown-ht",
+  "display_name": "Brown HT",
+  "kind": "colour",
+  "ins": "155",
+  "e": "E155",
+  "cas": null,
+  "function": "Food additive, E155 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3009).",
+  "synonyms": [
+   "Brown HT|common",
+   "E155|e_number",
+   "INS 155|ins_number"
+  ]
+ },
+ {
+  "slug": "carotenes",
+  "display_name": "Carotenes",
+  "kind": "colour",
+  "ins": "160a",
+  "e": "E160a",
+  "cas": null,
+  "function": "Food additive, E160a in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3010).",
+  "synonyms": [
+   "Carotenes|common",
+   "E160a|e_number",
+   "INS 160a|ins_number"
+  ]
+ },
+ {
+  "slug": "annatto-bixin",
+  "display_name": "Annatto bixin",
+  "kind": "colour",
+  "ins": "160bi",
+  "e": "E160bi",
+  "cas": null,
+  "function": "Food additive, E160bi in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3379).",
+  "synonyms": [
+   "Annatto bixin|common",
+   "E160bi|e_number",
+   "E160b(i)|e_number",
+   "INS 160bi|ins_number",
+   "INS 160b(i)|ins_number"
+  ]
+ },
+ {
+  "slug": "annatto-norbixin",
+  "display_name": "Annatto norbixin",
+  "kind": "colour",
+  "ins": "160bii",
+  "e": "E160bii",
+  "cas": null,
+  "function": "Food additive, E160bii in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3380).",
+  "synonyms": [
+   "Annatto norbixin|common",
+   "E160bii|e_number",
+   "E160b(ii)|e_number",
+   "INS 160bii|ins_number",
+   "INS 160b(ii)|ins_number"
+  ]
+ },
+ {
+  "slug": "paprika-extract-capsanthin-capsorubin",
+  "display_name": "Paprika extract, capsanthin, capsorubin",
+  "kind": "colour",
+  "ins": "160c",
+  "e": "E160c",
+  "cas": null,
+  "function": "Food additive, E160c in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3012).",
+  "synonyms": [
+   "Paprika extract, capsanthin, capsorubin|common",
+   "E160c|e_number",
+   "INS 160c|ins_number"
+  ]
+ },
+ {
+  "slug": "lycopene",
+  "display_name": "Lycopene",
+  "kind": "colour",
+  "ins": "160d",
+  "e": "E160d",
+  "cas": "502-65-8",
+  "function": "Flavoring agent or adjuvant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3013); CAS and function from FDA Substances Added to Food, matched by exact name (TOMATO LYCOPENE).",
+  "synonyms": [
+   "Lycopene|common",
+   "E160d|e_number",
+   "INS 160d|ins_number",
+   "502-65-8|cas"
+  ]
+ },
+ {
+  "slug": "beta-apo-8-carotenal-c-30",
+  "display_name": "Beta-apo-8'-carotenal (C 30)",
+  "kind": "colour",
+  "ins": "160e",
+  "e": "E160e",
+  "cas": null,
+  "function": "Food additive, E160e in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3014).",
+  "synonyms": [
+   "Beta-apo-8'-carotenal (C 30)|common",
+   "E160e|e_number",
+   "INS 160e|ins_number"
+  ]
+ },
+ {
+  "slug": "lutein",
+  "display_name": "Lutein",
+  "kind": "colour",
+  "ins": "161b",
+  "e": "E161b",
+  "cas": "127-40-2",
+  "function": "Food additive, E161b in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3015); CAS and function from FDA Substances Added to Food, matched by exact name (XANTHOPHYLL).",
+  "synonyms": [
+   "Lutein|common",
+   "E161b|e_number",
+   "INS 161b|ins_number",
+   "127-40-2|cas"
+  ]
+ },
+ {
+  "slug": "canthaxanthin",
+  "display_name": "Canthaxanthin",
+  "kind": "colour",
+  "ins": "161g",
+  "e": "E161g",
+  "cas": "514-78-3",
+  "function": "Color or coloring adjunct.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3016); CAS and function from FDA Substances Added to Food, matched by exact name (CANTHAXANTHIN).",
+  "synonyms": [
+   "Canthaxanthin|common",
+   "E161g|e_number",
+   "INS 161g|ins_number",
+   "514-78-3|cas"
+  ]
+ },
+ {
+  "slug": "beetroot-red-betanin",
+  "display_name": "Beetroot Red, betanin",
+  "kind": "colour",
+  "ins": "162",
+  "e": "E162",
+  "cas": null,
+  "function": "Food additive, E162 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3017).",
+  "synonyms": [
+   "Beetroot Red, betanin|common",
+   "E162|e_number",
+   "INS 162|ins_number"
+  ]
+ },
+ {
+  "slug": "anthocyanins",
+  "display_name": "Anthocyanins",
+  "kind": "colour",
+  "ins": "163",
+  "e": "E163",
+  "cas": null,
+  "function": "Food additive, E163 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3018).",
+  "synonyms": [
+   "Anthocyanins|common",
+   "E163|e_number",
+   "INS 163|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-carbonate",
+  "display_name": "Calcium carbonate",
+  "kind": "colour",
+  "ins": "170",
+  "e": "E170",
+  "cas": "471-34-1",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3019); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM CARBONATE).",
+  "synonyms": [
+   "Calcium carbonate|common",
+   "E170|e_number",
+   "INS 170|ins_number",
+   "471-34-1|cas"
+  ]
+ },
+ {
+  "slug": "iron-oxides-and-hydroxides",
+  "display_name": "Iron oxides and hydroxides",
+  "kind": "colour",
+  "ins": "172",
+  "e": "E172",
+  "cas": null,
+  "function": "Food additive, E172 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3021).",
+  "synonyms": [
+   "Iron oxides and hydroxides|common",
+   "E172|e_number",
+   "INS 172|ins_number"
+  ]
+ },
+ {
+  "slug": "aluminium",
+  "display_name": "Aluminium",
+  "kind": "colour",
+  "ins": "173",
+  "e": "E173",
+  "cas": null,
+  "function": "Food additive, E173 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3022).",
+  "synonyms": [
+   "Aluminium|common",
+   "E173|e_number",
+   "INS 173|ins_number"
+  ]
+ },
+ {
+  "slug": "silver",
+  "display_name": "Silver",
+  "kind": "colour",
+  "ins": "174",
+  "e": "E174",
+  "cas": null,
+  "function": "Food additive, E174 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3023).",
+  "synonyms": [
+   "Silver|common",
+   "E174|e_number",
+   "INS 174|ins_number"
+  ]
+ },
+ {
+  "slug": "gold",
+  "display_name": "Gold",
+  "kind": "colour",
+  "ins": "175",
+  "e": "E175",
+  "cas": null,
+  "function": "Food additive, E175 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3024).",
+  "synonyms": [
+   "Gold|common",
+   "E175|e_number",
+   "INS 175|ins_number"
+  ]
+ },
+ {
+  "slug": "litholrubine-bk",
+  "display_name": "Litholrubine BK",
+  "kind": "colour",
+  "ins": "180",
+  "e": "E180",
+  "cas": null,
+  "function": "Food additive, E180 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3025).",
+  "synonyms": [
+   "Litholrubine BK|common",
+   "E180|e_number",
+   "INS 180|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-sorbate",
+  "display_name": "Calcium sorbate",
+  "kind": "preservative",
+  "ins": "203",
+  "e": "E203",
+  "cas": "7492-55-9",
+  "function": "Preservative.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3032); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM SORBATE).",
+  "synonyms": [
+   "Calcium sorbate|common",
+   "E203|e_number",
+   "INS 203|ins_number",
+   "7492-55-9|cas"
+  ]
+ },
+ {
+  "slug": "potassium-benzoate",
+  "display_name": "Potassium benzoate",
+  "kind": "preservative",
+  "ins": "212",
+  "e": "E212",
+  "cas": "582-25-2",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3036); CAS and function from FDA Substances Added to Food, matched by exact name (POTASSIUM BENZOATE).",
+  "synonyms": [
+   "Potassium benzoate|common",
+   "E212|e_number",
+   "INS 212|ins_number",
+   "582-25-2|cas"
+  ]
+ },
+ {
+  "slug": "calcium-benzoate",
+  "display_name": "Calcium benzoate",
+  "kind": "preservative",
+  "ins": "213",
+  "e": "E213",
+  "cas": "2090-05-3",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3037); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM BENZOATE).",
+  "synonyms": [
+   "Calcium benzoate|common",
+   "E213|e_number",
+   "INS 213|ins_number",
+   "2090-05-3|cas"
+  ]
+ },
+ {
+  "slug": "ethyl-p-hydroxybenzoate",
+  "display_name": "Ethyl-p-hydroxybenzoate",
+  "kind": "preservative",
+  "ins": "214",
+  "e": "E214",
+  "cas": null,
+  "function": "Food additive, E214 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3038).",
+  "synonyms": [
+   "Ethyl-p-hydroxybenzoate|common",
+   "E214|e_number",
+   "INS 214|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-ethyl-p-hydroxybenzoate",
+  "display_name": "Sodium ethyl p-hydroxybenzoate",
+  "kind": "preservative",
+  "ins": "215",
+  "e": "E215",
+  "cas": null,
+  "function": "Food additive, E215 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3040).",
+  "synonyms": [
+   "Sodium ethyl p-hydroxybenzoate|common",
+   "E215|e_number",
+   "INS 215|ins_number"
+  ]
+ },
+ {
+  "slug": "methyl-p-hydroxybenzoate",
+  "display_name": "Methyl p-hydroxybenzoate",
+  "kind": "preservative",
+  "ins": "218",
+  "e": "E218",
+  "cas": "99-76-3",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3041); CAS and function from FDA Substances Added to Food, matched by exact name (METHYL P-HYDROXYBENZOATE).",
+  "synonyms": [
+   "Methyl p-hydroxybenzoate|common",
+   "E218|e_number",
+   "INS 218|ins_number",
+   "99-76-3|cas"
+  ]
+ },
+ {
+  "slug": "sodium-methyl-p-hydroxybenzoate",
+  "display_name": "Sodium methyl p-hydroxybenzoate",
+  "kind": "preservative",
+  "ins": "219",
+  "e": "E219",
+  "cas": null,
+  "function": "Food additive, E219 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3042).",
+  "synonyms": [
+   "Sodium methyl p-hydroxybenzoate|common",
+   "E219|e_number",
+   "INS 219|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-sulphite",
+  "display_name": "Sodium sulphite",
+  "kind": "preservative",
+  "ins": "221",
+  "e": "E221",
+  "cas": null,
+  "function": "Food additive, E221 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3045).",
+  "synonyms": [
+   "Sodium sulphite|common",
+   "E221|e_number",
+   "INS 221|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-hydrogen-sulphite",
+  "display_name": "Sodium hydrogen sulphite",
+  "kind": "preservative",
+  "ins": "222",
+  "e": "E222",
+  "cas": null,
+  "function": "Food additive, E222 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3046).",
+  "synonyms": [
+   "Sodium hydrogen sulphite|common",
+   "E222|e_number",
+   "INS 222|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-metabisulphite",
+  "display_name": "Sodium metabisulphite",
+  "kind": "preservative",
+  "ins": "223",
+  "e": "E223",
+  "cas": null,
+  "function": "Food additive, E223 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3047).",
+  "synonyms": [
+   "Sodium metabisulphite|common",
+   "E223|e_number",
+   "INS 223|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-metabisulphite",
+  "display_name": "Potassium metabisulphite",
+  "kind": "preservative",
+  "ins": "224",
+  "e": "E224",
+  "cas": null,
+  "function": "Food additive, E224 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3048).",
+  "synonyms": [
+   "Potassium metabisulphite|common",
+   "E224|e_number",
+   "INS 224|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-sulphite",
+  "display_name": "Calcium sulphite",
+  "kind": "preservative",
+  "ins": "226",
+  "e": "E226",
+  "cas": null,
+  "function": "Food additive, E226 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3049).",
+  "synonyms": [
+   "Calcium sulphite|common",
+   "E226|e_number",
+   "INS 226|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-hydrogen-sulphite",
+  "display_name": "Calcium hydrogen sulphite",
+  "kind": "preservative",
+  "ins": "227",
+  "e": "E227",
+  "cas": null,
+  "function": "Food additive, E227 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3050).",
+  "synonyms": [
+   "Calcium hydrogen sulphite|common",
+   "E227|e_number",
+   "INS 227|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-hydrogen-sulphite",
+  "display_name": "Potassium hydrogen sulphite",
+  "kind": "preservative",
+  "ins": "228",
+  "e": "E228",
+  "cas": null,
+  "function": "Food additive, E228 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3051).",
+  "synonyms": [
+   "Potassium hydrogen sulphite|common",
+   "E228|e_number",
+   "INS 228|ins_number"
+  ]
+ },
+ {
+  "slug": "nisin",
+  "display_name": "Nisin",
+  "kind": "preservative",
+  "ins": "234",
+  "e": "E234",
+  "cas": null,
+  "function": "Food additive, E234 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3052).",
+  "synonyms": [
+   "Nisin|common",
+   "E234|e_number",
+   "INS 234|ins_number"
+  ]
+ },
+ {
+  "slug": "natamycin",
+  "display_name": "Natamycin",
+  "kind": "preservative",
+  "ins": "235",
+  "e": "E235",
+  "cas": "7681-93-8",
+  "function": "Fumigant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3053); CAS and function from FDA Substances Added to Food, matched by exact name (NATAMYCIN).",
+  "synonyms": [
+   "Natamycin|common",
+   "E235|e_number",
+   "INS 235|ins_number",
+   "7681-93-8|cas"
+  ]
+ },
+ {
+  "slug": "hexamethylene-tetramine",
+  "display_name": "Hexamethylene tetramine",
+  "kind": "preservative",
+  "ins": "239",
+  "e": "E239",
+  "cas": null,
+  "function": "Food additive, E239 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3054).",
+  "synonyms": [
+   "Hexamethylene tetramine|common",
+   "E239|e_number",
+   "INS 239|ins_number"
+  ]
+ },
+ {
+  "slug": "dimethyl-dicarbonate",
+  "display_name": "Dimethyl dicarbonate",
+  "kind": "preservative",
+  "ins": "242",
+  "e": "E242",
+  "cas": "4525-33-1",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3055); CAS and function from FDA Substances Added to Food, matched by exact name (DIMETHYL DICARBONATE).",
+  "synonyms": [
+   "Dimethyl dicarbonate|common",
+   "E242|e_number",
+   "INS 242|ins_number",
+   "4525-33-1|cas"
+  ]
+ },
+ {
+  "slug": "ethyl-lauroyl-arginate",
+  "display_name": "Ethyl lauroyl arginate",
+  "kind": "preservative",
+  "ins": "243",
+  "e": "E243",
+  "cas": null,
+  "function": "Food additive, E243 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3349).",
+  "synonyms": [
+   "Ethyl lauroyl arginate|common",
+   "E243|e_number",
+   "INS 243|ins_number"
+  ]
+ },
+ {
+  "slug": "glycolipids",
+  "display_name": "Glycolipids",
+  "kind": "preservative",
+  "ins": "246",
+  "e": "E246",
+  "cas": null,
+  "function": "Food additive, E246 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3376).",
+  "synonyms": [
+   "Glycolipids|common",
+   "E246|e_number",
+   "INS 246|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-nitrate",
+  "display_name": "Potassium nitrate",
+  "kind": "preservative",
+  "ins": "252",
+  "e": "E252",
+  "cas": "7757-79-1",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3061); CAS and function from FDA Substances Added to Food, matched by exact name (POTASSIUM NITRATE).",
+  "synonyms": [
+   "Potassium nitrate|common",
+   "E252|e_number",
+   "INS 252|ins_number",
+   "7757-79-1|cas"
+  ]
+ },
+ {
+  "slug": "acetic-acid",
+  "display_name": "Acetic acid",
+  "kind": "acidity_regulator",
+  "ins": "260",
+  "e": "E260",
+  "cas": "64-19-7",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3062); CAS and function from FDA Substances Added to Food, matched by exact name (ACETIC ACID).",
+  "synonyms": [
+   "Acetic acid|common",
+   "E260|e_number",
+   "INS 260|ins_number",
+   "64-19-7|cas"
+  ]
+ },
+ {
+  "slug": "potassium-acetates",
+  "display_name": "Potassium acetates",
+  "kind": "acidity_regulator",
+  "ins": "261",
+  "e": "E261",
+  "cas": null,
+  "function": "Food additive, E261 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3063).",
+  "synonyms": [
+   "Potassium acetates|common",
+   "E261|e_number",
+   "INS 261|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-acetates",
+  "display_name": "Sodium acetates",
+  "kind": "acidity_regulator",
+  "ins": "262",
+  "e": "E262",
+  "cas": null,
+  "function": "Food additive, E262 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3064).",
+  "synonyms": [
+   "Sodium acetates|common",
+   "E262|e_number",
+   "INS 262|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-diacetate",
+  "display_name": "Sodium diacetate",
+  "kind": "acidity_regulator",
+  "ins": "262ii",
+  "e": "E262ii",
+  "cas": "126-96-5",
+  "function": "Flavoring agent or adjuvant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3382); CAS and function from FDA Substances Added to Food, matched by exact name (SODIUM DIACETATE).",
+  "synonyms": [
+   "Sodium diacetate|common",
+   "E262ii|e_number",
+   "E262i(i)|e_number",
+   "INS 262ii|ins_number",
+   "INS 262i(i)|ins_number",
+   "126-96-5|cas"
+  ]
+ },
+ {
+  "slug": "calcium-acetate",
+  "display_name": "Calcium acetate",
+  "kind": "acidity_regulator",
+  "ins": "263",
+  "e": "E263",
+  "cas": "62-54-4",
+  "function": "Color or coloring adjunct.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3065); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM ACETATE).",
+  "synonyms": [
+   "Calcium acetate|common",
+   "E263|e_number",
+   "INS 263|ins_number",
+   "62-54-4|cas"
+  ]
+ },
+ {
+  "slug": "buffered-vinegar",
+  "display_name": "Buffered vinegar",
+  "kind": "acidity_regulator",
+  "ins": "267",
+  "e": "E267",
+  "cas": null,
+  "function": "Food additive, E267 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3385).",
+  "synonyms": [
+   "Buffered vinegar|common",
+   "E267|e_number",
+   "INS 267|ins_number"
+  ]
+ },
+ {
+  "slug": "lactic-acid",
+  "display_name": "Lactic acid",
+  "kind": "acidity_regulator",
+  "ins": "270",
+  "e": "E270",
+  "cas": "50-21-5",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3066); CAS and function from FDA Substances Added to Food, matched by exact name (LACTIC ACID).",
+  "synonyms": [
+   "Lactic acid|common",
+   "E270|e_number",
+   "INS 270|ins_number",
+   "50-21-5|cas"
+  ]
+ },
+ {
+  "slug": "propionic-acid",
+  "display_name": "Propionic acid",
+  "kind": "preservative",
+  "ins": "280",
+  "e": "E280",
+  "cas": "79-09-4",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3067); CAS and function from FDA Substances Added to Food, matched by exact name (PROPIONIC ACID).",
+  "synonyms": [
+   "Propionic acid|common",
+   "E280|e_number",
+   "INS 280|ins_number",
+   "79-09-4|cas"
+  ]
+ },
+ {
+  "slug": "sodium-propionate",
+  "display_name": "Sodium propionate",
+  "kind": "preservative",
+  "ins": "281",
+  "e": "E281",
+  "cas": "137-40-6",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3069); CAS and function from FDA Substances Added to Food, matched by exact name (SODIUM PROPIONATE).",
+  "synonyms": [
+   "Sodium propionate|common",
+   "E281|e_number",
+   "INS 281|ins_number",
+   "137-40-6|cas"
+  ]
+ },
+ {
+  "slug": "potassium-propionate",
+  "display_name": "Potassium propionate",
+  "kind": "preservative",
+  "ins": "283",
+  "e": "E283",
+  "cas": null,
+  "function": "Food additive, E283 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3071).",
+  "synonyms": [
+   "Potassium propionate|common",
+   "E283|e_number",
+   "INS 283|ins_number"
+  ]
+ },
+ {
+  "slug": "boric-acid",
+  "display_name": "Boric acid",
+  "kind": "preservative",
+  "ins": "284",
+  "e": "E284",
+  "cas": "10043-35-3",
+  "function": "Lubricant or release agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3072); CAS and function from FDA Substances Added to Food, matched by exact name (BORIC ACID).",
+  "synonyms": [
+   "Boric acid|common",
+   "E284|e_number",
+   "INS 284|ins_number",
+   "10043-35-3|cas"
+  ]
+ },
+ {
+  "slug": "sodium-tetraborate-borax",
+  "display_name": "Sodium tetraborate (borax)",
+  "kind": "preservative",
+  "ins": "285",
+  "e": "E285",
+  "cas": null,
+  "function": "Food additive, E285 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3073).",
+  "synonyms": [
+   "Sodium tetraborate (borax)|common",
+   "E285|e_number",
+   "INS 285|ins_number"
+  ]
+ },
+ {
+  "slug": "carbon-dioxide",
+  "display_name": "Carbon dioxide",
+  "kind": "preservative",
+  "ins": "290",
+  "e": "E290",
+  "cas": "124-38-9",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3074); CAS and function from FDA Substances Added to Food, matched by exact name (CARBON DIOXIDE).",
+  "synonyms": [
+   "Carbon dioxide|common",
+   "E290|e_number",
+   "INS 290|ins_number",
+   "124-38-9|cas"
+  ]
+ },
+ {
+  "slug": "malic-acid",
+  "display_name": "Malic acid",
+  "kind": "preservative",
+  "ins": "296",
+  "e": "E296",
+  "cas": "617-48-1",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3075); CAS and function from FDA Substances Added to Food, matched by exact name (MALIC ACID).",
+  "synonyms": [
+   "Malic acid|common",
+   "E296|e_number",
+   "INS 296|ins_number",
+   "617-48-1|cas"
+  ]
+ },
+ {
+  "slug": "fumaric-acid",
+  "display_name": "Fumaric acid",
+  "kind": "preservative",
+  "ins": "297",
+  "e": "E297",
+  "cas": "110-17-8",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3076); CAS and function from FDA Substances Added to Food, matched by exact name (FUMARIC ACID).",
+  "synonyms": [
+   "Fumaric acid|common",
+   "E297|e_number",
+   "INS 297|ins_number",
+   "110-17-8|cas"
+  ]
+ },
+ {
+  "slug": "ascorbic-acid",
+  "display_name": "Ascorbic acid",
+  "kind": "antioxidant",
+  "ins": "300",
+  "e": "E300",
+  "cas": "50-81-7",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3077); CAS and function from FDA Substances Added to Food, matched by exact name (ASCORBIC ACID).",
+  "synonyms": [
+   "Ascorbic acid|common",
+   "E300|e_number",
+   "INS 300|ins_number",
+   "50-81-7|cas"
+  ]
+ },
+ {
+  "slug": "sodium-ascorbate",
+  "display_name": "Sodium ascorbate",
+  "kind": "antioxidant",
+  "ins": "301",
+  "e": "E301",
+  "cas": "134-03-2",
+  "function": "Antioxidant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3078); CAS and function from FDA Substances Added to Food, matched by exact name (SODIUM ASCORBATE).",
+  "synonyms": [
+   "Sodium ascorbate|common",
+   "E301|e_number",
+   "INS 301|ins_number",
+   "134-03-2|cas"
+  ]
+ },
+ {
+  "slug": "calcium-ascorbate",
+  "display_name": "Calcium ascorbate",
+  "kind": "antioxidant",
+  "ins": "302",
+  "e": "E302",
+  "cas": "5743-27-1",
+  "function": "Antioxidant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3079); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM ASCORBATE).",
+  "synonyms": [
+   "Calcium ascorbate|common",
+   "E302|e_number",
+   "INS 302|ins_number",
+   "5743-27-1|cas"
+  ]
+ },
+ {
+  "slug": "fatty-acid-esters-of-ascorbic-acid",
+  "display_name": "Fatty acid esters of ascorbic acid",
+  "kind": "antioxidant",
+  "ins": "304",
+  "e": "E304",
+  "cas": null,
+  "function": "Food additive, E304 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3080).",
+  "synonyms": [
+   "Fatty acid esters of ascorbic acid|common",
+   "E304|e_number",
+   "INS 304|ins_number"
+  ]
+ },
+ {
+  "slug": "l-ascorbyl-palmitate",
+  "display_name": "L-Ascorbyl Palmitate",
+  "kind": "antioxidant",
+  "ins": "304i",
+  "e": "E304i",
+  "cas": "137-66-6",
+  "function": "Antioxidant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-16782); CAS and function from FDA Substances Added to Food, matched by exact name (ASCORBYL PALMITATE).",
+  "synonyms": [
+   "L-Ascorbyl Palmitate|common",
+   "E304i|e_number",
+   "E304(i)|e_number",
+   "INS 304i|ins_number",
+   "INS 304(i)|ins_number",
+   "137-66-6|cas"
+  ]
+ },
+ {
+  "slug": "tocopherol-rich-extract",
+  "display_name": "Tocopherol-rich extract",
+  "kind": "antioxidant",
+  "ins": "306",
+  "e": "E306",
+  "cas": null,
+  "function": "Food additive, E306 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3081).",
+  "synonyms": [
+   "Tocopherol-rich extract|common",
+   "E306|e_number",
+   "INS 306|ins_number"
+  ]
+ },
+ {
+  "slug": "alpha-tocopherol",
+  "display_name": "Alpha-tocopherol",
+  "kind": "antioxidant",
+  "ins": "307",
+  "e": "E307",
+  "cas": null,
+  "function": "Food additive, E307 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3082).",
+  "synonyms": [
+   "Alpha-tocopherol|common",
+   "E307|e_number",
+   "INS 307|ins_number"
+  ]
+ },
+ {
+  "slug": "gamma-tocopherol",
+  "display_name": "Gamma-tocopherol",
+  "kind": "antioxidant",
+  "ins": "308",
+  "e": "E308",
+  "cas": null,
+  "function": "Food additive, E308 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3083).",
+  "synonyms": [
+   "Gamma-tocopherol|common",
+   "E308|e_number",
+   "INS 308|ins_number"
+  ]
+ },
+ {
+  "slug": "delta-tocopherol",
+  "display_name": "Delta-tocopherol",
+  "kind": "antioxidant",
+  "ins": "309",
+  "e": "E309",
+  "cas": null,
+  "function": "Food additive, E309 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3084).",
+  "synonyms": [
+   "Delta-tocopherol|common",
+   "E309|e_number",
+   "INS 309|ins_number"
+  ]
+ },
+ {
+  "slug": "octyl-gallate",
+  "display_name": "Octyl gallate",
+  "kind": "antioxidant",
+  "ins": "311",
+  "e": "E311",
+  "cas": "1034-01-1",
+  "function": "Antioxidant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3088); CAS and function from FDA Substances Added to Food, matched by exact name (OCTYL GALLATE).",
+  "synonyms": [
+   "Octyl gallate|common",
+   "E311|e_number",
+   "INS 311|ins_number",
+   "1034-01-1|cas"
+  ]
+ },
+ {
+  "slug": "dodecyl-gallate",
+  "display_name": "Dodecyl gallate",
+  "kind": "antioxidant",
+  "ins": "312",
+  "e": "E312",
+  "cas": "1166-52-5",
+  "function": "Antioxidant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3089); CAS and function from FDA Substances Added to Food, matched by exact name (DODECYL GALLATE).",
+  "synonyms": [
+   "Dodecyl gallate|common",
+   "E312|e_number",
+   "INS 312|ins_number",
+   "1166-52-5|cas"
+  ]
+ },
+ {
+  "slug": "erythorbic-acid",
+  "display_name": "Erythorbic acid",
+  "kind": "antioxidant",
+  "ins": "315",
+  "e": "E315",
+  "cas": "89-65-6",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3090); CAS and function from FDA Substances Added to Food, matched by exact name (ERYTHORBIC ACID).",
+  "synonyms": [
+   "Erythorbic acid|common",
+   "E315|e_number",
+   "INS 315|ins_number",
+   "89-65-6|cas"
+  ]
+ },
+ {
+  "slug": "sodium-erythorbate",
+  "display_name": "Sodium erythorbate",
+  "kind": "antioxidant",
+  "ins": "316",
+  "e": "E316",
+  "cas": "6381-77-7",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3091); CAS and function from FDA Substances Added to Food, matched by exact name (SODIUM ERYTHORBATE).",
+  "synonyms": [
+   "Sodium erythorbate|common",
+   "E316|e_number",
+   "INS 316|ins_number",
+   "6381-77-7|cas"
+  ]
+ },
+ {
+  "slug": "oat-lecithin",
+  "display_name": "Oat lecithin",
+  "kind": "emulsifier",
+  "ins": "322a",
+  "e": "E322a",
+  "cas": null,
+  "function": "Food additive, E322a in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3387).",
+  "synonyms": [
+   "Oat lecithin|common",
+   "E322a|e_number",
+   "INS 322a|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-lactate",
+  "display_name": "Sodium lactate",
+  "kind": "acidity_regulator",
+  "ins": "325",
+  "e": "E325",
+  "cas": "72-17-3",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3096); CAS and function from FDA Substances Added to Food, matched by exact name (SODIUM LACTATE).",
+  "synonyms": [
+   "Sodium lactate|common",
+   "E325|e_number",
+   "INS 325|ins_number",
+   "72-17-3|cas"
+  ]
+ },
+ {
+  "slug": "potassium-lactate",
+  "display_name": "Potassium lactate",
+  "kind": "acidity_regulator",
+  "ins": "326",
+  "e": "E326",
+  "cas": "996-31-6",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3097); CAS and function from FDA Substances Added to Food, matched by exact name (POTASSIUM LACTATE).",
+  "synonyms": [
+   "Potassium lactate|common",
+   "E326|e_number",
+   "INS 326|ins_number",
+   "996-31-6|cas"
+  ]
+ },
+ {
+  "slug": "calcium-lactate",
+  "display_name": "Calcium lactate",
+  "kind": "acidity_regulator",
+  "ins": "327",
+  "e": "E327",
+  "cas": "814-80-2",
+  "function": "Dough strengthener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3098); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM LACTATE).",
+  "synonyms": [
+   "Calcium lactate|common",
+   "E327|e_number",
+   "INS 327|ins_number",
+   "814-80-2|cas"
+  ]
+ },
+ {
+  "slug": "sodium-citrates",
+  "display_name": "Sodium citrates",
+  "kind": "acidity_regulator",
+  "ins": "331",
+  "e": "E331",
+  "cas": null,
+  "function": "Food additive, E331 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3100).",
+  "synonyms": [
+   "Sodium citrates|common",
+   "E331|e_number",
+   "INS 331|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-citrates",
+  "display_name": "Potassium citrates",
+  "kind": "acidity_regulator",
+  "ins": "332",
+  "e": "E332",
+  "cas": null,
+  "function": "Food additive, E332 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3101).",
+  "synonyms": [
+   "Potassium citrates|common",
+   "E332|e_number",
+   "INS 332|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-citrates",
+  "display_name": "Calcium citrates",
+  "kind": "acidity_regulator",
+  "ins": "333",
+  "e": "E333",
+  "cas": null,
+  "function": "Food additive, E333 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3102).",
+  "synonyms": [
+   "Calcium citrates|common",
+   "E333|e_number",
+   "INS 333|ins_number"
+  ]
+ },
+ {
+  "slug": "tartaric-acid-l",
+  "display_name": "Tartaric acid (L(+)-)",
+  "kind": "acidity_regulator",
+  "ins": "334",
+  "e": "E334",
+  "cas": "87-69-4",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3103); CAS and function from FDA Substances Added to Food, matched by exact name (TARTARIC ACID, L).",
+  "synonyms": [
+   "Tartaric acid (L(+)-)|common",
+   "E334|e_number",
+   "INS 334|ins_number",
+   "87-69-4|cas"
+  ]
+ },
+ {
+  "slug": "sodium-tartrates",
+  "display_name": "Sodium tartrates",
+  "kind": "acidity_regulator",
+  "ins": "335",
+  "e": "E335",
+  "cas": null,
+  "function": "Food additive, E335 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3104).",
+  "synonyms": [
+   "Sodium tartrates|common",
+   "E335|e_number",
+   "INS 335|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-tartrates",
+  "display_name": "Potassium tartrates",
+  "kind": "acidity_regulator",
+  "ins": "336",
+  "e": "E336",
+  "cas": null,
+  "function": "Food additive, E336 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3105).",
+  "synonyms": [
+   "Potassium tartrates|common",
+   "E336|e_number",
+   "INS 336|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-potassium-tartrate",
+  "display_name": "Sodium potassium tartrate",
+  "kind": "acidity_regulator",
+  "ins": "337",
+  "e": "E337",
+  "cas": "304-59-6",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3106); CAS and function from FDA Substances Added to Food, matched by exact name (SODIUM POTASSIUM TARTRATE).",
+  "synonyms": [
+   "Sodium potassium tartrate|common",
+   "E337|e_number",
+   "INS 337|ins_number",
+   "304-59-6|cas"
+  ]
+ },
+ {
+  "slug": "potassium-phosphates",
+  "display_name": "Potassium phosphates",
+  "kind": "acidity_regulator",
+  "ins": "340",
+  "e": "E340",
+  "cas": null,
+  "function": "Food additive, E340 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3110).",
+  "synonyms": [
+   "Potassium phosphates|common",
+   "E340|e_number",
+   "INS 340|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-phosphates",
+  "display_name": "Calcium phosphates",
+  "kind": "acidity_regulator",
+  "ins": "341",
+  "e": "E341",
+  "cas": null,
+  "function": "Food additive, E341 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3111).",
+  "synonyms": [
+   "Calcium phosphates|common",
+   "E341|e_number",
+   "INS 341|ins_number"
+  ]
+ },
+ {
+  "slug": "tricalcium-phosphate",
+  "display_name": "Tricalcium phosphate",
+  "kind": "acidity_regulator",
+  "ins": "341iii",
+  "e": "E341iii",
+  "cas": "7758-87-4",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3336); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM PHOSPHATE, TRIBASIC).",
+  "synonyms": [
+   "Tricalcium phosphate|common",
+   "E341iii|e_number",
+   "E341i(ii)|e_number",
+   "INS 341iii|ins_number",
+   "INS 341i(ii)|ins_number",
+   "7758-87-4|cas"
+  ]
+ },
+ {
+  "slug": "magnesium-phosphates",
+  "display_name": "Magnesium phosphates",
+  "kind": "acidity_regulator",
+  "ins": "343",
+  "e": "E343",
+  "cas": null,
+  "function": "Food additive, E343 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3112).",
+  "synonyms": [
+   "Magnesium phosphates|common",
+   "E343|e_number",
+   "INS 343|ins_number"
+  ]
+ },
+ {
+  "slug": "trimagnesium-dicitrate",
+  "display_name": "Trimagnesium dicitrate",
+  "kind": "acidity_regulator",
+  "ins": "345i",
+  "e": "E345i",
+  "cas": null,
+  "function": "Food additive, E345i in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-10321).",
+  "synonyms": [
+   "Trimagnesium dicitrate|common",
+   "E345i|e_number",
+   "E345(i)|e_number",
+   "INS 345i|ins_number",
+   "INS 345(i)|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-malates",
+  "display_name": "Sodium malates",
+  "kind": "acidity_regulator",
+  "ins": "350",
+  "e": "E350",
+  "cas": null,
+  "function": "Food additive, E350 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3113).",
+  "synonyms": [
+   "Sodium malates|common",
+   "E350|e_number",
+   "INS 350|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-malate",
+  "display_name": "Potassium malate",
+  "kind": "acidity_regulator",
+  "ins": "351",
+  "e": "E351",
+  "cas": null,
+  "function": "Food additive, E351 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3114).",
+  "synonyms": [
+   "Potassium malate|common",
+   "E351|e_number",
+   "INS 351|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-malates",
+  "display_name": "Calcium malates",
+  "kind": "acidity_regulator",
+  "ins": "352",
+  "e": "E352",
+  "cas": null,
+  "function": "Food additive, E352 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3115).",
+  "synonyms": [
+   "Calcium malates|common",
+   "E352|e_number",
+   "INS 352|ins_number"
+  ]
+ },
+ {
+  "slug": "metatartaric-acid",
+  "display_name": "Metatartaric acid",
+  "kind": "acidity_regulator",
+  "ins": "353",
+  "e": "E353",
+  "cas": null,
+  "function": "Food additive, E353 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3116).",
+  "synonyms": [
+   "Metatartaric acid|common",
+   "E353|e_number",
+   "INS 353|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-tartrate",
+  "display_name": "Calcium tartrate",
+  "kind": "acidity_regulator",
+  "ins": "354",
+  "e": "E354",
+  "cas": null,
+  "function": "Food additive, E354 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3117).",
+  "synonyms": [
+   "Calcium tartrate|common",
+   "E354|e_number",
+   "INS 354|ins_number"
+  ]
+ },
+ {
+  "slug": "adipic-acid",
+  "display_name": "Adipic acid",
+  "kind": "acidity_regulator",
+  "ins": "355",
+  "e": "E355",
+  "cas": "124-04-9",
+  "function": "Flavoring agent or adjuvant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3118); CAS and function from FDA Substances Added to Food, matched by exact name (ADIPIC ACID).",
+  "synonyms": [
+   "Adipic acid|common",
+   "E355|e_number",
+   "INS 355|ins_number",
+   "124-04-9|cas"
+  ]
+ },
+ {
+  "slug": "sodium-adipate",
+  "display_name": "Sodium adipate",
+  "kind": "acidity_regulator",
+  "ins": "356",
+  "e": "E356",
+  "cas": null,
+  "function": "Food additive, E356 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3120).",
+  "synonyms": [
+   "Sodium adipate|common",
+   "E356|e_number",
+   "INS 356|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-adipate",
+  "display_name": "Potassium adipate",
+  "kind": "acidity_regulator",
+  "ins": "357",
+  "e": "E357",
+  "cas": null,
+  "function": "Food additive, E357 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3121).",
+  "synonyms": [
+   "Potassium adipate|common",
+   "E357|e_number",
+   "INS 357|ins_number"
+  ]
+ },
+ {
+  "slug": "succinic-acid",
+  "display_name": "Succinic acid",
+  "kind": "acidity_regulator",
+  "ins": "363",
+  "e": "E363",
+  "cas": "110-15-6",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3122); CAS and function from FDA Substances Added to Food, matched by exact name (SUCCINIC ACID).",
+  "synonyms": [
+   "Succinic acid|common",
+   "E363|e_number",
+   "INS 363|ins_number",
+   "110-15-6|cas"
+  ]
+ },
+ {
+  "slug": "triammonium-citrate",
+  "display_name": "Triammonium citrate",
+  "kind": "acidity_regulator",
+  "ins": "380",
+  "e": "E380",
+  "cas": null,
+  "function": "Food additive, E380 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3123).",
+  "synonyms": [
+   "Triammonium citrate|common",
+   "E380|e_number",
+   "INS 380|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-disodium-ethylene-diamine-tetra-acetate-calcium-diso",
+  "display_name": "Calcium disodium ethylene diamine tetra-acetate (Calcium disodium EDTA)",
+  "kind": "acidity_regulator",
+  "ins": "385",
+  "e": "E385",
+  "cas": null,
+  "function": "Food additive, E385 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3124).",
+  "synonyms": [
+   "Calcium disodium ethylene diamine tetra-acetate (Calcium disodium EDTA)|common",
+   "E385|e_number",
+   "INS 385|ins_number"
+  ]
+ },
+ {
+  "slug": "extracts-of-rosemary",
+  "display_name": "Extracts of rosemary",
+  "kind": "acidity_regulator",
+  "ins": "392",
+  "e": "E392",
+  "cas": null,
+  "function": "Food additive, E392 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3125).",
+  "synonyms": [
+   "Extracts of rosemary|common",
+   "E392|e_number",
+   "INS 392|ins_number"
+  ]
+ },
+ {
+  "slug": "alginic-acid",
+  "display_name": "Alginic acid",
+  "kind": "stabiliser",
+  "ins": "400",
+  "e": "E400",
+  "cas": "9005-32-7",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3126); CAS and function from FDA Substances Added to Food, matched by exact name (ALGINIC ACID).",
+  "synonyms": [
+   "Alginic acid|common",
+   "E400|e_number",
+   "INS 400|ins_number",
+   "9005-32-7|cas"
+  ]
+ },
+ {
+  "slug": "sodium-alginate",
+  "display_name": "Sodium alginate",
+  "kind": "stabiliser",
+  "ins": "401",
+  "e": "E401",
+  "cas": "9005-38-3",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3128); CAS and function from FDA Substances Added to Food, matched by exact name (ALGINATE, SODIUM).",
+  "synonyms": [
+   "Sodium alginate|common",
+   "E401|e_number",
+   "INS 401|ins_number",
+   "9005-38-3|cas"
+  ]
+ },
+ {
+  "slug": "potassium-alginate",
+  "display_name": "Potassium alginate",
+  "kind": "stabiliser",
+  "ins": "402",
+  "e": "E402",
+  "cas": "9005-36-1",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3129); CAS and function from FDA Substances Added to Food, matched by exact name (ALGINATE, POTASSIUM).",
+  "synonyms": [
+   "Potassium alginate|common",
+   "E402|e_number",
+   "INS 402|ins_number",
+   "9005-36-1|cas"
+  ]
+ },
+ {
+  "slug": "ammonium-alginate",
+  "display_name": "Ammonium alginate",
+  "kind": "stabiliser",
+  "ins": "403",
+  "e": "E403",
+  "cas": "9005-34-9",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3130); CAS and function from FDA Substances Added to Food, matched by exact name (ALGINATE, AMMONIUM).",
+  "synonyms": [
+   "Ammonium alginate|common",
+   "E403|e_number",
+   "INS 403|ins_number",
+   "9005-34-9|cas"
+  ]
+ },
+ {
+  "slug": "calcium-alginate",
+  "display_name": "Calcium alginate",
+  "kind": "stabiliser",
+  "ins": "404",
+  "e": "E404",
+  "cas": "9005-35-0",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3131); CAS and function from FDA Substances Added to Food, matched by exact name (ALGINATE, CALCIUM).",
+  "synonyms": [
+   "Calcium alginate|common",
+   "E404|e_number",
+   "INS 404|ins_number",
+   "9005-35-0|cas"
+  ]
+ },
+ {
+  "slug": "propane-1-2-diol-alginate",
+  "display_name": "Propane-1, 2-diol alginate",
+  "kind": "stabiliser",
+  "ins": "405",
+  "e": "E405",
+  "cas": "9005-37-2",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3132); CAS and function from FDA Substances Added to Food, matched by exact name (PROPYLENE GLYCOL ALGINATE).",
+  "synonyms": [
+   "Propane-1, 2-diol alginate|common",
+   "E405|e_number",
+   "INS 405|ins_number",
+   "9005-37-2|cas"
+  ]
+ },
+ {
+  "slug": "agar",
+  "display_name": "Agar",
+  "kind": "stabiliser",
+  "ins": "406",
+  "e": "E406",
+  "cas": "9002-18-0",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3133); CAS and function from FDA Substances Added to Food, matched by exact name (AGAR (GELIDIUM SPP.)).",
+  "synonyms": [
+   "Agar|common",
+   "E406|e_number",
+   "INS 406|ins_number",
+   "9002-18-0|cas"
+  ]
+ },
+ {
+  "slug": "processed-euchema-seaweed",
+  "display_name": "Processed euchema seaweed",
+  "kind": "stabiliser",
+  "ins": "407a",
+  "e": "E407a",
+  "cas": null,
+  "function": "Food additive, E407a in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3135).",
+  "synonyms": [
+   "Processed euchema seaweed|common",
+   "E407a|e_number",
+   "INS 407a|ins_number"
+  ]
+ },
+ {
+  "slug": "locust-bean-gum",
+  "display_name": "Locust bean gum",
+  "kind": "stabiliser",
+  "ins": "410",
+  "e": "E410",
+  "cas": null,
+  "function": "Food additive, E410 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3136).",
+  "synonyms": [
+   "Locust bean gum|common",
+   "E410|e_number",
+   "INS 410|ins_number"
+  ]
+ },
+ {
+  "slug": "tragacanth",
+  "display_name": "Tragacanth",
+  "kind": "stabiliser",
+  "ins": "413",
+  "e": "E413",
+  "cas": "9000-65-1",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3138); CAS and function from FDA Substances Added to Food, matched by exact name (TRAGACANTH, GUM (ASTRAGALUS SPP.)).",
+  "synonyms": [
+   "Tragacanth|common",
+   "E413|e_number",
+   "INS 413|ins_number",
+   "9000-65-1|cas"
+  ]
+ },
+ {
+  "slug": "gum-arabic-acacia-gum",
+  "display_name": "Gum arabic (acacia gum)",
+  "kind": "stabiliser",
+  "ins": "414",
+  "e": "E414",
+  "cas": null,
+  "function": "Food additive, E414 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3139).",
+  "synonyms": [
+   "Gum arabic (acacia gum)|common",
+   "E414|e_number",
+   "INS 414|ins_number"
+  ]
+ },
+ {
+  "slug": "karaya-gum",
+  "display_name": "Karaya gum",
+  "kind": "stabiliser",
+  "ins": "416",
+  "e": "E416",
+  "cas": "9000-36-6",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3141); CAS and function from FDA Substances Added to Food, matched by exact name (KARAYA, GUM (STERCULIA URENS ROXB.)).",
+  "synonyms": [
+   "Karaya gum|common",
+   "E416|e_number",
+   "INS 416|ins_number",
+   "9000-36-6|cas"
+  ]
+ },
+ {
+  "slug": "tara-gum",
+  "display_name": "Tara gum",
+  "kind": "stabiliser",
+  "ins": "417",
+  "e": "E417",
+  "cas": null,
+  "function": "Food additive, E417 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3142).",
+  "synonyms": [
+   "Tara gum|common",
+   "E417|e_number",
+   "INS 417|ins_number"
+  ]
+ },
+ {
+  "slug": "gellan-gum",
+  "display_name": "Gellan gum",
+  "kind": "stabiliser",
+  "ins": "418",
+  "e": "E418",
+  "cas": "71010-52-1",
+  "function": "Stabilizer or thickener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3143); CAS and function from FDA Substances Added to Food, matched by exact name (GELLAN GUM).",
+  "synonyms": [
+   "Gellan gum|common",
+   "E418|e_number",
+   "INS 418|ins_number",
+   "71010-52-1|cas"
+  ]
+ },
+ {
+  "slug": "sorbitols",
+  "display_name": "Sorbitols",
+  "kind": "humectant",
+  "ins": "420",
+  "e": "E420",
+  "cas": null,
+  "function": "Food additive, E420 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3144).",
+  "synonyms": [
+   "Sorbitols|common",
+   "E420|e_number",
+   "INS 420|ins_number"
+  ]
+ },
+ {
+  "slug": "mannitol",
+  "display_name": "Mannitol",
+  "kind": "humectant",
+  "ins": "421",
+  "e": "E421",
+  "cas": "69-65-8",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3145); CAS and function from FDA Substances Added to Food, matched by exact name (MANNITOL).",
+  "synonyms": [
+   "Mannitol|common",
+   "E421|e_number",
+   "INS 421|ins_number",
+   "69-65-8|cas"
+  ]
+ },
+ {
+  "slug": "glycerol",
+  "display_name": "Glycerol",
+  "kind": "humectant",
+  "ins": "422",
+  "e": "E422",
+  "cas": "56-81-5",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3146); CAS and function from FDA Substances Added to Food, matched by exact name (GLYCERIN).",
+  "synonyms": [
+   "Glycerol|common",
+   "E422|e_number",
+   "INS 422|ins_number",
+   "56-81-5|cas"
+  ]
+ },
+ {
+  "slug": "octenyl-succinic-acid-modified-gum-arabic",
+  "display_name": "Octenyl succinic acid modified gum arabic",
+  "kind": "stabiliser",
+  "ins": "423",
+  "e": "E423",
+  "cas": null,
+  "function": "Food additive, E423 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3337).",
+  "synonyms": [
+   "Octenyl succinic acid modified gum arabic|common",
+   "E423|e_number",
+   "INS 423|ins_number"
+  ]
+ },
+ {
+  "slug": "konjac",
+  "display_name": "Konjac",
+  "kind": "stabiliser",
+  "ins": "425",
+  "e": "E425",
+  "cas": null,
+  "function": "Food additive, E425 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3147).",
+  "synonyms": [
+   "Konjac|common",
+   "E425|e_number",
+   "INS 425|ins_number"
+  ]
+ },
+ {
+  "slug": "soybean-hemicellulose",
+  "display_name": "Soybean hemicellulose",
+  "kind": "stabiliser",
+  "ins": "426",
+  "e": "E426",
+  "cas": null,
+  "function": "Food additive, E426 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3148).",
+  "synonyms": [
+   "Soybean hemicellulose|common",
+   "E426|e_number",
+   "INS 426|ins_number"
+  ]
+ },
+ {
+  "slug": "cassia-gum",
+  "display_name": "Cassia gum",
+  "kind": "stabiliser",
+  "ins": "427",
+  "e": "E427",
+  "cas": null,
+  "function": "Food additive, E427 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3149).",
+  "synonyms": [
+   "Cassia gum|common",
+   "E427|e_number",
+   "INS 427|ins_number"
+  ]
+ },
+ {
+  "slug": "polyoxyethylene-40-stearate",
+  "display_name": "Polyoxyethylene (40) stearate",
+  "kind": "emulsifier",
+  "ins": "431",
+  "e": "E431",
+  "cas": null,
+  "function": "Food additive, E431 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3150).",
+  "synonyms": [
+   "Polyoxyethylene (40) stearate|common",
+   "E431|e_number",
+   "INS 431|ins_number"
+  ]
+ },
+ {
+  "slug": "polyoxyethylene-sorbitan-monolaurate-polysorbate-20",
+  "display_name": "Polyoxyethylene sorbitan monolaurate (polysorbate 20)",
+  "kind": "emulsifier",
+  "ins": "432",
+  "e": "E432",
+  "cas": null,
+  "function": "Food additive, E432 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3151).",
+  "synonyms": [
+   "Polyoxyethylene sorbitan monolaurate (polysorbate 20)|common",
+   "E432|e_number",
+   "INS 432|ins_number"
+  ]
+ },
+ {
+  "slug": "polyoxyethylene-sorbitan-monopalmitate-polysorbate-40",
+  "display_name": "Polyoxyethylene sorbitan monopalmitate (polysorbate 40)",
+  "kind": "emulsifier",
+  "ins": "434",
+  "e": "E434",
+  "cas": null,
+  "function": "Food additive, E434 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3154).",
+  "synonyms": [
+   "Polyoxyethylene sorbitan monopalmitate (polysorbate 40)|common",
+   "E434|e_number",
+   "INS 434|ins_number"
+  ]
+ },
+ {
+  "slug": "polyoxyethylene-sorbitan-monostearate-polysorbate-60",
+  "display_name": "Polyoxyethylene sorbitan monostearate (polysorbate 60)",
+  "kind": "emulsifier",
+  "ins": "435",
+  "e": "E435",
+  "cas": null,
+  "function": "Food additive, E435 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3155).",
+  "synonyms": [
+   "Polyoxyethylene sorbitan monostearate (polysorbate 60)|common",
+   "E435|e_number",
+   "INS 435|ins_number"
+  ]
+ },
+ {
+  "slug": "polyoxyethylene-sorbitan-tristearate-polysorbate-65",
+  "display_name": "Polyoxyethylene sorbitan tristearate (polysorbate 65)",
+  "kind": "emulsifier",
+  "ins": "436",
+  "e": "E436",
+  "cas": null,
+  "function": "Food additive, E436 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3156).",
+  "synonyms": [
+   "Polyoxyethylene sorbitan tristearate (polysorbate 65)|common",
+   "E436|e_number",
+   "INS 436|ins_number"
+  ]
+ },
+ {
+  "slug": "pectins",
+  "display_name": "Pectins",
+  "kind": "stabiliser",
+  "ins": "440",
+  "e": "E440",
+  "cas": null,
+  "function": "Food additive, E440 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3157).",
+  "synonyms": [
+   "Pectins|common",
+   "E440|e_number",
+   "INS 440|ins_number"
+  ]
+ },
+ {
+  "slug": "ammonium-phosphatides",
+  "display_name": "Ammonium phosphatides",
+  "kind": "emulsifier",
+  "ins": "442",
+  "e": "E442",
+  "cas": null,
+  "function": "Food additive, E442 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3158).",
+  "synonyms": [
+   "Ammonium phosphatides|common",
+   "E442|e_number",
+   "INS 442|ins_number"
+  ]
+ },
+ {
+  "slug": "sucrose-acetate-isobutyrate",
+  "display_name": "Sucrose acetate isobutyrate",
+  "kind": "emulsifier",
+  "ins": "444",
+  "e": "E444",
+  "cas": "126-13-6",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3159); CAS and function from FDA Substances Added to Food, matched by exact name (SUCROSE ACETATE ISOBUTYRATE).",
+  "synonyms": [
+   "Sucrose acetate isobutyrate|common",
+   "E444|e_number",
+   "INS 444|ins_number",
+   "126-13-6|cas"
+  ]
+ },
+ {
+  "slug": "glycerol-esters-of-wood-rosins",
+  "display_name": "Glycerol esters of wood rosins",
+  "kind": "emulsifier",
+  "ins": "445",
+  "e": "E445",
+  "cas": null,
+  "function": "Food additive, E445 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3160).",
+  "synonyms": [
+   "Glycerol esters of wood rosins|common",
+   "E445|e_number",
+   "INS 445|ins_number"
+  ]
+ },
+ {
+  "slug": "magnesium-dihydrogen-diphosphate",
+  "display_name": "Magnesium dihydrogen diphosphate",
+  "kind": "stabiliser",
+  "ins": "450ix",
+  "e": "E450ix",
+  "cas": null,
+  "function": "Food additive, E450ix in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3360).",
+  "synonyms": [
+   "Magnesium dihydrogen diphosphate|common",
+   "E450ix|e_number",
+   "E450i(x)|e_number",
+   "INS 450ix|ins_number",
+   "INS 450i(x)|ins_number"
+  ]
+ },
+ {
+  "slug": "polyphosphates",
+  "display_name": "Polyphosphates",
+  "kind": "stabiliser",
+  "ins": "452",
+  "e": "E452",
+  "cas": null,
+  "function": "Food additive, E452 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3163).",
+  "synonyms": [
+   "Polyphosphates|common",
+   "E452|e_number",
+   "INS 452|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-polyaspartate",
+  "display_name": "Potassium Polyaspartate",
+  "kind": "stabiliser",
+  "ins": "456",
+  "e": "E456",
+  "cas": null,
+  "function": "Food additive, E456 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3366).",
+  "synonyms": [
+   "Potassium Polyaspartate|common",
+   "E456|e_number",
+   "INS 456|ins_number"
+  ]
+ },
+ {
+  "slug": "beta-cyclodextrin",
+  "display_name": "Beta-cyclodextrin",
+  "kind": "stabiliser",
+  "ins": "459",
+  "e": "E459",
+  "cas": "7585-39-9",
+  "function": "Flavoring agent or adjuvant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3164); CAS and function from FDA Substances Added to Food, matched by exact name (BETA-CYCLODEXTRIN).",
+  "synonyms": [
+   "Beta-cyclodextrin|common",
+   "E459|e_number",
+   "INS 459|ins_number",
+   "7585-39-9|cas"
+  ]
+ },
+ {
+  "slug": "cellulose",
+  "display_name": "Cellulose",
+  "kind": "stabiliser",
+  "ins": "460",
+  "e": "E460",
+  "cas": null,
+  "function": "Food additive, E460 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-16781).",
+  "synonyms": [
+   "Cellulose|common",
+   "E460|e_number",
+   "INS 460|ins_number"
+  ]
+ },
+ {
+  "slug": "microcrystalline-cellulose-cellulose-gel",
+  "display_name": "Microcrystalline cellulose, Cellulose gel",
+  "kind": "stabiliser",
+  "ins": "460i",
+  "e": "E460i",
+  "cas": null,
+  "function": "Food additive, E460i in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3165).",
+  "synonyms": [
+   "Microcrystalline cellulose, Cellulose gel|common",
+   "E460i|e_number",
+   "E460(i)|e_number",
+   "INS 460i|ins_number",
+   "INS 460(i)|ins_number"
+  ]
+ },
+ {
+  "slug": "powdered-cellulose",
+  "display_name": "Powdered cellulose",
+  "kind": "stabiliser",
+  "ins": "460ii",
+  "e": "E460ii",
+  "cas": null,
+  "function": "Food additive, E460ii in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3365).",
+  "synonyms": [
+   "Powdered cellulose|common",
+   "E460ii|e_number",
+   "E460i(i)|e_number",
+   "INS 460ii|ins_number",
+   "INS 460i(i)|ins_number"
+  ]
+ },
+ {
+  "slug": "methyl-cellulose",
+  "display_name": "Methyl cellulose",
+  "kind": "stabiliser",
+  "ins": "461",
+  "e": "E461",
+  "cas": "9004-67-5",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3166); CAS and function from FDA Substances Added to Food, matched by exact name (CELLULOSE, METHYL).",
+  "synonyms": [
+   "Methyl cellulose|common",
+   "E461|e_number",
+   "INS 461|ins_number",
+   "9004-67-5|cas"
+  ]
+ },
+ {
+  "slug": "ethyl-cellulose",
+  "display_name": "Ethyl cellulose",
+  "kind": "stabiliser",
+  "ins": "462",
+  "e": "E462",
+  "cas": "9004-57-3",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3167); CAS and function from FDA Substances Added to Food, matched by exact name (ETHYL CELLULOSE).",
+  "synonyms": [
+   "Ethyl cellulose|common",
+   "E462|e_number",
+   "INS 462|ins_number",
+   "9004-57-3|cas"
+  ]
+ },
+ {
+  "slug": "hydroxypropyl-cellulose",
+  "display_name": "Hydroxypropyl cellulose",
+  "kind": "stabiliser",
+  "ins": "463",
+  "e": "E463",
+  "cas": "9004-64-2",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3168); CAS and function from FDA Substances Added to Food, matched by exact name (HYDROXYPROPYL CELLULOSE).",
+  "synonyms": [
+   "Hydroxypropyl cellulose|common",
+   "E463|e_number",
+   "INS 463|ins_number",
+   "9004-64-2|cas"
+  ]
+ },
+ {
+  "slug": "low-substituted-hydroxypropyl-cellulose-l-hpc",
+  "display_name": "Low-substituted hydroxypropyl cellulose (L-HPC)",
+  "kind": "stabiliser",
+  "ins": "463a",
+  "e": "E463a",
+  "cas": null,
+  "function": "Food additive, E463a in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3374).",
+  "synonyms": [
+   "Low-substituted hydroxypropyl cellulose (L-HPC)|common",
+   "E463a|e_number",
+   "INS 463a|ins_number"
+  ]
+ },
+ {
+  "slug": "hydroxypropyl-methyl-cellulose",
+  "display_name": "Hydroxypropyl methyl cellulose",
+  "kind": "stabiliser",
+  "ins": "464",
+  "e": "E464",
+  "cas": "9004-65-3",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3169); CAS and function from FDA Substances Added to Food, matched by exact name (HYDROXYPROPYL METHYLCELLULOSE).",
+  "synonyms": [
+   "Hydroxypropyl methyl cellulose|common",
+   "E464|e_number",
+   "INS 464|ins_number",
+   "9004-65-3|cas"
+  ]
+ },
+ {
+  "slug": "ethyl-methyl-cellulose",
+  "display_name": "Ethyl methyl cellulose",
+  "kind": "stabiliser",
+  "ins": "465",
+  "e": "E465",
+  "cas": "9004-59-5",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3170); CAS and function from FDA Substances Added to Food, matched by exact name (CELLULOSE, METHYL ETHYL).",
+  "synonyms": [
+   "Ethyl methyl cellulose|common",
+   "E465|e_number",
+   "INS 465|ins_number",
+   "9004-59-5|cas"
+  ]
+ },
+ {
+  "slug": "cross-linked-sodium-carboxy-methyl-cellulose",
+  "display_name": "Cross-linked sodium carboxy methyl cellulose",
+  "kind": "stabiliser",
+  "ins": "468",
+  "e": "E468",
+  "cas": null,
+  "function": "Food additive, E468 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3172).",
+  "synonyms": [
+   "Cross-linked sodium carboxy methyl cellulose|common",
+   "E468|e_number",
+   "INS 468|ins_number"
+  ]
+ },
+ {
+  "slug": "enzymatically-hydrolysed-carboxy-methyl-cellulose",
+  "display_name": "Enzymatically hydrolysed carboxy methyl cellulose",
+  "kind": "stabiliser",
+  "ins": "469",
+  "e": "E469",
+  "cas": null,
+  "function": "Food additive, E469 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3173).",
+  "synonyms": [
+   "Enzymatically hydrolysed carboxy methyl cellulose|common",
+   "E469|e_number",
+   "INS 469|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-potassium-and-calcium-salts-of-fatty-acids",
+  "display_name": "Sodium, potassium and calcium salts of fatty acids",
+  "kind": "emulsifier",
+  "ins": "470a",
+  "e": "E470a",
+  "cas": null,
+  "function": "Food additive, E470a in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3174).",
+  "synonyms": [
+   "Sodium, potassium and calcium salts of fatty acids|common",
+   "E470a|e_number",
+   "INS 470a|ins_number"
+  ]
+ },
+ {
+  "slug": "magnesium-salts-of-fatty-acids",
+  "display_name": "Magnesium salts of fatty acids",
+  "kind": "emulsifier",
+  "ins": "470b",
+  "e": "E470b",
+  "cas": "977093-38-1",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3175); CAS and function from FDA Substances Added to Food, matched by exact name (MAGNESIUM SALTS OF FATTY ACIDS).",
+  "synonyms": [
+   "Magnesium salts of fatty acids|common",
+   "E470b|e_number",
+   "INS 470b|ins_number",
+   "977093-38-1|cas"
+  ]
+ },
+ {
+  "slug": "acetic-acid-esters-of-mono-and-diglycerides-of-fatty-acids",
+  "display_name": "Acetic acid esters of mono- and diglycerides of fatty acids",
+  "kind": "emulsifier",
+  "ins": "472a",
+  "e": "E472a",
+  "cas": null,
+  "function": "Food additive, E472a in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3177).",
+  "synonyms": [
+   "Acetic acid esters of mono- and diglycerides of fatty acids|common",
+   "E472a|e_number",
+   "INS 472a|ins_number"
+  ]
+ },
+ {
+  "slug": "lactic-acid-esters-of-mono-and-diglycerides-of-fatty-acids",
+  "display_name": "Lactic acid esters of mono- and diglycerides of fatty acids",
+  "kind": "emulsifier",
+  "ins": "472b",
+  "e": "E472b",
+  "cas": null,
+  "function": "Food additive, E472b in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3178).",
+  "synonyms": [
+   "Lactic acid esters of mono- and diglycerides of fatty acids|common",
+   "E472b|e_number",
+   "INS 472b|ins_number"
+  ]
+ },
+ {
+  "slug": "citric-acid-esters-of-mono-and-diglycerides-of-fatty-acids",
+  "display_name": "Citric acid esters of mono- and diglycerides of fatty acids",
+  "kind": "emulsifier",
+  "ins": "472c",
+  "e": "E472c",
+  "cas": null,
+  "function": "Food additive, E472c in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3179).",
+  "synonyms": [
+   "Citric acid esters of mono- and diglycerides of fatty acids|common",
+   "E472c|e_number",
+   "INS 472c|ins_number"
+  ]
+ },
+ {
+  "slug": "tartaric-acid-esters-of-mono-and-diglycerides-of-fatty-acids",
+  "display_name": "Tartaric acid esters of mono- and diglycerides of fatty acids",
+  "kind": "emulsifier",
+  "ins": "472d",
+  "e": "E472d",
+  "cas": null,
+  "function": "Food additive, E472d in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3180).",
+  "synonyms": [
+   "Tartaric acid esters of mono- and diglycerides of fatty acids|common",
+   "E472d|e_number",
+   "INS 472d|ins_number"
+  ]
+ },
+ {
+  "slug": "mono-and-diacetyl-tartaric-acid-esters-of-mono-and-diglyceri",
+  "display_name": "Mono and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids",
+  "kind": "emulsifier",
+  "ins": "472e",
+  "e": "E472e",
+  "cas": null,
+  "function": "Food additive, E472e in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3181).",
+  "synonyms": [
+   "Mono and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids|common",
+   "E472e|e_number",
+   "INS 472e|ins_number"
+  ]
+ },
+ {
+  "slug": "mixed-acetic-and-tartaric-acid-esters-of-mono-and-diglycerid",
+  "display_name": "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",
+  "kind": "emulsifier",
+  "ins": "472f",
+  "e": "E472f",
+  "cas": null,
+  "function": "Food additive, E472f in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3182).",
+  "synonyms": [
+   "Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids|common",
+   "E472f|e_number",
+   "INS 472f|ins_number"
+  ]
+ },
+ {
+  "slug": "sucrose-esters-of-fatty-acids",
+  "display_name": "Sucrose esters of fatty acids",
+  "kind": "emulsifier",
+  "ins": "473",
+  "e": "E473",
+  "cas": null,
+  "function": "Food additive, E473 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3183).",
+  "synonyms": [
+   "Sucrose esters of fatty acids|common",
+   "E473|e_number",
+   "INS 473|ins_number"
+  ]
+ },
+ {
+  "slug": "sucroglycerides",
+  "display_name": "Sucroglycerides",
+  "kind": "emulsifier",
+  "ins": "474",
+  "e": "E474",
+  "cas": null,
+  "function": "Food additive, E474 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3185).",
+  "synonyms": [
+   "Sucroglycerides|common",
+   "E474|e_number",
+   "INS 474|ins_number"
+  ]
+ },
+ {
+  "slug": "polyglycerol-esters-of-fatty-acids",
+  "display_name": "Polyglycerol esters of fatty acids",
+  "kind": "emulsifier",
+  "ins": "475",
+  "e": "E475",
+  "cas": "977050-69-3",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3186); CAS and function from FDA Substances Added to Food, matched by exact name (POLYGLYCEROL ESTERS OF FATTY ACIDS).",
+  "synonyms": [
+   "Polyglycerol esters of fatty acids|common",
+   "E475|e_number",
+   "INS 475|ins_number",
+   "977050-69-3|cas"
+  ]
+ },
+ {
+  "slug": "polyglycerol-polyricinoleate",
+  "display_name": "Polyglycerol polyricinoleate",
+  "kind": "emulsifier",
+  "ins": "476",
+  "e": "E476",
+  "cas": null,
+  "function": "Food additive, E476 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3187).",
+  "synonyms": [
+   "Polyglycerol polyricinoleate|common",
+   "E476|e_number",
+   "INS 476|ins_number"
+  ]
+ },
+ {
+  "slug": "propane-1-2-diol-esters-of-fatty-acids",
+  "display_name": "Propane-1,2-diol esters of fatty acids",
+  "kind": "emulsifier",
+  "ins": "477",
+  "e": "E477",
+  "cas": null,
+  "function": "Food additive, E477 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3188).",
+  "synonyms": [
+   "Propane-1,2-diol esters of fatty acids|common",
+   "E477|e_number",
+   "INS 477|ins_number"
+  ]
+ },
+ {
+  "slug": "thermally-oxidized-soya-bean-oil-interacted-with-mono-and-di",
+  "display_name": "Thermally oxidized soya bean oil interacted with mono and diglycerides of fatty acids",
+  "kind": "emulsifier",
+  "ins": "479b",
+  "e": "E479b",
+  "cas": null,
+  "function": "Food additive, E479b in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3189).",
+  "synonyms": [
+   "Thermally oxidized soya bean oil interacted with mono and diglycerides of fatty acids|common",
+   "E479b|e_number",
+   "INS 479b|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-stearoyl-2-lactylate",
+  "display_name": "Calcium stearoyl-2-lactylate",
+  "kind": "emulsifier",
+  "ins": "482",
+  "e": "E482",
+  "cas": "5793-94-2",
+  "function": "Dough strengthener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3192); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM STEAROYL-2-LACTYLATE).",
+  "synonyms": [
+   "Calcium stearoyl-2-lactylate|common",
+   "E482|e_number",
+   "INS 482|ins_number",
+   "5793-94-2|cas"
+  ]
+ },
+ {
+  "slug": "stearyl-tartrate",
+  "display_name": "Stearyl tartrate",
+  "kind": "emulsifier",
+  "ins": "483",
+  "e": "E483",
+  "cas": null,
+  "function": "Food additive, E483 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3193).",
+  "synonyms": [
+   "Stearyl tartrate|common",
+   "E483|e_number",
+   "INS 483|ins_number"
+  ]
+ },
+ {
+  "slug": "sorbitan-monostearate",
+  "display_name": "Sorbitan monostearate",
+  "kind": "emulsifier",
+  "ins": "491",
+  "e": "E491",
+  "cas": "1338-41-6",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3194); CAS and function from FDA Substances Added to Food, matched by exact name (SORBITAN MONOSTEARATE).",
+  "synonyms": [
+   "Sorbitan monostearate|common",
+   "E491|e_number",
+   "INS 491|ins_number",
+   "1338-41-6|cas"
+  ]
+ },
+ {
+  "slug": "sorbitan-tristearate",
+  "display_name": "Sorbitan tristearate",
+  "kind": "emulsifier",
+  "ins": "492",
+  "e": "E492",
+  "cas": null,
+  "function": "Food additive, E492 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3196).",
+  "synonyms": [
+   "Sorbitan tristearate|common",
+   "E492|e_number",
+   "INS 492|ins_number"
+  ]
+ },
+ {
+  "slug": "sorbitan-monolaurate",
+  "display_name": "Sorbitan monolaurate",
+  "kind": "emulsifier",
+  "ins": "493",
+  "e": "E493",
+  "cas": null,
+  "function": "Food additive, E493 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3197).",
+  "synonyms": [
+   "Sorbitan monolaurate|common",
+   "E493|e_number",
+   "INS 493|ins_number"
+  ]
+ },
+ {
+  "slug": "sorbitan-monooleate",
+  "display_name": "Sorbitan monooleate",
+  "kind": "emulsifier",
+  "ins": "494",
+  "e": "E494",
+  "cas": "1338-43-8",
+  "function": "Emulsifier or emulsifier salt.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3198); CAS and function from FDA Substances Added to Food, matched by exact name (SORBITAN MONOOLEATE).",
+  "synonyms": [
+   "Sorbitan monooleate|common",
+   "E494|e_number",
+   "INS 494|ins_number",
+   "1338-43-8|cas"
+  ]
+ },
+ {
+  "slug": "sorbitan-monopalmitate",
+  "display_name": "Sorbitan monopalmitate",
+  "kind": "emulsifier",
+  "ins": "495",
+  "e": "E495",
+  "cas": null,
+  "function": "Food additive, E495 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3199).",
+  "synonyms": [
+   "Sorbitan monopalmitate|common",
+   "E495|e_number",
+   "INS 495|ins_number"
+  ]
+ },
+ {
+  "slug": "stigmasterol-rich-plant-sterols",
+  "display_name": "Stigmasterol-rich plant sterols",
+  "kind": "emulsifier",
+  "ins": "499",
+  "e": "E499",
+  "cas": null,
+  "function": "Food additive, E499 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3342).",
+  "synonyms": [
+   "Stigmasterol-rich plant sterols|common",
+   "E499|e_number",
+   "INS 499|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-carbonates",
+  "display_name": "Sodium carbonates",
+  "kind": "acidity_regulator",
+  "ins": "500",
+  "e": "E500",
+  "cas": null,
+  "function": "Food additive, E500 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3200).",
+  "synonyms": [
+   "Sodium carbonates|common",
+   "E500|e_number",
+   "INS 500|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-carbonate",
+  "display_name": "Potassium carbonate",
+  "kind": "acidity_regulator",
+  "ins": "501",
+  "e": "E501",
+  "cas": "584-08-7",
+  "function": "Flavoring agent or adjuvant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3202); CAS and function from FDA Substances Added to Food, matched by exact name (POTASSIUM CARBONATE).",
+  "synonyms": [
+   "Potassium carbonate|common",
+   "E501|e_number",
+   "INS 501|ins_number",
+   "584-08-7|cas"
+  ]
+ },
+ {
+  "slug": "potassium-hydrogen-carbonate",
+  "display_name": "Potassium hydrogen carbonate",
+  "kind": "acidity_regulator",
+  "ins": "501ii",
+  "e": "E501ii",
+  "cas": "298-14-6",
+  "function": "Formulation aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3362); CAS and function from FDA Substances Added to Food, matched by exact name (POTASSIUM BICARBONATE).",
+  "synonyms": [
+   "Potassium hydrogen carbonate|common",
+   "E501ii|e_number",
+   "E501i(i)|e_number",
+   "INS 501ii|ins_number",
+   "INS 501i(i)|ins_number",
+   "298-14-6|cas"
+  ]
+ },
+ {
+  "slug": "ammonium-carbonates",
+  "display_name": "Ammonium carbonates",
+  "kind": "acidity_regulator",
+  "ins": "503",
+  "e": "E503",
+  "cas": null,
+  "function": "Food additive, E503 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3203).",
+  "synonyms": [
+   "Ammonium carbonates|common",
+   "E503|e_number",
+   "INS 503|ins_number"
+  ]
+ },
+ {
+  "slug": "magnesium-carbonates",
+  "display_name": "Magnesium carbonates",
+  "kind": "acidity_regulator",
+  "ins": "504",
+  "e": "E504",
+  "cas": null,
+  "function": "Food additive, E504 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3204).",
+  "synonyms": [
+   "Magnesium carbonates|common",
+   "E504|e_number",
+   "INS 504|ins_number"
+  ]
+ },
+ {
+  "slug": "hydrochloric-acid",
+  "display_name": "Hydrochloric acid",
+  "kind": "acidity_regulator",
+  "ins": "507",
+  "e": "E507",
+  "cas": "7647-01-0",
+  "function": "Formulation aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3205); CAS and function from FDA Substances Added to Food, matched by exact name (HYDROCHLORIC ACID).",
+  "synonyms": [
+   "Hydrochloric acid|common",
+   "E507|e_number",
+   "INS 507|ins_number",
+   "7647-01-0|cas"
+  ]
+ },
+ {
+  "slug": "potassium-chloride",
+  "display_name": "Potassium chloride",
+  "kind": "acidity_regulator",
+  "ins": "508",
+  "e": "E508",
+  "cas": "7447-40-7",
+  "function": "Enzyme.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3206); CAS and function from FDA Substances Added to Food, matched by exact name (POTASSIUM CHLORIDE).",
+  "synonyms": [
+   "Potassium chloride|common",
+   "E508|e_number",
+   "INS 508|ins_number",
+   "7447-40-7|cas"
+  ]
+ },
+ {
+  "slug": "calcium-chloride",
+  "display_name": "Calcium chloride",
+  "kind": "acidity_regulator",
+  "ins": "509",
+  "e": "E509",
+  "cas": "10035-04-8",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3207); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM CHLORIDE).",
+  "synonyms": [
+   "Calcium chloride|common",
+   "E509|e_number",
+   "INS 509|ins_number",
+   "10035-04-8|cas"
+  ]
+ },
+ {
+  "slug": "magnesium-chloride",
+  "display_name": "Magnesium chloride",
+  "kind": "acidity_regulator",
+  "ins": "511",
+  "e": "E511",
+  "cas": "7786-30-3",
+  "function": "Color or coloring adjunct.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3208); CAS and function from FDA Substances Added to Food, matched by exact name (MAGNESIUM CHLORIDE).",
+  "synonyms": [
+   "Magnesium chloride|common",
+   "E511|e_number",
+   "INS 511|ins_number",
+   "7786-30-3|cas"
+  ]
+ },
+ {
+  "slug": "stannous-chloride",
+  "display_name": "Stannous chloride",
+  "kind": "acidity_regulator",
+  "ins": "512",
+  "e": "E512",
+  "cas": "7772-99-8",
+  "function": "Antioxidant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3209); CAS and function from FDA Substances Added to Food, matched by exact name (STANNOUS CHLORIDE).",
+  "synonyms": [
+   "Stannous chloride|common",
+   "E512|e_number",
+   "INS 512|ins_number",
+   "7772-99-8|cas"
+  ]
+ },
+ {
+  "slug": "sulphuric-acid",
+  "display_name": "Sulphuric acid",
+  "kind": "acidity_regulator",
+  "ins": "513",
+  "e": "E513",
+  "cas": null,
+  "function": "Food additive, E513 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3210).",
+  "synonyms": [
+   "Sulphuric acid|common",
+   "E513|e_number",
+   "INS 513|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-sulphates",
+  "display_name": "Sodium sulphates",
+  "kind": "acidity_regulator",
+  "ins": "514",
+  "e": "E514",
+  "cas": null,
+  "function": "Food additive, E514 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3211).",
+  "synonyms": [
+   "Sodium sulphates|common",
+   "E514|e_number",
+   "INS 514|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-sulphates",
+  "display_name": "Potassium sulphates",
+  "kind": "acidity_regulator",
+  "ins": "515",
+  "e": "E515",
+  "cas": null,
+  "function": "Food additive, E515 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3212).",
+  "synonyms": [
+   "Potassium sulphates|common",
+   "E515|e_number",
+   "INS 515|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-sulphate",
+  "display_name": "Calcium sulphate",
+  "kind": "acidity_regulator",
+  "ins": "516",
+  "e": "E516",
+  "cas": null,
+  "function": "Food additive, E516 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3213).",
+  "synonyms": [
+   "Calcium sulphate|common",
+   "E516|e_number",
+   "INS 516|ins_number"
+  ]
+ },
+ {
+  "slug": "ammonium-sulphate",
+  "display_name": "Ammonium sulphate",
+  "kind": "acidity_regulator",
+  "ins": "517",
+  "e": "E517",
+  "cas": null,
+  "function": "Food additive, E517 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3214).",
+  "synonyms": [
+   "Ammonium sulphate|common",
+   "E517|e_number",
+   "INS 517|ins_number"
+  ]
+ },
+ {
+  "slug": "aluminium-sulphate",
+  "display_name": "Aluminium sulphate",
+  "kind": "acidity_regulator",
+  "ins": "520",
+  "e": "E520",
+  "cas": null,
+  "function": "Food additive, E520 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3215).",
+  "synonyms": [
+   "Aluminium sulphate|common",
+   "E520|e_number",
+   "INS 520|ins_number"
+  ]
+ },
+ {
+  "slug": "aluminium-sodium-sulphate",
+  "display_name": "Aluminium sodium sulphate",
+  "kind": "acidity_regulator",
+  "ins": "521",
+  "e": "E521",
+  "cas": null,
+  "function": "Food additive, E521 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3217).",
+  "synonyms": [
+   "Aluminium sodium sulphate|common",
+   "E521|e_number",
+   "INS 521|ins_number"
+  ]
+ },
+ {
+  "slug": "aluminium-potassium-sulphate",
+  "display_name": "Aluminium potassium sulphate",
+  "kind": "acidity_regulator",
+  "ins": "522",
+  "e": "E522",
+  "cas": null,
+  "function": "Food additive, E522 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3218).",
+  "synonyms": [
+   "Aluminium potassium sulphate|common",
+   "E522|e_number",
+   "INS 522|ins_number"
+  ]
+ },
+ {
+  "slug": "aluminium-ammonium-sulphate",
+  "display_name": "Aluminium ammonium sulphate",
+  "kind": "acidity_regulator",
+  "ins": "523",
+  "e": "E523",
+  "cas": null,
+  "function": "Food additive, E523 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3219).",
+  "synonyms": [
+   "Aluminium ammonium sulphate|common",
+   "E523|e_number",
+   "INS 523|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-hydroxide",
+  "display_name": "Sodium hydroxide",
+  "kind": "acidity_regulator",
+  "ins": "524",
+  "e": "E524",
+  "cas": "1310-73-2",
+  "function": "Color or coloring adjunct.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3220); CAS and function from FDA Substances Added to Food, matched by exact name (SODIUM HYDROXIDE).",
+  "synonyms": [
+   "Sodium hydroxide|common",
+   "E524|e_number",
+   "INS 524|ins_number",
+   "1310-73-2|cas"
+  ]
+ },
+ {
+  "slug": "potassium-hydroxide",
+  "display_name": "Potassium hydroxide",
+  "kind": "acidity_regulator",
+  "ins": "525",
+  "e": "E525",
+  "cas": "1310-58-3",
+  "function": "Formulation aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3222); CAS and function from FDA Substances Added to Food, matched by exact name (POTASSIUM HYDROXIDE).",
+  "synonyms": [
+   "Potassium hydroxide|common",
+   "E525|e_number",
+   "INS 525|ins_number",
+   "1310-58-3|cas"
+  ]
+ },
+ {
+  "slug": "calcium-hydroxide",
+  "display_name": "Calcium hydroxide",
+  "kind": "acidity_regulator",
+  "ins": "526",
+  "e": "E526",
+  "cas": "1305-62-0",
+  "function": "Firming agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3223); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM HYDROXIDE).",
+  "synonyms": [
+   "Calcium hydroxide|common",
+   "E526|e_number",
+   "INS 526|ins_number",
+   "1305-62-0|cas"
+  ]
+ },
+ {
+  "slug": "ammonium-hydroxide",
+  "display_name": "Ammonium hydroxide",
+  "kind": "acidity_regulator",
+  "ins": "527",
+  "e": "E527",
+  "cas": "1336-21-6",
+  "function": "Leavening agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3224); CAS and function from FDA Substances Added to Food, matched by exact name (AMMONIUM HYDROXIDE).",
+  "synonyms": [
+   "Ammonium hydroxide|common",
+   "E527|e_number",
+   "INS 527|ins_number",
+   "1336-21-6|cas"
+  ]
+ },
+ {
+  "slug": "magnesium-hydroxide",
+  "display_name": "Magnesium hydroxide",
+  "kind": "acidity_regulator",
+  "ins": "528",
+  "e": "E528",
+  "cas": "1309-42-8",
+  "function": "Color or coloring adjunct.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3225); CAS and function from FDA Substances Added to Food, matched by exact name (MAGNESIUM HYDROXIDE).",
+  "synonyms": [
+   "Magnesium hydroxide|common",
+   "E528|e_number",
+   "INS 528|ins_number",
+   "1309-42-8|cas"
+  ]
+ },
+ {
+  "slug": "calcium-oxide",
+  "display_name": "Calcium oxide",
+  "kind": "acidity_regulator",
+  "ins": "529",
+  "e": "E529",
+  "cas": "1305-78-8",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3226); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM OXIDE).",
+  "synonyms": [
+   "Calcium oxide|common",
+   "E529|e_number",
+   "INS 529|ins_number",
+   "1305-78-8|cas"
+  ]
+ },
+ {
+  "slug": "magnesium-oxide",
+  "display_name": "Magnesium oxide",
+  "kind": "anticaking",
+  "ins": "530",
+  "e": "E530",
+  "cas": "1309-48-4",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3227); CAS and function from FDA Substances Added to Food, matched by exact name (MAGNESIUM OXIDE).",
+  "synonyms": [
+   "Magnesium oxide|common",
+   "E530|e_number",
+   "INS 530|ins_number",
+   "1309-48-4|cas"
+  ]
+ },
+ {
+  "slug": "iron-iii-meso-tartrate",
+  "display_name": "Iron (III) meso-Tartrate",
+  "kind": "anticaking",
+  "ins": "534",
+  "e": "E534",
+  "cas": null,
+  "function": "Food additive, E534 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3340).",
+  "synonyms": [
+   "Iron (III) meso-Tartrate|common",
+   "E534|e_number",
+   "INS 534|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-ferrocyanide",
+  "display_name": "Sodium ferrocyanide",
+  "kind": "anticaking",
+  "ins": "535",
+  "e": "E535",
+  "cas": null,
+  "function": "Food additive, E535 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3228).",
+  "synonyms": [
+   "Sodium ferrocyanide|common",
+   "E535|e_number",
+   "INS 535|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-ferrocyanide",
+  "display_name": "Potassium ferrocyanide",
+  "kind": "anticaking",
+  "ins": "536",
+  "e": "E536",
+  "cas": null,
+  "function": "Food additive, E536 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3230).",
+  "synonyms": [
+   "Potassium ferrocyanide|common",
+   "E536|e_number",
+   "INS 536|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-ferrocyanide",
+  "display_name": "Calcium ferrocyanide",
+  "kind": "anticaking",
+  "ins": "538",
+  "e": "E538",
+  "cas": null,
+  "function": "Food additive, E538 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3231).",
+  "synonyms": [
+   "Calcium ferrocyanide|common",
+   "E538|e_number",
+   "INS 538|ins_number"
+  ]
+ },
+ {
+  "slug": "sodium-aluminium-phosphate-acidic",
+  "display_name": "Sodium aluminium phosphate acidic",
+  "kind": "anticaking",
+  "ins": "541",
+  "e": "E541",
+  "cas": null,
+  "function": "Food additive, E541 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3232).",
+  "synonyms": [
+   "Sodium aluminium phosphate acidic|common",
+   "E541|e_number",
+   "INS 541|ins_number"
+  ]
+ },
+ {
+  "slug": "silicon-dioxide",
+  "display_name": "Silicon dioxide",
+  "kind": "anticaking",
+  "ins": "551",
+  "e": "E551",
+  "cas": "7631-86-9",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3233); CAS and function from FDA Substances Added to Food, matched by exact name (SILICON DIOXIDE).",
+  "synonyms": [
+   "Silicon dioxide|common",
+   "E551|e_number",
+   "INS 551|ins_number",
+   "7631-86-9|cas"
+  ]
+ },
+ {
+  "slug": "calcium-silicate",
+  "display_name": "Calcium silicate",
+  "kind": "anticaking",
+  "ins": "552",
+  "e": "E552",
+  "cas": "1344-95-2",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3235); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM SILICATE).",
+  "synonyms": [
+   "Calcium silicate|common",
+   "E552|e_number",
+   "INS 552|ins_number",
+   "1344-95-2|cas"
+  ]
+ },
+ {
+  "slug": "magnesium-silicate",
+  "display_name": "Magnesium silicate",
+  "kind": "anticaking",
+  "ins": "553a",
+  "e": "E553a",
+  "cas": "1343-88-0",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3236); CAS and function from FDA Substances Added to Food, matched by exact name (MAGNESIUM SILICATE).",
+  "synonyms": [
+   "Magnesium silicate|common",
+   "E553a|e_number",
+   "INS 553a|ins_number",
+   "1343-88-0|cas"
+  ]
+ },
+ {
+  "slug": "talc",
+  "display_name": "Talc",
+  "kind": "anticaking",
+  "ins": "553b",
+  "e": "E553b",
+  "cas": "14807-96-6",
+  "function": "Formulation aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3237); CAS and function from FDA Substances Added to Food, matched by exact name (TALC).",
+  "synonyms": [
+   "Talc|common",
+   "E553b|e_number",
+   "INS 553b|ins_number",
+   "14807-96-6|cas"
+  ]
+ },
+ {
+  "slug": "sodium-aluminium-silicate",
+  "display_name": "Sodium aluminium silicate",
+  "kind": "anticaking",
+  "ins": "554",
+  "e": "E554",
+  "cas": null,
+  "function": "Food additive, E554 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3238).",
+  "synonyms": [
+   "Sodium aluminium silicate|common",
+   "E554|e_number",
+   "INS 554|ins_number"
+  ]
+ },
+ {
+  "slug": "potassium-aluminium-silicate",
+  "display_name": "Potassium aluminium silicate",
+  "kind": "anticaking",
+  "ins": "555",
+  "e": "E555",
+  "cas": null,
+  "function": "Food additive, E555 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3239).",
+  "synonyms": [
+   "Potassium aluminium silicate|common",
+   "E555|e_number",
+   "INS 555|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-aluminium-silicate",
+  "display_name": "Calcium aluminium silicate",
+  "kind": "anticaking",
+  "ins": "556",
+  "e": "E556",
+  "cas": null,
+  "function": "Food additive, E556 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3240).",
+  "synonyms": [
+   "Calcium aluminium silicate|common",
+   "E556|e_number",
+   "INS 556|ins_number"
+  ]
+ },
+ {
+  "slug": "bentonite",
+  "display_name": "Bentonite",
+  "kind": "anticaking",
+  "ins": "558",
+  "e": "E558",
+  "cas": "1302-78-9",
+  "function": "Dough strengthener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3241); CAS and function from FDA Substances Added to Food, matched by exact name (BENTONITE).",
+  "synonyms": [
+   "Bentonite|common",
+   "E558|e_number",
+   "INS 558|ins_number",
+   "1302-78-9|cas"
+  ]
+ },
+ {
+  "slug": "aluminium-silicate-kaolin",
+  "display_name": "Aluminium silicate (Kaolin)",
+  "kind": "anticaking",
+  "ins": "559",
+  "e": "E559",
+  "cas": null,
+  "function": "Food additive, E559 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3242).",
+  "synonyms": [
+   "Aluminium silicate (Kaolin)|common",
+   "E559|e_number",
+   "INS 559|ins_number"
+  ]
+ },
+ {
+  "slug": "fatty-acids",
+  "display_name": "Fatty acids",
+  "kind": "anticaking",
+  "ins": "570",
+  "e": "E570",
+  "cas": "67254-79-9",
+  "function": "Formulation aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3243); CAS and function from FDA Substances Added to Food, matched by exact name (FATTY ACIDS).",
+  "synonyms": [
+   "Fatty acids|common",
+   "E570|e_number",
+   "INS 570|ins_number",
+   "67254-79-9|cas"
+  ]
+ },
+ {
+  "slug": "gluconic-acid",
+  "display_name": "Gluconic acid",
+  "kind": "anticaking",
+  "ins": "574",
+  "e": "E574",
+  "cas": null,
+  "function": "Food additive, E574 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3244).",
+  "synonyms": [
+   "Gluconic acid|common",
+   "E574|e_number",
+   "INS 574|ins_number"
+  ]
+ },
+ {
+  "slug": "glucono-delta-lactone",
+  "display_name": "Glucono-delta-lactone",
+  "kind": "anticaking",
+  "ins": "575",
+  "e": "E575",
+  "cas": "90-80-2",
+  "function": "Curing or pickling agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3245); CAS and function from FDA Substances Added to Food, matched by exact name (GLUCONO-DELTA LACTONE).",
+  "synonyms": [
+   "Glucono-delta-lactone|common",
+   "E575|e_number",
+   "INS 575|ins_number",
+   "90-80-2|cas"
+  ]
+ },
+ {
+  "slug": "sodium-gluconate",
+  "display_name": "Sodium gluconate",
+  "kind": "anticaking",
+  "ins": "576",
+  "e": "E576",
+  "cas": "527-07-1",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3246); CAS and function from FDA Substances Added to Food, matched by exact name (SODIUM GLUCONATE).",
+  "synonyms": [
+   "Sodium gluconate|common",
+   "E576|e_number",
+   "INS 576|ins_number",
+   "527-07-1|cas"
+  ]
+ },
+ {
+  "slug": "potassium-gluconate",
+  "display_name": "Potassium gluconate",
+  "kind": "anticaking",
+  "ins": "577",
+  "e": "E577",
+  "cas": "299-27-4",
+  "function": "Nutrient supplement.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3247); CAS and function from FDA Substances Added to Food, matched by exact name (POTASSIUM GLUCONATE).",
+  "synonyms": [
+   "Potassium gluconate|common",
+   "E577|e_number",
+   "INS 577|ins_number",
+   "299-27-4|cas"
+  ]
+ },
+ {
+  "slug": "calcium-gluconate",
+  "display_name": "Calcium gluconate",
+  "kind": "anticaking",
+  "ins": "578",
+  "e": "E578",
+  "cas": "299-28-5",
+  "function": "Firming agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3248); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM GLUCONATE).",
+  "synonyms": [
+   "Calcium gluconate|common",
+   "E578|e_number",
+   "INS 578|ins_number",
+   "299-28-5|cas"
+  ]
+ },
+ {
+  "slug": "ferrous-gluconate",
+  "display_name": "Ferrous gluconate",
+  "kind": "anticaking",
+  "ins": "579",
+  "e": "E579",
+  "cas": "6047-12-7",
+  "function": "Color or coloring adjunct.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3249); CAS and function from FDA Substances Added to Food, matched by exact name (FERROUS GLUCONATE).",
+  "synonyms": [
+   "Ferrous gluconate|common",
+   "E579|e_number",
+   "INS 579|ins_number",
+   "6047-12-7|cas"
+  ]
+ },
+ {
+  "slug": "ferrous-lactate",
+  "display_name": "Ferrous lactate",
+  "kind": "other",
+  "ins": "585",
+  "e": "E585",
+  "cas": "5905-52-2",
+  "function": "Color or coloring adjunct.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3250); CAS and function from FDA Substances Added to Food, matched by exact name (FERROUS LACTATE).",
+  "synonyms": [
+   "Ferrous lactate|common",
+   "E585|e_number",
+   "INS 585|ins_number",
+   "5905-52-2|cas"
+  ]
+ },
+ {
+  "slug": "4-hexylresorcinol",
+  "display_name": "4-Hexylresorcinol",
+  "kind": "other",
+  "ins": "586",
+  "e": "E586",
+  "cas": null,
+  "function": "Food additive, E586 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3251).",
+  "synonyms": [
+   "4-Hexylresorcinol|common",
+   "E586|e_number",
+   "INS 586|ins_number"
+  ]
+ },
+ {
+  "slug": "glutamic-acid",
+  "display_name": "Glutamic acid",
+  "kind": "flavour_enhancer",
+  "ins": "620",
+  "e": "E620",
+  "cas": null,
+  "function": "Food additive, E620 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3252).",
+  "synonyms": [
+   "Glutamic acid|common",
+   "E620|e_number",
+   "INS 620|ins_number"
+  ]
+ },
+ {
+  "slug": "monopotassium-glutamate",
+  "display_name": "Monopotassium glutamate",
+  "kind": "flavour_enhancer",
+  "ins": "622",
+  "e": "E622",
+  "cas": "19473-49-5",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3255); CAS and function from FDA Substances Added to Food, matched by exact name (MONOPOTASSIUM GLUTAMATE).",
+  "synonyms": [
+   "Monopotassium glutamate|common",
+   "E622|e_number",
+   "INS 622|ins_number",
+   "19473-49-5|cas"
+  ]
+ },
+ {
+  "slug": "calcium-diglutamate",
+  "display_name": "Calcium diglutamate",
+  "kind": "flavour_enhancer",
+  "ins": "623",
+  "e": "E623",
+  "cas": "5996-22-5",
+  "function": "Food additive, E623 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3256); CAS and function from FDA Substances Added to Food, matched by exact name (CALCIUM DIGLUTAMATE).",
+  "synonyms": [
+   "Calcium diglutamate|common",
+   "E623|e_number",
+   "INS 623|ins_number",
+   "5996-22-5|cas"
+  ]
+ },
+ {
+  "slug": "monoammonium-glutamate",
+  "display_name": "Monoammonium glutamate",
+  "kind": "flavour_enhancer",
+  "ins": "624",
+  "e": "E624",
+  "cas": "7558-63-6",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3257); CAS and function from FDA Substances Added to Food, matched by exact name (MONOAMMONIUM GLUTAMATE).",
+  "synonyms": [
+   "Monoammonium glutamate|common",
+   "E624|e_number",
+   "INS 624|ins_number",
+   "7558-63-6|cas"
+  ]
+ },
+ {
+  "slug": "magnesium-diglutamate",
+  "display_name": "Magnesium diglutamate",
+  "kind": "flavour_enhancer",
+  "ins": "625",
+  "e": "E625",
+  "cas": null,
+  "function": "Food additive, E625 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3258).",
+  "synonyms": [
+   "Magnesium diglutamate|common",
+   "E625|e_number",
+   "INS 625|ins_number"
+  ]
+ },
+ {
+  "slug": "guanylic-acid",
+  "display_name": "Guanylic acid",
+  "kind": "flavour_enhancer",
+  "ins": "626",
+  "e": "E626",
+  "cas": null,
+  "function": "Food additive, E626 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3259).",
+  "synonyms": [
+   "Guanylic acid|common",
+   "E626|e_number",
+   "INS 626|ins_number"
+  ]
+ },
+ {
+  "slug": "dipotassium-guanylate",
+  "display_name": "Dipotassium guanylate",
+  "kind": "flavour_enhancer",
+  "ins": "628",
+  "e": "E628",
+  "cas": null,
+  "function": "Food additive, E628 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3262).",
+  "synonyms": [
+   "Dipotassium guanylate|common",
+   "E628|e_number",
+   "INS 628|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-guanylate",
+  "display_name": "Calcium guanylate",
+  "kind": "flavour_enhancer",
+  "ins": "629",
+  "e": "E629",
+  "cas": null,
+  "function": "Food additive, E629 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3263).",
+  "synonyms": [
+   "Calcium guanylate|common",
+   "E629|e_number",
+   "INS 629|ins_number"
+  ]
+ },
+ {
+  "slug": "inosinic-acid",
+  "display_name": "Inosinic acid",
+  "kind": "flavour_enhancer",
+  "ins": "630",
+  "e": "E630",
+  "cas": null,
+  "function": "Food additive, E630 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3264).",
+  "synonyms": [
+   "Inosinic acid|common",
+   "E630|e_number",
+   "INS 630|ins_number"
+  ]
+ },
+ {
+  "slug": "dipotassium-inosinate",
+  "display_name": "Dipotassium inosinate",
+  "kind": "flavour_enhancer",
+  "ins": "632",
+  "e": "E632",
+  "cas": null,
+  "function": "Food additive, E632 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3266).",
+  "synonyms": [
+   "Dipotassium inosinate|common",
+   "E632|e_number",
+   "INS 632|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-inosinate",
+  "display_name": "Calcium inosinate",
+  "kind": "flavour_enhancer",
+  "ins": "633",
+  "e": "E633",
+  "cas": null,
+  "function": "Food additive, E633 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3267).",
+  "synonyms": [
+   "Calcium inosinate|common",
+   "E633|e_number",
+   "INS 633|ins_number"
+  ]
+ },
+ {
+  "slug": "calcium-5-ribonucleotides",
+  "display_name": "Calcium 5'-ribonucleotides",
+  "kind": "flavour_enhancer",
+  "ins": "634",
+  "e": "E634",
+  "cas": null,
+  "function": "Food additive, E634 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3268).",
+  "synonyms": [
+   "Calcium 5'-ribonucleotides|common",
+   "E634|e_number",
+   "INS 634|ins_number"
+  ]
+ },
+ {
+  "slug": "disodium-5-ribonucleotides",
+  "display_name": "Disodium 5'-ribonucleotides",
+  "kind": "flavour_enhancer",
+  "ins": "635",
+  "e": "E635",
+  "cas": null,
+  "function": "Food additive, E635 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3269).",
+  "synonyms": [
+   "Disodium 5'-ribonucleotides|common",
+   "E635|e_number",
+   "INS 635|ins_number"
+  ]
+ },
+ {
+  "slug": "glycine-and-its-sodium-salt",
+  "display_name": "Glycine and its sodium salt",
+  "kind": "flavour_enhancer",
+  "ins": "640",
+  "e": "E640",
+  "cas": null,
+  "function": "Food additive, E640 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3270).",
+  "synonyms": [
+   "Glycine and its sodium salt|common",
+   "E640|e_number",
+   "INS 640|ins_number"
+  ]
+ },
+ {
+  "slug": "l-leucine",
+  "display_name": "L-leucine",
+  "kind": "flavour_enhancer",
+  "ins": "641",
+  "e": "E641",
+  "cas": "61-90-5",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3346); CAS and function from FDA Substances Added to Food, matched by exact name (L-LEUCINE).",
+  "synonyms": [
+   "L-leucine|common",
+   "E641|e_number",
+   "INS 641|ins_number",
+   "61-90-5|cas"
+  ]
+ },
+ {
+  "slug": "zinc-acetate",
+  "display_name": "Zinc acetate",
+  "kind": "flavour_enhancer",
+  "ins": "650",
+  "e": "E650",
+  "cas": "557-34-6",
+  "function": "Food additive, E650 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3271); CAS and function from FDA Substances Added to Food, matched by exact name (ZINC ACETATE).",
+  "synonyms": [
+   "Zinc acetate|common",
+   "E650|e_number",
+   "INS 650|ins_number",
+   "557-34-6|cas"
+  ]
+ },
+ {
+  "slug": "dimethyl-polysiloxane",
+  "display_name": "Dimethyl polysiloxane",
+  "kind": "other",
+  "ins": "900",
+  "e": "E900",
+  "cas": "9016-00-6",
+  "function": "Lubricant or release agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3272); CAS and function from FDA Substances Added to Food, matched by exact name (DIMETHYLPOLYSILOXANE).",
+  "synonyms": [
+   "Dimethyl polysiloxane|common",
+   "E900|e_number",
+   "INS 900|ins_number",
+   "9016-00-6|cas"
+  ]
+ },
+ {
+  "slug": "beeswax-white-and-yellow",
+  "display_name": "Beeswax, white and yellow",
+  "kind": "other",
+  "ins": "901",
+  "e": "E901",
+  "cas": null,
+  "function": "Food additive, E901 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3273).",
+  "synonyms": [
+   "Beeswax, white and yellow|common",
+   "E901|e_number",
+   "INS 901|ins_number"
+  ]
+ },
+ {
+  "slug": "candelilla-wax",
+  "display_name": "Candelilla wax",
+  "kind": "other",
+  "ins": "902",
+  "e": "E902",
+  "cas": "8006-44-8",
+  "function": "Flavoring agent or adjuvant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3274); CAS and function from FDA Substances Added to Food, matched by exact name (CANDELILLA WAX (WAX FROM STEMS AND BRANCHES OF EUPHORBIA CERIFERA)).",
+  "synonyms": [
+   "Candelilla wax|common",
+   "E902|e_number",
+   "INS 902|ins_number",
+   "8006-44-8|cas"
+  ]
+ },
+ {
+  "slug": "carnauba-wax",
+  "display_name": "Carnauba wax",
+  "kind": "other",
+  "ins": "903",
+  "e": "E903",
+  "cas": "8015-86-9",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3275); CAS and function from FDA Substances Added to Food, matched by exact name (CARNAUBA WAX (COPERNICIA CERIFERA (ARRUDA) MART.)).",
+  "synonyms": [
+   "Carnauba wax|common",
+   "E903|e_number",
+   "INS 903|ins_number",
+   "8015-86-9|cas"
+  ]
+ },
+ {
+  "slug": "shellac",
+  "display_name": "Shellac",
+  "kind": "other",
+  "ins": "904",
+  "e": "E904",
+  "cas": "9000-59-3",
+  "function": "Anticaking agent or free-flow agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3276); CAS and function from FDA Substances Added to Food, matched by exact name (SHELLAC, PURIFIED).",
+  "synonyms": [
+   "Shellac|common",
+   "E904|e_number",
+   "INS 904|ins_number",
+   "9000-59-3|cas"
+  ]
+ },
+ {
+  "slug": "microcrystalline-wax",
+  "display_name": "Microcrystalline wax",
+  "kind": "other",
+  "ins": "905",
+  "e": "E905",
+  "cas": null,
+  "function": "Food additive, E905 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3277).",
+  "synonyms": [
+   "Microcrystalline wax|common",
+   "E905|e_number",
+   "INS 905|ins_number"
+  ]
+ },
+ {
+  "slug": "high-viscosity-mineral-oils",
+  "display_name": "High viscosity mineral oils",
+  "kind": "other",
+  "ins": "905a",
+  "e": "E905a",
+  "cas": null,
+  "function": "Food additive, E905a in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3335).",
+  "synonyms": [
+   "High viscosity mineral oils|common",
+   "E905a|e_number",
+   "INS 905a|ins_number"
+  ]
+ },
+ {
+  "slug": "hydrogenated-poly-1-decene",
+  "display_name": "Hydrogenated poly-1-decene",
+  "kind": "other",
+  "ins": "907",
+  "e": "E907",
+  "cas": null,
+  "function": "Food additive, E907 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3278).",
+  "synonyms": [
+   "Hydrogenated poly-1-decene|common",
+   "E907|e_number",
+   "INS 907|ins_number"
+  ]
+ },
+ {
+  "slug": "montan-acid-esters",
+  "display_name": "Montan acid esters",
+  "kind": "other",
+  "ins": "912",
+  "e": "E912",
+  "cas": null,
+  "function": "Food additive, E912 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3279).",
+  "synonyms": [
+   "Montan acid esters|common",
+   "E912|e_number",
+   "INS 912|ins_number"
+  ]
+ },
+ {
+  "slug": "oxidised-polyethylene-wax",
+  "display_name": "Oxidised polyethylene wax",
+  "kind": "other",
+  "ins": "914",
+  "e": "E914",
+  "cas": null,
+  "function": "Food additive, E914 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3280).",
+  "synonyms": [
+   "Oxidised polyethylene wax|common",
+   "E914|e_number",
+   "INS 914|ins_number"
+  ]
+ },
+ {
+  "slug": "l-cysteine",
+  "display_name": "L-cysteine",
+  "kind": "flour_treatment",
+  "ins": "920",
+  "e": "E920",
+  "cas": "52-90-4",
+  "function": "Dough strengthener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3281); CAS and function from FDA Substances Added to Food, matched by exact name (L-CYSTEINE).",
+  "synonyms": [
+   "L-cysteine|common",
+   "E920|e_number",
+   "INS 920|ins_number",
+   "52-90-4|cas"
+  ]
+ },
+ {
+  "slug": "chlorine-dioxide",
+  "display_name": "Chlorine dioxide",
+  "kind": "flour_treatment",
+  "ins": "926",
+  "e": "E926",
+  "cas": "10049-04-4",
+  "function": "Antimicrobial agent.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3345); CAS and function from FDA Substances Added to Food, matched by exact name (CHLORINE DIOXIDE).",
+  "synonyms": [
+   "Chlorine dioxide|common",
+   "E926|e_number",
+   "INS 926|ins_number",
+   "10049-04-4|cas"
+  ]
+ },
+ {
+  "slug": "carbamide",
+  "display_name": "Carbamide",
+  "kind": "flour_treatment",
+  "ins": "927b",
+  "e": "E927b",
+  "cas": "57-13-6",
+  "function": "Formulation aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3282); CAS and function from FDA Substances Added to Food, matched by exact name (UREA).",
+  "synonyms": [
+   "Carbamide|common",
+   "E927b|e_number",
+   "INS 927b|ins_number",
+   "57-13-6|cas"
+  ]
+ },
+ {
+  "slug": "argon",
+  "display_name": "Argon",
+  "kind": "other",
+  "ins": "938",
+  "e": "E938",
+  "cas": null,
+  "function": "Food additive, E938 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3283).",
+  "synonyms": [
+   "Argon|common",
+   "E938|e_number",
+   "INS 938|ins_number"
+  ]
+ },
+ {
+  "slug": "helium",
+  "display_name": "Helium",
+  "kind": "other",
+  "ins": "939",
+  "e": "E939",
+  "cas": "7440-59-7",
+  "function": "Processing aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3284); CAS and function from FDA Substances Added to Food, matched by exact name (HELIUM).",
+  "synonyms": [
+   "Helium|common",
+   "E939|e_number",
+   "INS 939|ins_number",
+   "7440-59-7|cas"
+  ]
+ },
+ {
+  "slug": "nitrogen",
+  "display_name": "Nitrogen",
+  "kind": "other",
+  "ins": "941",
+  "e": "E941",
+  "cas": "7727-37-9",
+  "function": "Antioxidant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3285); CAS and function from FDA Substances Added to Food, matched by exact name (NITROGEN).",
+  "synonyms": [
+   "Nitrogen|common",
+   "E941|e_number",
+   "INS 941|ins_number",
+   "7727-37-9|cas"
+  ]
+ },
+ {
+  "slug": "nitrous-oxide",
+  "display_name": "Nitrous oxide",
+  "kind": "other",
+  "ins": "942",
+  "e": "E942",
+  "cas": "10024-97-2",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3286); CAS and function from FDA Substances Added to Food, matched by exact name (NITROUS OXIDE).",
+  "synonyms": [
+   "Nitrous oxide|common",
+   "E942|e_number",
+   "INS 942|ins_number",
+   "10024-97-2|cas"
+  ]
+ },
+ {
+  "slug": "butane",
+  "display_name": "Butane",
+  "kind": "other",
+  "ins": "943a",
+  "e": "E943a",
+  "cas": "106-97-8",
+  "function": "Propellant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3287); CAS and function from FDA Substances Added to Food, matched by exact name (N-BUTANE).",
+  "synonyms": [
+   "Butane|common",
+   "943a|common",
+   "E943a|e_number",
+   "INS 943a|ins_number",
+   "106-97-8|cas"
+  ]
+ },
+ {
+  "slug": "isobutane",
+  "display_name": "Isobutane",
+  "kind": "other",
+  "ins": "943b",
+  "e": "E943b",
+  "cas": "75-28-5",
+  "function": "Propellant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3288); CAS and function from FDA Substances Added to Food, matched by exact name (ISOBUTANE).",
+  "synonyms": [
+   "Isobutane|common",
+   "E943b|e_number",
+   "INS 943b|ins_number",
+   "75-28-5|cas"
+  ]
+ },
+ {
+  "slug": "propane",
+  "display_name": "Propane",
+  "kind": "other",
+  "ins": "944",
+  "e": "E944",
+  "cas": "74-98-6",
+  "function": "Propellant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3289); CAS and function from FDA Substances Added to Food, matched by exact name (PROPANE).",
+  "synonyms": [
+   "Propane|common",
+   "E944|e_number",
+   "INS 944|ins_number",
+   "74-98-6|cas"
+  ]
+ },
+ {
+  "slug": "oxygen",
+  "display_name": "Oxygen",
+  "kind": "other",
+  "ins": "948",
+  "e": "E948",
+  "cas": null,
+  "function": "Food additive, E948 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3290).",
+  "synonyms": [
+   "Oxygen|common",
+   "E948|e_number",
+   "INS 948|ins_number"
+  ]
+ },
+ {
+  "slug": "hydrogen",
+  "display_name": "Hydrogen",
+  "kind": "other",
+  "ins": "949",
+  "e": "E949",
+  "cas": null,
+  "function": "Food additive, E949 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3291).",
+  "synonyms": [
+   "Hydrogen|common",
+   "E949|e_number",
+   "INS 949|ins_number"
+  ]
+ },
+ {
+  "slug": "isomalt",
+  "display_name": "Isomalt",
+  "kind": "sweetener",
+  "ins": "953",
+  "e": "E953",
+  "cas": null,
+  "function": "Food additive, E953 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3295).",
+  "synonyms": [
+   "Isomalt|common",
+   "E953|e_number",
+   "INS 953|ins_number"
+  ]
+ },
+ {
+  "slug": "thaumatin",
+  "display_name": "Thaumatin",
+  "kind": "sweetener",
+  "ins": "957",
+  "e": "E957",
+  "cas": "53850-34-3",
+  "function": "Flavoring agent or adjuvant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3298); CAS and function from FDA Substances Added to Food, matched by exact name (THAUMATIN).",
+  "synonyms": [
+   "Thaumatin|common",
+   "E957|e_number",
+   "INS 957|ins_number",
+   "53850-34-3|cas"
+  ]
+ },
+ {
+  "slug": "neohesperidine-dc",
+  "display_name": "Neohesperidine DC",
+  "kind": "sweetener",
+  "ins": "959",
+  "e": "E959",
+  "cas": null,
+  "function": "Food additive, E959 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3299).",
+  "synonyms": [
+   "Neohesperidine DC|common",
+   "E959|e_number",
+   "INS 959|ins_number"
+  ]
+ },
+ {
+  "slug": "steviol-glycosides-from-stevia",
+  "display_name": "Steviol glycosides from Stevia",
+  "kind": "sweetener",
+  "ins": "960a",
+  "e": "E960a",
+  "cas": null,
+  "function": "Food additive, E960a in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-06121).",
+  "synonyms": [
+   "Steviol glycosides from Stevia|common",
+   "E960a|e_number",
+   "INS 960a|ins_number"
+  ]
+ },
+ {
+  "slug": "steviol-glycosides-from-fermentation",
+  "display_name": "Steviol glycosides from fermentation’",
+  "kind": "sweetener",
+  "ins": "960b",
+  "e": "E960b",
+  "cas": null,
+  "function": "Food additive, E960b in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-13301).",
+  "synonyms": [
+   "Steviol glycosides from fermentation’|common",
+   "E960b|e_number",
+   "INS 960b|ins_number"
+  ]
+ },
+ {
+  "slug": "enzymatically-produced-steviol-glycosides",
+  "display_name": "Enzymatically produced steviol glycosides",
+  "kind": "sweetener",
+  "ins": "960c",
+  "e": "E960c",
+  "cas": null,
+  "function": "Food additive, E960c in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-06122).",
+  "synonyms": [
+   "Enzymatically produced steviol glycosides|common",
+   "E960c|e_number",
+   "INS 960c|ins_number"
+  ]
+ },
+ {
+  "slug": "glucosylated-steviol-glycosides",
+  "display_name": "Glucosylated steviol glycosides",
+  "kind": "sweetener",
+  "ins": "960d",
+  "e": "E960d",
+  "cas": null,
+  "function": "Food additive, E960d in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-06123).",
+  "synonyms": [
+   "Glucosylated steviol glycosides|common",
+   "E960d|e_number",
+   "INS 960d|ins_number"
+  ]
+ },
+ {
+  "slug": "salt-of-aspartame-acesulfame",
+  "display_name": "Salt of aspartame-acesulfame",
+  "kind": "sweetener",
+  "ins": "962",
+  "e": "E962",
+  "cas": null,
+  "function": "Food additive, E962 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3301).",
+  "synonyms": [
+   "Salt of aspartame-acesulfame|common",
+   "E962|e_number",
+   "INS 962|ins_number"
+  ]
+ },
+ {
+  "slug": "polyglycitol-syrup",
+  "display_name": "Polyglycitol syrup",
+  "kind": "sweetener",
+  "ins": "964",
+  "e": "E964",
+  "cas": null,
+  "function": "Food additive, E964 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3338).",
+  "synonyms": [
+   "Polyglycitol syrup|common",
+   "E964|e_number",
+   "INS 964|ins_number"
+  ]
+ },
+ {
+  "slug": "maltitols",
+  "display_name": "Maltitols",
+  "kind": "sweetener",
+  "ins": "965",
+  "e": "E965",
+  "cas": null,
+  "function": "Food additive, E965 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3302).",
+  "synonyms": [
+   "Maltitols|common",
+   "E965|e_number",
+   "INS 965|ins_number"
+  ]
+ },
+ {
+  "slug": "lactitol",
+  "display_name": "Lactitol",
+  "kind": "sweetener",
+  "ins": "966",
+  "e": "E966",
+  "cas": null,
+  "function": "Food additive, E966 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3303).",
+  "synonyms": [
+   "Lactitol|common",
+   "E966|e_number",
+   "INS 966|ins_number"
+  ]
+ },
+ {
+  "slug": "xylitol",
+  "display_name": "Xylitol",
+  "kind": "sweetener",
+  "ins": "967",
+  "e": "E967",
+  "cas": "87-99-0",
+  "function": "Humectant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3304); CAS and function from FDA Substances Added to Food, matched by exact name (XYLITOL).",
+  "synonyms": [
+   "Xylitol|common",
+   "E967|e_number",
+   "INS 967|ins_number",
+   "87-99-0|cas"
+  ]
+ },
+ {
+  "slug": "erythritol",
+  "display_name": "Erythritol",
+  "kind": "sweetener",
+  "ins": "968",
+  "e": "E968",
+  "cas": null,
+  "function": "Food additive, E968 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3305).",
+  "synonyms": [
+   "Erythritol|common",
+   "E968|e_number",
+   "INS 968|ins_number"
+  ]
+ },
+ {
+  "slug": "advantame",
+  "display_name": "Advantame",
+  "kind": "sweetener",
+  "ins": "969",
+  "e": "E969",
+  "cas": "714229-20-6",
+  "function": "Non-nutritive sweetener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3344); CAS and function from FDA Substances Added to Food, matched by exact name (ADVANTAME).",
+  "synonyms": [
+   "Advantame|common",
+   "E969|e_number",
+   "INS 969|ins_number",
+   "714229-20-6|cas"
+  ]
+ },
+ {
+  "slug": "quillaia-extract",
+  "display_name": "Quillaia extract",
+  "kind": "other",
+  "ins": "999",
+  "e": "E999",
+  "cas": "68990-67-0",
+  "function": "Flavoring agent or adjuvant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3306); CAS and function from FDA Substances Added to Food, matched by exact name (QUILLAIA EXTRACT (QUILLAJA SAPONARIA MOLINA)).",
+  "synonyms": [
+   "Quillaia extract|common",
+   "E999|e_number",
+   "INS 999|ins_number",
+   "68990-67-0|cas"
+  ]
+ },
+ {
+  "slug": "invertase",
+  "display_name": "Invertase",
+  "kind": "other",
+  "ins": "1103",
+  "e": "E1103",
+  "cas": null,
+  "function": "Food additive, E1103 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3307).",
+  "synonyms": [
+   "Invertase|common",
+   "E1103|e_number",
+   "INS 1103|ins_number"
+  ]
+ },
+ {
+  "slug": "lysozyme",
+  "display_name": "Lysozyme",
+  "kind": "other",
+  "ins": "1105",
+  "e": "E1105",
+  "cas": null,
+  "function": "Food additive, E1105 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3308).",
+  "synonyms": [
+   "Lysozyme|common",
+   "E1105|e_number",
+   "INS 1105|ins_number"
+  ]
+ },
+ {
+  "slug": "polydextrose",
+  "display_name": "Polydextrose",
+  "kind": "other",
+  "ins": "1200",
+  "e": "E1200",
+  "cas": "68424-04-4",
+  "function": "Formulation aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3309); CAS and function from FDA Substances Added to Food, matched by exact name (POLYDEXTROSE).",
+  "synonyms": [
+   "Polydextrose|common",
+   "E1200|e_number",
+   "INS 1200|ins_number",
+   "68424-04-4|cas"
+  ]
+ },
+ {
+  "slug": "polyvinylpyrrolidone",
+  "display_name": "Polyvinylpyrrolidone",
+  "kind": "other",
+  "ins": "1201",
+  "e": "E1201",
+  "cas": "9003-39-8",
+  "function": "Formulation aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3310); CAS and function from FDA Substances Added to Food, matched by exact name (POLYVINYLPYRROLIDONE).",
+  "synonyms": [
+   "Polyvinylpyrrolidone|common",
+   "E1201|e_number",
+   "INS 1201|ins_number",
+   "9003-39-8|cas"
+  ]
+ },
+ {
+  "slug": "polyvinylpolypyrrolidone",
+  "display_name": "Polyvinylpolypyrrolidone",
+  "kind": "other",
+  "ins": "1202",
+  "e": "E1202",
+  "cas": "977043-97-2",
+  "function": "Processing aid.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3311); CAS and function from FDA Substances Added to Food, matched by exact name (POLYVINYL POLYPYRROLIDONE).",
+  "synonyms": [
+   "Polyvinylpolypyrrolidone|common",
+   "E1202|e_number",
+   "INS 1202|ins_number",
+   "977043-97-2|cas"
+  ]
+ },
+ {
+  "slug": "polyvinyl-alcohol-pva",
+  "display_name": "Polyvinyl alcohol (PVA)",
+  "kind": "other",
+  "ins": "1203",
+  "e": "E1203",
+  "cas": null,
+  "function": "Food additive, E1203 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3312).",
+  "synonyms": [
+   "Polyvinyl alcohol (PVA)|common",
+   "E1203|e_number",
+   "INS 1203|ins_number"
+  ]
+ },
+ {
+  "slug": "pullulan",
+  "display_name": "Pullulan",
+  "kind": "other",
+  "ins": "1204",
+  "e": "E1204",
+  "cas": null,
+  "function": "Food additive, E1204 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3313).",
+  "synonyms": [
+   "Pullulan|common",
+   "E1204|e_number",
+   "INS 1204|ins_number"
+  ]
+ },
+ {
+  "slug": "basic-methacrylate-copolymer",
+  "display_name": "Basic methacrylate copolymer",
+  "kind": "other",
+  "ins": "1205",
+  "e": "E1205",
+  "cas": null,
+  "function": "Food additive, E1205 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3314).",
+  "synonyms": [
+   "Basic methacrylate copolymer|common",
+   "E1205|e_number",
+   "INS 1205|ins_number"
+  ]
+ },
+ {
+  "slug": "neutral-methacrylate-copolymer",
+  "display_name": "Neutral Methacrylate Copolymer",
+  "kind": "other",
+  "ins": "1206",
+  "e": "E1206",
+  "cas": null,
+  "function": "Food additive, E1206 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3354).",
+  "synonyms": [
+   "Neutral Methacrylate Copolymer|common",
+   "E1206|e_number",
+   "INS 1206|ins_number"
+  ]
+ },
+ {
+  "slug": "anionic-methacrylate-copolymer",
+  "display_name": "Anionic methacrylate copolymer",
+  "kind": "other",
+  "ins": "1207",
+  "e": "E1207",
+  "cas": null,
+  "function": "Food additive, E1207 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3355).",
+  "synonyms": [
+   "Anionic methacrylate copolymer|common",
+   "E1207|e_number",
+   "INS 1207|ins_number"
+  ]
+ },
+ {
+  "slug": "polyvinylpyrrolidone-vinyl-acetate-copolymer",
+  "display_name": "Polyvinylpyrrolidone-vinyl acetate copolymer",
+  "kind": "other",
+  "ins": "1208",
+  "e": "E1208",
+  "cas": null,
+  "function": "Food additive, E1208 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3334).",
+  "synonyms": [
+   "Polyvinylpyrrolidone-vinyl acetate copolymer|common",
+   "E1208|e_number",
+   "INS 1208|ins_number"
+  ]
+ },
+ {
+  "slug": "polyvinyl-alcohol-polyethylene-glycol-graft-co-polymer",
+  "display_name": "Polyvinyl alcohol-polyethylene glycol-graft co-polymer",
+  "kind": "other",
+  "ins": "1209",
+  "e": "E1209",
+  "cas": null,
+  "function": "Food additive, E1209 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3351).",
+  "synonyms": [
+   "Polyvinyl alcohol-polyethylene glycol-graft co-polymer|common",
+   "E1209|e_number",
+   "INS 1209|ins_number"
+  ]
+ },
+ {
+  "slug": "oxidised-starch",
+  "display_name": "Oxidised starch",
+  "kind": "stabiliser",
+  "ins": "1404",
+  "e": "E1404",
+  "cas": null,
+  "function": "Food additive, E1404 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3315).",
+  "synonyms": [
+   "Oxidised starch|common",
+   "E1404|e_number",
+   "INS 1404|ins_number"
+  ]
+ },
+ {
+  "slug": "monostarch-phosphate",
+  "display_name": "Monostarch phosphate",
+  "kind": "stabiliser",
+  "ins": "1410",
+  "e": "E1410",
+  "cas": null,
+  "function": "Food additive, E1410 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3316).",
+  "synonyms": [
+   "Monostarch phosphate|common",
+   "E1410|e_number",
+   "INS 1410|ins_number"
+  ]
+ },
+ {
+  "slug": "distarch-phosphate",
+  "display_name": "Distarch phosphate",
+  "kind": "stabiliser",
+  "ins": "1412",
+  "e": "E1412",
+  "cas": null,
+  "function": "Food additive, E1412 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3317).",
+  "synonyms": [
+   "Distarch phosphate|common",
+   "E1412|e_number",
+   "INS 1412|ins_number"
+  ]
+ },
+ {
+  "slug": "phosphated-distarch-phosphate",
+  "display_name": "Phosphated distarch phosphate",
+  "kind": "stabiliser",
+  "ins": "1413",
+  "e": "E1413",
+  "cas": "977043-58-5",
+  "function": "Stabilizer or thickener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3318); CAS and function from FDA Substances Added to Food, matched by exact name (STARCH, FOOD, MODIFIED: PHOSPHATED DISTARCH PHOSPHATE).",
+  "synonyms": [
+   "Phosphated distarch phosphate|common",
+   "E1413|e_number",
+   "INS 1413|ins_number",
+   "977043-58-5|cas"
+  ]
+ },
+ {
+  "slug": "acetylated-distarch-phosphate",
+  "display_name": "Acetylated distarch phosphate",
+  "kind": "stabiliser",
+  "ins": "1414",
+  "e": "E1414",
+  "cas": "68130-14-3",
+  "function": "Stabilizer or thickener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3319); CAS and function from FDA Substances Added to Food, matched by exact name (STARCH, FOOD, MODIFIED: ACETYLATED DISTARCH PHOSPHATE).",
+  "synonyms": [
+   "Acetylated distarch phosphate|common",
+   "E1414|e_number",
+   "INS 1414|ins_number",
+   "68130-14-3|cas"
+  ]
+ },
+ {
+  "slug": "acetylated-starch",
+  "display_name": "Acetylated starch",
+  "kind": "stabiliser",
+  "ins": "1420",
+  "e": "E1420",
+  "cas": "9045-28-7",
+  "function": "Stabilizer or thickener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3320); CAS and function from FDA Substances Added to Food, matched by exact name (STARCH, FOOD, MODIFIED: STARCH ACETATE).",
+  "synonyms": [
+   "Acetylated starch|common",
+   "E1420|e_number",
+   "INS 1420|ins_number",
+   "9045-28-7|cas"
+  ]
+ },
+ {
+  "slug": "acetylated-distarch-adipate",
+  "display_name": "Acetylated distarch adipate",
+  "kind": "stabiliser",
+  "ins": "1422",
+  "e": "E1422",
+  "cas": "63798-35-6",
+  "function": "Dough strengthener.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3321); CAS and function from FDA Substances Added to Food, matched by exact name (STARCH, FOOD, MODIFIED: ACETYLATED DISTARCH ADIPATE).",
+  "synonyms": [
+   "Acetylated distarch adipate|common",
+   "E1422|e_number",
+   "INS 1422|ins_number",
+   "63798-35-6|cas"
+  ]
+ },
+ {
+  "slug": "hydroxy-propyl-starch",
+  "display_name": "Hydroxy propyl starch",
+  "kind": "stabiliser",
+  "ins": "1440",
+  "e": "E1440",
+  "cas": null,
+  "function": "Food additive, E1440 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3322).",
+  "synonyms": [
+   "Hydroxy propyl starch|common",
+   "E1440|e_number",
+   "INS 1440|ins_number"
+  ]
+ },
+ {
+  "slug": "hydroxy-propyl-distarch-phosphate",
+  "display_name": "Hydroxy propyl distarch phosphate",
+  "kind": "stabiliser",
+  "ins": "1442",
+  "e": "E1442",
+  "cas": null,
+  "function": "Food additive, E1442 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3323).",
+  "synonyms": [
+   "Hydroxy propyl distarch phosphate|common",
+   "E1442|e_number",
+   "INS 1442|ins_number"
+  ]
+ },
+ {
+  "slug": "starch-sodium-octenyl-succinate",
+  "display_name": "Starch sodium octenyl succinate",
+  "kind": "stabiliser",
+  "ins": "1450",
+  "e": "E1450",
+  "cas": null,
+  "function": "Food additive, E1450 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3324).",
+  "synonyms": [
+   "Starch sodium octenyl succinate|common",
+   "E1450|e_number",
+   "INS 1450|ins_number"
+  ]
+ },
+ {
+  "slug": "acetylated-oxidised-starch",
+  "display_name": "Acetylated oxidised starch",
+  "kind": "stabiliser",
+  "ins": "1451",
+  "e": "E1451",
+  "cas": null,
+  "function": "Food additive, E1451 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3325).",
+  "synonyms": [
+   "Acetylated oxidised starch|common",
+   "E1451|e_number",
+   "INS 1451|ins_number"
+  ]
+ },
+ {
+  "slug": "starch-aluminium-octenyl-succinate",
+  "display_name": "Starch Aluminium Octenyl Succinate",
+  "kind": "stabiliser",
+  "ins": "1452",
+  "e": "E1452",
+  "cas": null,
+  "function": "Food additive, E1452 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3326).",
+  "synonyms": [
+   "Starch Aluminium Octenyl Succinate|common",
+   "E1452|e_number",
+   "INS 1452|ins_number"
+  ]
+ },
+ {
+  "slug": "triethyl-citrate",
+  "display_name": "Triethyl citrate",
+  "kind": "other",
+  "ins": "1505",
+  "e": "E1505",
+  "cas": "77-93-0",
+  "function": "Flavor enhancer.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3327); CAS and function from FDA Substances Added to Food, matched by exact name (TRIETHYL CITRATE).",
+  "synonyms": [
+   "Triethyl citrate|common",
+   "E1505|e_number",
+   "INS 1505|ins_number",
+   "77-93-0|cas"
+  ]
+ },
+ {
+  "slug": "glyceryl-diacetate-diacetin",
+  "display_name": "Glyceryl diacetate (diacetin)",
+  "kind": "other",
+  "ins": "1517",
+  "e": "E1517",
+  "cas": null,
+  "function": "Food additive, E1517 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3328).",
+  "synonyms": [
+   "Glyceryl diacetate (diacetin)|common",
+   "E1517|e_number",
+   "INS 1517|ins_number"
+  ]
+ },
+ {
+  "slug": "glyceryl-triacetate-triacetin",
+  "display_name": "Glyceryl triacetate (triacetin)",
+  "kind": "other",
+  "ins": "1518",
+  "e": "E1518",
+  "cas": null,
+  "function": "Food additive, E1518 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3329).",
+  "synonyms": [
+   "Glyceryl triacetate (triacetin)|common",
+   "E1518|e_number",
+   "INS 1518|ins_number"
+  ]
+ },
+ {
+  "slug": "benzyl-alcohol",
+  "display_name": "Benzyl alcohol",
+  "kind": "other",
+  "ins": "1519",
+  "e": "E1519",
+  "cas": "100-51-6",
+  "function": "Flavoring agent or adjuvant.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3330); CAS and function from FDA Substances Added to Food, matched by exact name (BENZYL ALCOHOL).",
+  "synonyms": [
+   "Benzyl alcohol|common",
+   "E1519|e_number",
+   "INS 1519|ins_number",
+   "100-51-6|cas"
+  ]
+ },
+ {
+  "slug": "propane-1-2-diol-propylene-glycol",
+  "display_name": "Propane-1, 2-diol (propylene glycol)",
+  "kind": "other",
+  "ins": "1520",
+  "e": "E1520",
+  "cas": null,
+  "function": "Food additive, E1520 in the EU.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3331).",
+  "synonyms": [
+   "Propane-1, 2-diol (propylene glycol)|common",
+   "E1520|e_number",
+   "INS 1520|ins_number"
+  ]
+ },
+ {
+  "slug": "polyethylene-glycol",
+  "display_name": "Polyethylene glycol",
+  "kind": "other",
+  "ins": "1521",
+  "e": "E1521",
+  "cas": "25322-68-3",
+  "function": "Boiler water additive.",
+  "notes": "Generated from the EU Food Additives Database (https://ec.europa.eu/food/food-feed-portal/screen/food-additives/search/details/POL-FAD-IMPORT-3332); CAS and function from FDA Substances Added to Food, matched by exact name (POLYETHYLENE GLYCOL (M W 200-9,500)).",
+  "synonyms": [
+   "Polyethylene glycol|common",
+   "E1521|e_number",
+   "INS 1521|ins_number",
+   "25322-68-3|cas"
+  ]
+ }
+]

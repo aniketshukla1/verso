@@ -1,0 +1,289 @@
+[
+  {
+    "slug": "lecithin",
+    "display_name": "Lecithin",
+    "kind": "emulsifier",
+    "ins": "322",
+    "e": "E322",
+    "cas": "8002-43-5",
+    "function": "Phospholipid emulsifier, usually from soy or sunflower.",
+    "synonyms": [
+      "lecithin|common",
+      "soy lecithin|common",
+      "soya lecithin|common",
+      "sunflower lecithin|common",
+      "E322|e_number",
+      "INS 322|ins_number",
+      "8002-43-5|cas",
+      "lécithine|common|fr",
+      "lécithines|common|fr",
+      "lécithine de soja|common|fr",
+      "Lecithin|common|de",
+      "Sojalecithin|common|de",
+      "lecitina|common|es",
+      "lecitina di soia|common|it"
+    ]
+  },
+  {
+    "slug": "phosphoric-acid",
+    "display_name": "Phosphoric Acid",
+    "kind": "acidity_regulator",
+    "ins": "338",
+    "e": "E338",
+    "cas": "7664-38-2",
+    "function": "Acidulant giving colas their tang.",
+    "synonyms": [
+      "phosphoric acid|common",
+      "E338|e_number",
+      "INS 338|ins_number",
+      "orthophosphoric acid|iupac",
+      "7664-38-2|cas",
+      "acide phosphorique|common|fr",
+      "Phosphorsäure|common|de",
+      "ácido fosfórico|common|es"
+    ]
+  },
+  {
+    "slug": "sodium-phosphates",
+    "display_name": "Sodium Phosphates",
+    "kind": "acidity_regulator",
+    "ins": "339",
+    "e": "E339",
+    "cas": null,
+    "function": "Buffering and water-binding salts in processed meat, cheese and cola.",
+    "synonyms": [
+      "sodium phosphates|common",
+      "sodium phosphate|common",
+      "disodium phosphate|common",
+      "trisodium phosphate|common",
+      "E339|e_number",
+      "INS 339|ins_number"
+    ]
+  },
+  {
+    "slug": "carrageenan",
+    "display_name": "Carrageenan",
+    "kind": "stabiliser",
+    "ins": "407",
+    "e": "E407",
+    "cas": "9000-07-1",
+    "function": "Seaweed-derived thickener and stabiliser in dairy and plant milks.",
+    "synonyms": [
+      "carrageenan|common",
+      "carageenan|misspelling",
+      "E407|e_number",
+      "INS 407|ins_number",
+      "Irish moss extract|common",
+      "9000-07-1|cas",
+      "carraghénanes|common|fr",
+      "Carrageen|common|de",
+      "carragenanos|common|es"
+    ]
+  },
+  {
+    "slug": "guar-gum",
+    "display_name": "Guar Gum",
+    "kind": "stabiliser",
+    "ins": "412",
+    "e": "E412",
+    "cas": "9000-30-0",
+    "function": "Legume-derived thickener.",
+    "synonyms": [
+      "guar gum|common",
+      "E412|e_number",
+      "INS 412|ins_number",
+      "9000-30-0|cas",
+      "gomme guar|common|fr",
+      "Guarkernmehl|common|de",
+      "goma guar|common|es"
+    ]
+  },
+  {
+    "slug": "xanthan-gum",
+    "display_name": "Xanthan Gum",
+    "kind": "stabiliser",
+    "ins": "415",
+    "e": "E415",
+    "cas": "11138-66-2",
+    "function": "Fermentation-derived thickener.",
+    "synonyms": [
+      "xanthan gum|common",
+      "E415|e_number",
+      "INS 415|ins_number",
+      "11138-66-2|cas",
+      "gomme xanthane|common|fr",
+      "Xanthan|common|de",
+      "goma xantana|common|es"
+    ]
+  },
+  {
+    "slug": "polysorbate-80",
+    "display_name": "Polysorbate 80",
+    "kind": "emulsifier",
+    "ins": "433",
+    "e": "E433",
+    "cas": "9005-65-6",
+    "function": "Synthetic non-ionic emulsifier in ice cream and sauces.",
+    "synonyms": [
+      "polysorbate 80|common",
+      "polyoxyethylene sorbitan monooleate|iupac",
+      "tween 80|trade",
+      "E433|e_number",
+      "INS 433|ins_number",
+      "9005-65-6|cas"
+    ]
+  },
+  {
+    "slug": "diphosphates",
+    "display_name": "Diphosphates",
+    "kind": "raising_agent",
+    "ins": "450",
+    "e": "E450",
+    "cas": null,
+    "function": "Raising agent and water binder in baked goods and processed meat.",
+    "synonyms": [
+      "diphosphates|common",
+      "pyrophosphates|common",
+      "sodium acid pyrophosphate|common",
+      "SAPP|abbrev",
+      "E450|e_number",
+      "INS 450|ins_number"
+    ]
+  },
+  {
+    "slug": "triphosphates",
+    "display_name": "Triphosphates",
+    "kind": "stabiliser",
+    "ins": "451",
+    "e": "E451",
+    "cas": null,
+    "function": "Water-retention agent in meat, fish and poultry.",
+    "synonyms": [
+      "triphosphates|common",
+      "sodium tripolyphosphate|common",
+      "STPP|abbrev",
+      "E451|e_number",
+      "INS 451|ins_number"
+    ]
+  },
+  {
+    "slug": "cmc",
+    "display_name": "Carboxymethyl Cellulose",
+    "kind": "stabiliser",
+    "ins": "466",
+    "e": "E466",
+    "cas": "9004-32-4",
+    "function": "Cellulose-derived thickener and bulking agent.",
+    "synonyms": [
+      "carboxymethyl cellulose|common",
+      "sodium carboxymethyl cellulose|common",
+      "CMC|abbrev",
+      "cellulose gum|common",
+      "E466|e_number",
+      "INS 466|ins_number",
+      "9004-32-4|cas"
+    ]
+  },
+  {
+    "slug": "mono-diglycerides",
+    "display_name": "Mono- and Diglycerides",
+    "kind": "emulsifier",
+    "ins": "471",
+    "e": "E471",
+    "cas": null,
+    "function": "Fat-derived emulsifier, near-universal in industrial bakery.",
+    "synonyms": [
+      "mono and diglycerides|common",
+      "mono- and diglycerides of fatty acids|common",
+      "monoglycerides|common",
+      "diglycerides|common",
+      "E471|e_number",
+      "INS 471|ins_number",
+      "GMS|abbrev",
+      "glycerol monostearate|common"
+    ]
+  },
+  {
+    "slug": "ssl",
+    "display_name": "Sodium Stearoyl Lactylate",
+    "kind": "emulsifier",
+    "ins": "481",
+    "e": "E481",
+    "cas": "25383-99-7",
+    "function": "Dough strengthener and crumb softener.",
+    "synonyms": [
+      "sodium stearoyl lactylate|common",
+      "SSL|abbrev",
+      "sodium stearoyl-2-lactylate|common",
+      "E481|e_number",
+      "INS 481|ins_number",
+      "25383-99-7|cas"
+    ]
+  },
+  {
+    "slug": "msg",
+    "display_name": "Monosodium Glutamate",
+    "kind": "flavour_enhancer",
+    "ins": "621",
+    "e": "E621",
+    "cas": "142-47-2",
+    "function": "Umami flavour enhancer.",
+    "synonyms": [
+      "monosodium glutamate|common",
+      "MSG|abbrev",
+      "E621|e_number",
+      "INS 621|ins_number",
+      "ajinomoto|trade",
+      "flavour enhancer 621|common",
+      "flavor enhancer 621|common",
+      "142-47-2|cas",
+      "glutamate monosodique|common|fr",
+      "Mononatriumglutamat|common|de",
+      "glutamato monosódico|common|es"
+    ]
+  },
+  {
+    "slug": "disodium-guanylate",
+    "display_name": "Disodium Guanylate",
+    "kind": "flavour_enhancer",
+    "ins": "627",
+    "e": "E627",
+    "cas": "5550-12-9",
+    "function": "Nucleotide flavour enhancer, used with MSG.",
+    "synonyms": [
+      "disodium guanylate|common",
+      "E627|e_number",
+      "INS 627|ins_number",
+      "5550-12-9|cas"
+    ]
+  },
+  {
+    "slug": "disodium-inosinate",
+    "display_name": "Disodium Inosinate",
+    "kind": "flavour_enhancer",
+    "ins": "631",
+    "e": "E631",
+    "cas": "4691-65-0",
+    "function": "Nucleotide flavour enhancer, used with MSG.",
+    "synonyms": [
+      "disodium inosinate|common",
+      "E631|e_number",
+      "INS 631|ins_number",
+      "4691-65-0|cas"
+    ]
+  },
+  {
+    "slug": "acrylamide",
+    "display_name": "Acrylamide",
+    "kind": "contaminant",
+    "ins": null,
+    "e": null,
+    "cas": "79-06-1",
+    "function": "Process contaminant formed when starchy foods are fried, roasted or baked above ~120C. Never a declared ingredient.",
+    "synonyms": [
+      "acrylamide|common",
+      "2-propenamide|iupac",
+      "79-06-1|cas"
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+  <style>
+    body { margin: 0; background: #EFEDE4; }
+    a { color: #8C2F26; } a:hover { color: #6B231C; }
+    .pass * { box-sizing: border-box; }
+    .guilloche {
+      background-color: #EFEDE4;
+      background-image:
+        repeating-linear-gradient(58deg, rgba(26,29,38,0.055) 0 1px, transparent 1px 7px),
+        repeating-linear-gradient(-58deg, rgba(26,29,38,0.045) 0 1px, transparent 1px 9px);
+    }
+    .stamp {
+      border: 2px solid #8C2F26; color: #8C2F26; font-family: 'Archivo', sans-serif;
+      font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+      padding: 7px 11px 6px; display: flex; flex-direction: column; align-items: center; gap: 1px;
+      box-shadow: inset 0 0 0 1px rgba(140,47,38,0.25);
+    }
+  </style>
+</helmet>
+
+<div class="pass guilloche" style="width: 390px; min-height: 940px; font-family: 'Archivo', system-ui, sans-serif; color: #1A1D26; display: flex; flex-direction: column;">
+
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 14px 20px; border-bottom: 1px solid rgba(26,29,38,0.18);">
+    <span style="font-family: 'Instrument Serif', Georgia, serif; font-size: 20px; letter-spacing: 0.02em;">Verso</span>
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; color: #6E7180;">RECORD OF ENTRY · US</span>
+  </div>
+
+  <div style="padding: 20px 20px 0; display: flex; flex-direction: column; gap: 3px;">
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.16em; color: #6E7180;">SUBJECT OF RECORD</span>
+    <h1 style="margin: 0; font-family: 'Instrument Serif', Georgia, serif; font-size: 40px; font-weight: 400; line-height: 1.02; letter-spacing: -0.01em;">Potassium Bromate</h1>
+    <div style="display: flex; gap: 14px; margin-top: 5px; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.08em; color: #6E7180;">
+      <span>E924</span><span>INS 924</span><span>CAS 7758-01-2</span>
+    </div>
+    <p style="margin: 10px 0 0; font-family: 'Instrument Serif', Georgia, serif; font-size: 17px; font-style: italic; line-height: 1.4; color: #3C4050;">A flour oxidiser that strengthens dough and increases loaf volume.</p>
+  </div>
+
+  <div style="padding: 22px 20px 0;">
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.16em; color: #6E7180;">ENDORSEMENTS</span>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 12px; align-items: flex-start;">
+      <div class="stamp" style="transform: rotate(-3.5deg);">
+        <span style="font-size: 17px; letter-spacing: 0.06em;">EU</span>
+        <span style="font-size: 9px;">Not permitted</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 7.5px; letter-spacing: 0.04em; opacity: 0.8;">1333/2008</span>
+      </div>
+      <div class="stamp" style="transform: rotate(2.5deg);">
+        <span style="font-size: 17px; letter-spacing: 0.06em;">IND</span>
+        <span style="font-size: 9px;">Not permitted</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 7.5px; letter-spacing: 0.04em; opacity: 0.8;">FSSAI 2016</span>
+      </div>
+      <div class="stamp" style="transform: rotate(-1.5deg); border-color: #8A6212; color: #8A6212; box-shadow: inset 0 0 0 1px rgba(138,98,18,0.25);">
+        <span style="font-size: 17px; letter-spacing: 0.06em;">US&middot;CA</span>
+        <span style="font-size: 9px;">From 2027</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 7.5px; letter-spacing: 0.04em; opacity: 0.8;">AB 418</span>
+      </div>
+      <div class="stamp" style="transform: rotate(1.5deg); border-color: #1F4B45; color: #1F4B45; box-shadow: inset 0 0 0 1px rgba(31,75,69,0.25);">
+        <span style="font-size: 17px; letter-spacing: 0.06em;">US</span>
+        <span style="font-size: 9px;">Permitted</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 7.5px; letter-spacing: 0.04em; opacity: 0.8;">FDA 21 CFR</span>
+      </div>
+    </div>
+  </div>
+
+  <div style="padding: 24px 20px 0; display: flex; flex-direction: column; gap: 0;">
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.16em; color: #6E7180; padding-bottom: 10px;">NOTATIONS</span>
+    <div style="display: flex; gap: 11px; padding: 11px 0; border-top: 1px solid rgba(26,29,38,0.14);">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: #6E7180; padding-top: 3px;">IARC</span>
+      <p style="margin: 0; font-size: 13.5px; line-height: 1.45;">Group 2B &mdash; possibly carcinogenic to humans.</p>
+    </div>
+    <div style="display: flex; gap: 11px; padding: 11px 0; border-top: 1px solid rgba(26,29,38,0.14);">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: #6E7180; padding-top: 3px;">P65</span>
+      <p style="margin: 0; font-size: 13.5px; line-height: 1.45;">On California&rsquo;s Proposition 65 list of chemicals known to the State to cause cancer.</p>
+    </div>
+    <div style="display: flex; gap: 11px; padding: 11px 0; border-top: 1px solid rgba(26,29,38,0.14); border-bottom: 1px solid rgba(26,29,38,0.14);">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: #6E7180; padding-top: 3px;">ALSO</span>
+      <p style="margin: 0; font-size: 13.5px; line-height: 1.45;"><strong style="font-weight: 600;">Azodicarbonamide</strong> (E927a) carries one endorsement: not permitted in the EU.</p>
+    </div>
+  </div>
+
+  <div style="padding: 20px 20px 0; display: flex; justify-content: space-between; align-items: flex-end;">
+    <div style="display: flex; flex-direction: column; gap: 2px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.16em; color: #6E7180;">HAZARD SCORE</span>
+      <span style="font-family: 'Instrument Serif', Georgia, serif; font-size: 44px; line-height: 1;">58</span>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 3px; text-align: right; font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.08em; color: #6E7180;">
+      <span>LABEL READ 100%</span><span>EVIDENCE 50%</span><span>CONFIDENCE MEDIUM</span>
+    </div>
+  </div>
+
+  <div style="flex-grow: 1;"></div>
+
+  <div style="margin: 22px 20px 0; padding: 10px 12px; border-top: 1px solid rgba(26,29,38,0.25); border-bottom: 1px solid rgba(26,29,38,0.25); background: rgba(255,255,255,0.35); overflow: hidden;">
+    <div style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; line-height: 1.7; color: #3C4050; white-space: nowrap;">E924&lt;&lt;BROMATE&lt;&lt;EU0IN0CA2027&lt;&lt;&lt;&lt;<br>US1&lt;&lt;IARC2B&lt;&lt;P65&lt;&lt;OCR&lt;&lt;M0110&lt;&lt;&lt;</div>
+  </div>
+
+  <div style="display: flex; gap: 9px; padding: 18px 20px 22px;">
+    <button style="flex: 1; font-family: 'Archivo', sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 0.03em; color: #EFEDE4; background: #1A1D26; border: none; border-radius: 1px; padding: 15px 0; cursor: pointer;">Compare markets</button>
+    <button style="font-family: 'Archivo', sans-serif; font-size: 13px; font-weight: 600; color: #1A1D26; background: transparent; border: 1px solid #1A1D26; border-radius: 1px; padding: 15px 18px; cursor: pointer;">Scan</button>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

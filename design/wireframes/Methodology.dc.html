@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap">
+  <style>
+    body { margin: 0; background: #FFFFFF; font-family: 'Archivo', system-ui, sans-serif; }
+    a { color: #2E3F91; } a:hover { color: #22307A; }
+    .w * { box-sizing: border-box; }
+  </style>
+</helmet>
+<div class="w" style="width: 390px; height: 980px; background: #FFFFFF; color: #1A1A1A; display: flex; flex-direction: column;">
+  <div style="height: 48px; flex: none;"></div>
+  <div style="display: flex; align-items: center; height: 56px; padding: 0 8px; border-bottom: 1px solid #D9D9D6; flex: none;">
+    <div style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"></path></svg>
+    </div>
+    <span style="font-size: 15.5px; font-weight: 600;">How scores work</span>
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column; padding: 20px 20px 0; gap: 20px;">
+    <span style="font-size: 15px; line-height: 1.55;">Two numbers, never merged. Additive hazard and nutrition rest on different evidence, and averaging them is how scoring apps lose credibility.</span>
+
+    <div style="display: flex; flex-direction: column;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; color: #6E6E6B; padding-bottom: 10px;">WHAT COUNTS, AND HOW MUCH</span>
+      <div style="display: flex; gap: 13px; padding: 13px 0; border-top: 1px solid #E9E9E6;">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 13px; font-weight: 500; width: 16px; flex: none; padding-top: 1px;">A</span>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+          <span style="font-size: 14px; font-weight: 600;">Regulatory status</span>
+          <span style="font-size: 12px; line-height: 1.45; color: #6E6E6B;">Banned, restricted or warning-required in a named place</span>
+        </div>
+        <span style="font-size: 11px; font-weight: 600; color: #1A1A1A; flex: none; padding-top: 2px;">Drives the score</span>
+      </div>
+      <div style="display: flex; gap: 13px; padding: 13px 0; border-top: 1px solid #E9E9E6;">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 13px; font-weight: 500; width: 16px; flex: none; padding-top: 1px;">B</span>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+          <span style="font-size: 14px; font-weight: 600;">Body classification</span>
+          <span style="font-size: 12px; line-height: 1.45; color: #6E6E6B;">IARC group, ADI exceeded, Prop 65 listing</span>
+        </div>
+        <span style="font-size: 11px; font-weight: 600; color: #1A1A1A; flex: none; padding-top: 2px;">Strong input</span>
+      </div>
+      <div style="display: flex; gap: 13px; padding: 13px 0; border-top: 1px solid #E9E9E6;">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 13px; font-weight: 500; width: 16px; flex: none; padding-top: 1px;">C</span>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+          <span style="font-size: 14px; font-weight: 600;">Peer-reviewed research</span>
+          <span style="font-size: 12px; line-height: 1.45; color: #6E6E6B;">Graded by study design and replication</span>
+        </div>
+        <span style="font-size: 11px; font-weight: 600; color: #1A1A1A; flex: none; padding-top: 2px;">Context only</span>
+      </div>
+      <div style="display: flex; gap: 13px; padding: 13px 0; border-top: 1px solid #E9E9E6;">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 13px; font-weight: 500; width: 16px; flex: none; padding-top: 1px;">D</span>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+          <span style="font-size: 14px; font-weight: 600;">Contested or emerging</span>
+          <span style="font-size: 12px; line-height: 1.45; color: #6E6E6B;">Single studies, animal-only at implausible doses</span>
+        </div>
+        <span style="font-size: 11px; font-weight: 600; color: #9B9B97; flex: none; padding-top: 2px;">Never counts</span>
+      </div>
+    </div>
+
+    <div style="border: 1px solid #1A1A1A; border-radius: 4px; padding: 15px; display: flex; flex-direction: column; gap: 7px;">
+      <span style="font-size: 14px; font-weight: 600;">When we show no score at all</span>
+      <span style="font-size: 12.5px; line-height: 1.5; color: #6E6E6B;">If we could not read most of the label, or we have researched too few of its ingredients, you get the findings and no number. A number would claim we had checked things we have not.</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 9px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; color: #6E6E6B;">WHAT WE WILL NEVER SAY</span>
+      <span style="font-size: 13px; line-height: 1.55;">That an ingredient causes a disease. We report what a regulator did and what a body classified, with the date and the instrument. You draw the conclusion.</span>
+    </div>
+  </div>
+  <div style="border-top: 1px solid #D9D9D6; padding: 12px 20px; flex: none;">
+    <div style="height: 50px; border: 1.5px solid #1A1A1A; border-radius: 4px; display: flex; align-items: center; justify-content: center;">
+      <span style="font-size: 14.5px; font-weight: 600;">Read the full method</span>
+    </div>
+  </div>
+  <div style="height: 28px; flex: none;"></div>
+</div>
+</x-dc>
+</body>
+</html>

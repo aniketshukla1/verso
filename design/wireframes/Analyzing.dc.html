@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap">
+  <style>
+    body { margin: 0; background: #FFFFFF; font-family: 'Archivo', system-ui, sans-serif; }
+    a { color: #2E3F91; } a:hover { color: #22307A; }
+    .w * { box-sizing: border-box; }
+  </style>
+</helmet>
+<div class="w" style="width: 390px; height: 844px; background: #FFFFFF; color: #1A1A1A; display: flex; flex-direction: column;">
+  <div style="height: 48px; flex: none;"></div>
+
+  <div style="display: flex; align-items: center; height: 56px; padding: 0 8px;">
+    <div style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"></path></svg>
+    </div>
+    <span style="font-size: 16px; font-weight: 600;">Reading the label</span>
+  </div>
+
+  <div style="padding: 20px 20px 0; display: flex; flex-direction: column; gap: 22px;">
+    <div style="height: 132px; background: #EDEDEB; border: 1px dashed #B9B9B4; border-radius: 4px; display: flex; align-items: center; justify-content: center;">
+      <span style="font-family: 'Caveat', cursive; font-size: 16px; color: #9B9B97;">the photo they just took</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 14px;">
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex: none;"><path d="M20 6L9 17l-5-5"></path></svg>
+        <span style="font-size: 14.5px;">Text read from the panel</span>
+      </div>
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex: none;"><path d="M20 6L9 17l-5-5"></path></svg>
+        <span style="font-size: 14.5px;">7 ingredients identified</span>
+      </div>
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <div style="width: 20px; height: 20px; border: 2px solid #1A1A1A; border-radius: 50%; border-right-color: #D9D9D6; flex: none;"></div>
+        <span style="font-size: 14.5px; font-weight: 600;">Checking 4 jurisdictions</span>
+      </div>
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <div style="width: 20px; height: 20px; border: 2px solid #D9D9D6; border-radius: 50%; flex: none;"></div>
+        <span style="font-size: 14.5px; color: #9B9B97;">Looking for other markets</span>
+      </div>
+    </div>
+
+    <div style="border-top: 1px solid #D9D9D6; padding-top: 16px;">
+      <span style="font-family: 'Caveat', cursive; font-size: 16px; color: #6E6E6B; line-height: 1.4;">Results stream in as each step finishes &mdash; the screen never blocks on the slowest one.</span>
+    </div>
+  </div>
+
+  <div style="flex-grow: 1;"></div>
+  <div style="display: flex; align-items: center; justify-content: center; height: 48px; margin: 0 20px 20px; border: 1.5px solid #D9D9D6; border-radius: 4px;">
+    <span style="font-size: 14px; font-weight: 600; color: #6E6E6B;">Cancel</span>
+  </div>
+  <div style="height: 28px; flex: none;"></div>
+</div>
+</x-dc>
+</body>
+</html>

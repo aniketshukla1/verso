@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap">
+  <style>
+    body { margin: 0; background: #FFFFFF; font-family: 'Archivo', system-ui, sans-serif; }
+    a { color: #2E3F91; } a:hover { color: #22307A; }
+    .r * { box-sizing: border-box; }
+  </style>
+</helmet>
+
+<div class="r" style="width: 1300px; height: 800px; background: #FFFFFF; color: #1A1A1A; padding: 28px 32px; display: flex; flex-direction: column; gap: 22px;">
+
+  <div style="display: flex; flex-direction: column; gap: 7px;">
+    <span style="font-size: 21px; font-weight: 700; letter-spacing: -0.02em;">One layout, every handset</span>
+    <span style="font-size: 13.5px; line-height: 1.5; color: #6E6E6B; max-width: 88ch;">Verso ships to whatever phone someone already owns, so the layout is built on a single fluid column with a capped measure &mdash; not on a device. Type size never changes between widths; only the gutters and the wrap points do. 360&nbsp;px is the floor we design against, because that is a current budget Android, not an old iPhone.</span>
+  </div>
+
+  <div style="display: flex; gap: 28px; align-items: flex-start;">
+
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <div style="display: flex; align-items: baseline; gap: 8px;">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 500;">360 &times; 800</span>
+        <span style="font-size: 11.5px; color: #6E6E6B;">budget Android &mdash; the floor</span>
+      </div>
+      <div style="width: 360px; height: 560px; border: 1.5px solid #1A1A1A; border-radius: 5px; overflow: hidden; display: flex; flex-direction: column;">
+        <div style="height: 26px; flex: none;"></div>
+        <div style="padding: 12px 16px 14px; display: flex; flex-direction: column; gap: 6px; border-bottom: 1px solid #D9D9D6;">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.1em; color: #6E6E6B;">READ FROM LABEL &middot; US</span>
+          <span style="font-size: 19px; font-weight: 700; letter-spacing: -0.015em;">Unnamed bread</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 14px; padding: 14px 16px; border-bottom: 1px solid #D9D9D6;">
+          <span style="font-size: 34px; font-weight: 700; line-height: 1; letter-spacing: -0.03em;">58</span>
+          <div style="flex: 1; display: flex; flex-direction: column; gap: 6px;">
+            <div style="display: flex; height: 6px; border-radius: 3px; overflow: hidden;"><div style="width: 58%; background: #1A1A1A;"></div><div style="flex: 1; background: #E4E4E1;"></div></div>
+            <span style="font-size: 11px; line-height: 1.35; color: #6E6E6B;">Medium confidence &middot; evidence covers 2 of 4</span>
+          </div>
+        </div>
+        <div style="display: flex; gap: 10px; padding: 12px 16px; border-bottom: 1px solid #E9E9E6;">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 8.5px; color: #B3261E; border: 1px solid #B3261E; padding: 3px 5px; flex: none; height: 19px;">BANNED</span>
+          <span style="font-size: 13.5px; line-height: 1.42;">Potassium Bromate is not permitted in food in the European Union.</span>
+        </div>
+        <div style="padding: 12px 16px; display: flex; flex-direction: column; gap: 8px;">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.12em; color: #9B9B97;">COMPARE &mdash; STACKS BELOW 380</span>
+          <div style="border: 1px solid #E9E9E6; border-radius: 3px; padding: 8px 10px; display: flex; flex-direction: column; gap: 4px;">
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: #6E6E6B;">INDIA</span>
+            <span style="font-size: 13px; font-weight: 600; color: #B3261E;">Palmolein</span>
+          </div>
+          <div style="border: 1px solid #E9E9E6; border-radius: 3px; padding: 8px 10px; display: flex; flex-direction: column; gap: 4px;">
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: #6E6E6B;">UNITED STATES</span>
+            <span style="font-size: 13px; font-weight: 600; color: #B3261E;">Sunflower, corn, canola oil</span>
+          </div>
+        </div>
+      </div>
+      <span style="font-size: 11.5px; line-height: 1.5; color: #6E6E6B; width: 360px;">Gutters drop to 16&nbsp;px. The side-by-side compare stacks into two labelled blocks &mdash; two columns at this width would break ingredient names mid-word.</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <div style="display: flex; align-items: baseline; gap: 8px;">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 500;">390 &times; 844</span>
+        <span style="font-size: 11.5px; color: #6E6E6B;">the common baseline</span>
+      </div>
+      <div style="width: 390px; height: 560px; border: 1.5px solid #1A1A1A; border-radius: 5px; overflow: hidden; display: flex; flex-direction: column;">
+        <div style="height: 26px; flex: none;"></div>
+        <div style="padding: 12px 20px 14px; display: flex; flex-direction: column; gap: 6px; border-bottom: 1px solid #D9D9D6;">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.1em; color: #6E6E6B;">READ FROM LABEL &middot; US</span>
+          <span style="font-size: 19px; font-weight: 700; letter-spacing: -0.015em;">Unnamed bread</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 16px; padding: 14px 20px; border-bottom: 1px solid #D9D9D6;">
+          <span style="font-size: 34px; font-weight: 700; line-height: 1; letter-spacing: -0.03em;">58</span>
+          <div style="flex: 1; display: flex; flex-direction: column; gap: 6px;">
+            <div style="display: flex; height: 6px; border-radius: 3px; overflow: hidden;"><div style="width: 58%; background: #1A1A1A;"></div><div style="flex: 1; background: #E4E4E1;"></div></div>
+            <span style="font-size: 11px; line-height: 1.35; color: #6E6E6B;">Medium confidence &middot; evidence covers 2 of 4</span>
+          </div>
+        </div>
+        <div style="display: flex; gap: 11px; padding: 12px 20px; border-bottom: 1px solid #E9E9E6;">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 8.5px; color: #B3261E; border: 1px solid #B3261E; padding: 3px 5px; flex: none; height: 19px;">BANNED</span>
+          <span style="font-size: 13.5px; line-height: 1.42;">Potassium Bromate is not permitted in food in the European Union.</span>
+        </div>
+        <div style="padding: 12px 20px; display: flex; flex-direction: column; gap: 8px;">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.12em; color: #9B9B97;">COMPARE &mdash; TWO COLUMNS</span>
+          <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 10px;">
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: #6E6E6B; padding-bottom: 6px; border-bottom: 1px solid #1A1A1A;">INDIA</span>
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: #6E6E6B; padding-bottom: 6px; border-bottom: 1px solid #1A1A1A;">UNITED STATES</span>
+            <span style="font-size: 12.5px; padding: 8px 0; color: #B3261E; font-weight: 600;">Palmolein</span>
+            <span style="font-size: 12.5px; padding: 8px 0; color: #B3261E; font-weight: 600;">Sunflower oil</span>
+          </div>
+        </div>
+      </div>
+      <span style="font-size: 11.5px; line-height: 1.5; color: #6E6E6B; width: 390px;">20&nbsp;px gutters. Two columns fit. Every touch target on every screen is at least 44&nbsp;px tall, which is the real constraint on row density.</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <div style="display: flex; align-items: baseline; gap: 8px;">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 500;">430 &times; 932</span>
+        <span style="font-size: 11.5px; color: #6E6E6B;">large flagship</span>
+      </div>
+      <div style="width: 430px; height: 560px; border: 1.5px solid #1A1A1A; border-radius: 5px; overflow: hidden; display: flex; flex-direction: column;">
+        <div style="height: 26px; flex: none;"></div>
+        <div style="padding: 12px 24px 14px; display: flex; flex-direction: column; gap: 6px; border-bottom: 1px solid #D9D9D6;">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.1em; color: #6E6E6B;">READ FROM LABEL &middot; US</span>
+          <span style="font-size: 19px; font-weight: 700; letter-spacing: -0.015em;">Unnamed bread</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 16px; padding: 14px 24px; border-bottom: 1px solid #D9D9D6;">
+          <span style="font-size: 34px; font-weight: 700; line-height: 1; letter-spacing: -0.03em;">58</span>
+          <div style="flex: 1; display: flex; flex-direction: column; gap: 6px; max-width: 300px;">
+            <div style="display: flex; height: 6px; border-radius: 3px; overflow: hidden;"><div style="width: 58%; background: #1A1A1A;"></div><div style="flex: 1; background: #E4E4E1;"></div></div>
+            <span style="font-size: 11px; line-height: 1.35; color: #6E6E6B;">Medium confidence &middot; evidence covers 2 of 4</span>
+          </div>
+        </div>
+        <div style="display: flex; gap: 11px; padding: 12px 24px; border-bottom: 1px solid #E9E9E6;">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 8.5px; color: #B3261E; border: 1px solid #B3261E; padding: 3px 5px; flex: none; height: 19px;">BANNED</span>
+          <span style="font-size: 13.5px; line-height: 1.42; max-width: 46ch;">Potassium Bromate is not permitted in food in the European Union.</span>
+        </div>
+        <div style="padding: 12px 24px; display: flex; flex-direction: column; gap: 8px;">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.12em; color: #9B9B97;">COMPARE &mdash; TWO COLUMNS, CAPPED MEASURE</span>
+          <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 12px;">
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: #6E6E6B; padding-bottom: 6px; border-bottom: 1px solid #1A1A1A;">INDIA</span>
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9px; color: #6E6E6B; padding-bottom: 6px; border-bottom: 1px solid #1A1A1A;">UNITED STATES</span>
+            <span style="font-size: 12.5px; padding: 8px 0; color: #B3261E; font-weight: 600;">Palmolein</span>
+            <span style="font-size: 12.5px; padding: 8px 0; color: #B3261E; font-weight: 600;">Sunflower oil</span>
+          </div>
+        </div>
+      </div>
+      <span style="font-size: 11.5px; line-height: 1.5; color: #6E6E6B; width: 430px;">24&nbsp;px gutters, and reading text caps around 46 characters. Extra width becomes margin, never longer lines &mdash; a claim that runs the full 430&nbsp;px is harder to read, not easier.</span>
+    </div>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

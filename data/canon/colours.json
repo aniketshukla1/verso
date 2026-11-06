@@ -1,0 +1,249 @@
+[
+  {
+    "slug": "tartrazine",
+    "display_name": "Tartrazine",
+    "kind": "colour",
+    "ins": "102",
+    "e": "E102",
+    "cas": "1934-21-0",
+    "function": "Synthetic lemon-yellow azo dye.",
+    "synonyms": [
+      "tartrazine|common",
+      "E102|e_number",
+      "INS 102|ins_number",
+      "FD&C Yellow No. 5|common",
+      "Yellow 5|abbrev",
+      "CI 19140|trade",
+      "acid yellow 23|common",
+      "1934-21-0|cas",
+      "tartrazine|common|fr",
+      "Tartrazin|common|de",
+      "tartracina|common|es"
+    ]
+  },
+  {
+    "slug": "quinoline-yellow",
+    "display_name": "Quinoline Yellow",
+    "kind": "colour",
+    "ins": "104",
+    "e": "E104",
+    "cas": "8004-92-0",
+    "function": "Synthetic greenish-yellow quinophthalone dye.",
+    "synonyms": [
+      "quinoline yellow|common",
+      "E104|e_number",
+      "INS 104|ins_number",
+      "CI 47005|trade",
+      "food yellow 13|common",
+      "8004-92-0|cas"
+    ]
+  },
+  {
+    "slug": "sunset-yellow-fcf",
+    "display_name": "Sunset Yellow FCF",
+    "kind": "colour",
+    "ins": "110",
+    "e": "E110",
+    "cas": "2783-94-0",
+    "function": "Synthetic orange azo dye.",
+    "synonyms": [
+      "sunset yellow fcf|common",
+      "sunset yellow|common",
+      "E110|e_number",
+      "INS 110|ins_number",
+      "FD&C Yellow No. 6|common",
+      "Yellow 6|abbrev",
+      "CI 15985|trade",
+      "orange yellow S|common",
+      "2783-94-0|cas"
+    ]
+  },
+  {
+    "slug": "carmoisine",
+    "display_name": "Carmoisine",
+    "kind": "colour",
+    "ins": "122",
+    "e": "E122",
+    "cas": "3567-69-9",
+    "function": "Synthetic red azo dye.",
+    "synonyms": [
+      "carmoisine|common",
+      "azorubine|common",
+      "E122|e_number",
+      "INS 122|ins_number",
+      "CI 14720|trade",
+      "food red 3|common",
+      "3567-69-9|cas"
+    ]
+  },
+  {
+    "slug": "ponceau-4r",
+    "display_name": "Ponceau 4R",
+    "kind": "colour",
+    "ins": "124",
+    "e": "E124",
+    "cas": "2611-82-7",
+    "function": "Synthetic strawberry-red azo dye.",
+    "synonyms": [
+      "ponceau 4r|common",
+      "cochineal red A|common",
+      "E124|e_number",
+      "INS 124|ins_number",
+      "CI 16255|trade",
+      "new coccine|common",
+      "2611-82-7|cas"
+    ]
+  },
+  {
+    "slug": "erythrosine",
+    "display_name": "Erythrosine",
+    "kind": "colour",
+    "ins": "127",
+    "e": "E127",
+    "cas": "16423-68-0",
+    "function": "Synthetic cherry-pink xanthene dye.",
+    "synonyms": [
+      "erythrosine|common",
+      "erythrosin|misspelling",
+      "E127|e_number",
+      "INS 127|ins_number",
+      "FD&C Red No. 3|common",
+      "Red 3|abbrev",
+      "red dye 3|common",
+      "CI 45430|trade",
+      "16423-68-0|cas"
+    ]
+  },
+  {
+    "slug": "allura-red-ac",
+    "display_name": "Allura Red AC",
+    "kind": "colour",
+    "ins": "129",
+    "e": "E129",
+    "cas": "25956-17-6",
+    "function": "Synthetic red azo dye, the most widely used red in packaged food.",
+    "synonyms": [
+      "allura red ac|common",
+      "allura red|common",
+      "E129|e_number",
+      "INS 129|ins_number",
+      "FD&C Red No. 40|common",
+      "Red 40|abbrev",
+      "red dye 40|common",
+      "CI 16035|trade",
+      "25956-17-6|cas"
+    ]
+  },
+  {
+    "slug": "brilliant-blue-fcf",
+    "display_name": "Brilliant Blue FCF",
+    "kind": "colour",
+    "ins": "133",
+    "e": "E133",
+    "cas": "3844-45-9",
+    "function": "Synthetic blue triarylmethane dye.",
+    "synonyms": [
+      "brilliant blue fcf|common",
+      "brilliant blue|common",
+      "E133|e_number",
+      "INS 133|ins_number",
+      "FD&C Blue No. 1|common",
+      "Blue 1|abbrev",
+      "CI 42090|trade",
+      "3844-45-9|cas"
+    ]
+  },
+  {
+    "slug": "indigotine",
+    "display_name": "Indigotine",
+    "kind": "colour",
+    "ins": "132",
+    "e": "E132",
+    "cas": "860-22-0",
+    "function": "Synthetic dark-blue indigoid dye.",
+    "synonyms": [
+      "indigotine|common",
+      "indigo carmine|common",
+      "E132|e_number",
+      "INS 132|ins_number",
+      "FD&C Blue No. 2|common",
+      "Blue 2|abbrev",
+      "CI 73015|trade",
+      "860-22-0|cas"
+    ]
+  },
+  {
+    "slug": "fast-green-fcf",
+    "display_name": "Fast Green FCF",
+    "kind": "colour",
+    "ins": "143",
+    "e": "E143",
+    "cas": "2353-45-9",
+    "function": "Synthetic sea-green triarylmethane dye.",
+    "synonyms": [
+      "fast green fcf|common",
+      "E143|e_number",
+      "INS 143|ins_number",
+      "FD&C Green No. 3|common",
+      "Green 3|abbrev",
+      "CI 42053|trade",
+      "2353-45-9|cas"
+    ]
+  },
+  {
+    "slug": "caramel-iv",
+    "display_name": "Sulphite Ammonia Caramel",
+    "kind": "colour",
+    "ins": "150d",
+    "e": "E150d",
+    "cas": null,
+    "function": "Class IV caramel colour used in colas and sauces; manufacture can form 4-methylimidazole.",
+    "synonyms": [
+      "sulphite ammonia caramel|common",
+      "sulfite ammonia caramel|common",
+      "caramel colour class IV|common",
+      "caramel color class IV|common",
+      "E150d|e_number",
+      "INS 150d|ins_number",
+      "caramel IV|abbrev"
+    ]
+  },
+  {
+    "slug": "annatto",
+    "display_name": "Annatto",
+    "kind": "colour",
+    "ins": "160b",
+    "e": "E160b",
+    "cas": null,
+    "function": "Orange-red carotenoid colour extracted from achiote seed.",
+    "synonyms": [
+      "annatto|common",
+      "bixin|common",
+      "norbixin|common",
+      "E160b|e_number",
+      "INS 160b|ins_number",
+      "annatto extract|common"
+    ]
+  },
+  {
+    "slug": "titanium-dioxide",
+    "display_name": "Titanium Dioxide",
+    "kind": "colour",
+    "ins": "171",
+    "e": "E171",
+    "cas": "13463-67-7",
+    "function": "Bright white opacifying pigment used in confectionery, icing and coatings.",
+    "synonyms": [
+      "titanium dioxide|common",
+      "E171|e_number",
+      "INS 171|ins_number",
+      "CI 77891|trade",
+      "TiO2|abbrev",
+      "13463-67-7|cas",
+      "dioxyde de titane|common|fr",
+      "Titandioxid|common|de",
+      "dióxido de titanio|common|es",
+      "biossido di titanio|common|it"
+    ]
+  }
+]

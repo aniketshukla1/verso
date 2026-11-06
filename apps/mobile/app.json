@@ -1,0 +1,68 @@
+{
+  "expo": {
+    "name": "Verso",
+    "slug": "verso",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "verso",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "app.verso.scanner",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Verso uses the camera to read barcodes and ingredient panels on food packaging.",
+        "NSLocalNetworkUsageDescription": "Verso connects to a development server on your Wi-Fi network while the app is being built and tested."
+      }
+    },
+    "android": {
+      "package": "app.verso.scanner",
+      "permissions": [
+        "android.permission.CAMERA"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/brand/adaptive-foreground.png",
+        "backgroundColor": "#2E3F91",
+        "monochromeImage": "./assets/brand/adaptive-monochrome.png"
+      }
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "deploymentTarget": "16.4"
+          },
+          "android": {
+            "minSdkVersion": 24
+          }
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/brand/splash-mark.png",
+          "imageWidth": 168,
+          "resizeMode": "contain",
+          "backgroundColor": "#2E3F91",
+          "dark": {
+            "image": "./assets/brand/splash-mark.png",
+            "backgroundColor": "#141B3D"
+          }
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Verso uses the camera to read barcodes and ingredient panels on food packaging."
+        }
+      ],
+      "expo-sqlite",
+      "./plugins/withSignEmbeddedFrameworks",
+      "./plugins/withUserScriptSandboxingOff",
+      "./plugins/withSceneLifecycle",
+      "./plugins/withMetroBonjourHost"
+    ],
+    "icon": "./assets/brand/icon.png"
+  }
+}

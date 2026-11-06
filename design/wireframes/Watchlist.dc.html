@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap">
+  <style>
+    body { margin: 0; background: #FFFFFF; font-family: 'Archivo', system-ui, sans-serif; }
+    a { color: #2E3F91; } a:hover { color: #22307A; }
+    .w * { box-sizing: border-box; }
+  </style>
+</helmet>
+<div class="w" style="width: 390px; height: 844px; background: #FFFFFF; color: #1A1A1A; display: flex; flex-direction: column;">
+  <div style="height: 48px; flex: none;"></div>
+  <div style="padding: 8px 20px 14px;">
+    <span style="font-size: 26px; font-weight: 700; letter-spacing: -0.025em;">Library</span>
+  </div>
+  <div style="display: flex; gap: 8px; padding: 0 20px 14px;">
+    <span style="font-size: 12.5px; font-weight: 600; padding: 8px 13px; border: 1px solid #D9D9D6; border-radius: 15px; color: #6E6E6B;">Scans</span>
+    <span style="font-size: 12.5px; font-weight: 600; padding: 8px 13px; background: #1A1A1A; color: #FFFFFF; border-radius: 15px;">Watching</span>
+    <span style="font-size: 12.5px; font-weight: 600; padding: 8px 13px; border: 1px solid #D9D9D6; border-radius: 15px; color: #6E6E6B;">Alerts</span>
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column;">
+    <div style="margin: 0 20px 16px; padding: 14px; border: 1px solid #1A1A1A; border-radius: 4px; display: flex; gap: 12px; align-items: flex-start;">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="flex: none; margin-top: 1px;"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path><path d="M13.7 21a2 2 0 0 1-3.4 0"></path></svg>
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 14px; font-weight: 600;">1 new change</span>
+        <span style="font-size: 12.5px; line-height: 1.45; color: #6E6E6B;">Red Dye 3 &mdash; the US reformulation deadline is now 4 months away.</span>
+      </div>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none; margin-top: 3px;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; color: #9B9B97; padding: 0 20px 8px;">INGREDIENTS YOU WATCH</span>
+    <div style="display: flex; align-items: center; gap: 12px; padding: 0 20px; height: 64px; border-top: 1px solid #E9E9E6;">
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+        <span style="font-size: 14.5px; font-weight: 600;">Potassium Bromate</span>
+        <span style="font-size: 11.5px; color: #6E6E6B;">In 3 products you scanned</span>
+      </div>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;">E924</span>
+      <div style="width: 46px; height: 27px; border-radius: 14px; background: #1A1A1A; display: flex; align-items: center; justify-content: flex-end; padding: 2px; flex: none;">
+        <div style="width: 23px; height: 23px; border-radius: 50%; background: #FFFFFF;"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; gap: 12px; padding: 0 20px; height: 64px; border-top: 1px solid #E9E9E6;">
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+        <span style="font-size: 14.5px; font-weight: 600;">Red Dye 3</span>
+        <span style="font-size: 11.5px; color: #6E6E6B;">In 1 product you scanned</span>
+      </div>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;">E127</span>
+      <div style="width: 46px; height: 27px; border-radius: 14px; background: #1A1A1A; display: flex; align-items: center; justify-content: flex-end; padding: 2px; flex: none;">
+        <div style="width: 23px; height: 23px; border-radius: 50%; background: #FFFFFF;"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; gap: 12px; padding: 0 20px; height: 64px; border-top: 1px solid #E9E9E6;">
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+        <span style="font-size: 14.5px; font-weight: 600;">Titanium Dioxide</span>
+        <span style="font-size: 11.5px; color: #6E6E6B;">Not in anything you scanned</span>
+      </div>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;">E171</span>
+      <div style="width: 46px; height: 27px; border-radius: 14px; background: #1A1A1A; display: flex; align-items: center; justify-content: flex-end; padding: 2px; flex: none;">
+        <div style="width: 23px; height: 23px; border-radius: 50%; background: #FFFFFF;"></div>
+      </div>
+    </div>
+    <div style="padding: 22px 20px 0;">
+      <span style="font-family: 'Caveat', cursive; font-size: 16px; color: #6E6E6B; line-height: 1.35;">This is the retention loop &mdash; a reason to open the app when you are not shopping.</span>
+    </div>
+  </div>
+  <div style="height: 1px; background: #D9D9D6;"></div>
+  <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); height: 56px; flex: none;">
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.7" stroke-linecap="round"><path d="M3 8V5a2 2 0 0 1 2-2h3"></path><path d="M16 3h3a2 2 0 0 1 2 2v3"></path><path d="M21 16v3a2 2 0 0 1-2 2h-3"></path><path d="M8 21H5a2 2 0 0 1-2-2v-3"></path></svg>
+      <span style="font-size: 10.5px; color: #9B9B97;">Scan</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.7" stroke-linecap="round"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M4 19h10"></path></svg>
+      <span style="font-size: 10.5px; color: #1A1A1A; font-weight: 600;">Library</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.7" stroke-linecap="round"><circle cx="12" cy="8" r="4"></circle><path d="M4 21c0-4 3.6-6 8-6s8 2 8 6"></path></svg>
+      <span style="font-size: 10.5px; color: #9B9B97;">You</span>
+    </div>
+  </div>
+  <div style="height: 28px; flex: none;"></div>
+</div>
+</x-dc>
+</body>
+</html>

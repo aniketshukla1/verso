@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "palm-oil",
+    "display_name": "Palm Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": "8002-75-3",
+    "function": "Semi-solid fat from oil palm fruit; ~49% saturated fat. Cheapest bulk frying and bakery fat.",
+    "synonyms": [
+      "palm oil|common",
+      "palm fat|common",
+      "vegetable oil (palm)|common",
+      "edible vegetable oil (palm)|common",
+      "RBD palm oil|trade",
+      "8002-75-3|cas",
+      "huile de palme|common|fr",
+      "Palmöl|common|de",
+      "aceite de palma|common|es",
+      "olio di palma|common|it",
+      "palmolie|common|nl",
+      "पाम तेल|common|hi"
+    ],
+    "notes": "Distinct from palmolein (see slug palmolein), which is the liquid fraction, and from palm kernel oil (see slug palm-kernel-oil), which is pressed from the kernel and is mostly lauric acid. Labels use these terms for different fats; do not merge."
+  },
+  {
+    "slug": "palm-kernel-oil",
+    "display_name": "Palm Kernel Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": "8023-79-8",
+    "function": "Fat pressed from the kernel of the oil palm fruit, mostly lauric acid; used in confectionery coatings and creamers.",
+    "synonyms": [
+      "palm kernel oil|common",
+      "palm kernel fat|common",
+      "palmkernel oil|common",
+      "8023-79-8|cas",
+      "huile de palmiste|common|fr",
+      "Palmkernöl|common|de",
+      "aceite de palmiste|common|es",
+      "olio di palmisti|common|it"
+    ],
+    "notes": "Was a synonym of palm-oil until composition data made the merge print palm oil's fatty-acid range for a lauric fat. Codex lists it as a separate oil."
+  },
+  {
+    "slug": "palmolein",
+    "display_name": "Palmolein",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": null,
+    "function": "Liquid fraction of palm oil, ~40% saturated fat. The default frying oil across South and Southeast Asia on cost grounds.",
+    "synonyms": [
+      "palmolein|common",
+      "palm olein|common",
+      "palmolein oil|common",
+      "refined palmolein|common",
+      "palmolein oil (RBD)|trade",
+      "पामोलीन|local",
+      "oléine de palme|common|fr",
+      "Palmolein|common|de",
+      "oleína de palma|common|es"
+    ],
+    "notes": "Liquid fraction of palm oil. Kept separate from palm-oil deliberately: the India/US Lay’s comparison turns on this exact distinction."
+  },
+  {
+    "slug": "sunflower-oil",
+    "display_name": "Sunflower Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": "8001-21-6",
+    "function": "Liquid seed oil, ~11% saturated fat. Common frying oil in US and European formulations.",
+    "synonyms": [
+      "sunflower oil|common",
+      "sunflower seed oil|common",
+      "high oleic sunflower oil|common",
+      "8001-21-6|cas",
+      "huile de tournesol|common|fr",
+      "Sonnenblumenöl|common|de",
+      "aceite de girasol|common|es",
+      "olio di girasole|common|it",
+      "सूरजमुखी तेल|common|hi"
+    ]
+  },
+  {
+    "slug": "canola-oil",
+    "display_name": "Canola Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": "120962-03-0",
+    "function": "Low-erucic-acid rapeseed oil, ~7% saturated fat.",
+    "synonyms": [
+      "canola oil|common",
+      "rapeseed oil|common",
+      "low erucic acid rapeseed oil|common",
+      "LEAR oil|abbrev",
+      "colza oil|common",
+      "huile de colza|common|fr",
+      "Rapsöl|common|de",
+      "aceite de colza|common|es"
+    ]
+  },
+  {
+    "slug": "corn-oil",
+    "display_name": "Corn Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": "8001-30-7",
+    "function": "Liquid seed oil, ~13% saturated fat.",
+    "synonyms": [
+      "corn oil|common",
+      "maize oil|common",
+      "8001-30-7|cas",
+      "huile de maïs|common|fr",
+      "Maiskeimöl|common|de",
+      "aceite de maíz|common|es"
+    ]
+  },
+  {
+    "slug": "soybean-oil",
+    "display_name": "Soybean Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": "8001-22-7",
+    "function": "The most produced seed oil globally, ~15% saturated fat.",
+    "synonyms": [
+      "soybean oil|common",
+      "soya oil|common",
+      "soybean oil (partially hydrogenated)|common",
+      "soy oil|common",
+      "8001-22-7|cas",
+      "huile de soja|common|fr",
+      "Sojaöl|common|de",
+      "aceite de soja|common|es"
+    ]
+  },
+  {
+    "slug": "cottonseed-oil",
+    "display_name": "Cottonseed Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": "8001-29-4",
+    "function": "Seed oil, ~26% saturated fat, used in snack frying blends.",
+    "synonyms": [
+      "cottonseed oil|common",
+      "cotton seed oil|common",
+      "8001-29-4|cas",
+      "huile de coton|common|fr",
+      "Baumwollsaatöl|common|de"
+    ]
+  },
+  {
+    "slug": "rice-bran-oil",
+    "display_name": "Rice Bran Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": "68553-81-1",
+    "function": "Seed oil, ~25% saturated fat, common in Indian and Japanese frying.",
+    "synonyms": [
+      "rice bran oil|common",
+      "rice bran|common",
+      "68553-81-1|cas"
+    ]
+  },
+  {
+    "slug": "coconut-oil",
+    "display_name": "Coconut Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": "8001-31-8",
+    "function": "Solid fat, ~82% saturated fat, the highest of common food oils.",
+    "synonyms": [
+      "coconut oil|common",
+      "copra oil|common",
+      "8001-31-8|cas",
+      "huile de coco|common|fr",
+      "Kokosöl|common|de",
+      "aceite de coco|common|es"
+    ]
+  },
+  {
+    "slug": "partially-hydrogenated-oil",
+    "display_name": "Partially Hydrogenated Oil",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": null,
+    "function": "Industrially hardened oil; the principal dietary source of artificial trans fat.",
+    "synonyms": [
+      "partially hydrogenated oil|common",
+      "partially hydrogenated vegetable oil|common",
+      "PHO|abbrev",
+      "partially hydrogenated soybean oil|common",
+      "partially hydrogenated palm oil|common",
+      "vanaspati|local",
+      "hydrogenated vegetable fat|common",
+      "trans fat|common"
+    ]
+  },
+  {
+    "slug": "interesterified-fat",
+    "display_name": "Interesterified Fat",
+    "kind": "oil_fat",
+    "ins": null,
+    "e": null,
+    "cas": null,
+    "function": "Rearranged triglyceride fat used as a trans-fat replacement in bakery shortenings.",
+    "synonyms": [
+      "interesterified fat|common",
+      "interesterified vegetable fat|common",
+      "fully hydrogenated and interesterified|common"
+    ]
+  }
+]

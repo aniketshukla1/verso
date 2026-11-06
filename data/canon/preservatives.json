@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "sorbic-acid",
+    "display_name": "Sorbic Acid",
+    "kind": "preservative",
+    "ins": "200",
+    "e": "E200",
+    "cas": "110-44-1",
+    "function": "Mould and yeast inhibitor.",
+    "synonyms": [
+      "sorbic acid|common",
+      "E200|e_number",
+      "INS 200|ins_number",
+      "110-44-1|cas"
+    ]
+  },
+  {
+    "slug": "potassium-sorbate",
+    "display_name": "Potassium Sorbate",
+    "kind": "preservative",
+    "ins": "202",
+    "e": "E202",
+    "cas": "24634-61-5",
+    "function": "Mould and yeast inhibitor; the most common sorbate salt.",
+    "synonyms": [
+      "potassium sorbate|common",
+      "E202|e_number",
+      "INS 202|ins_number",
+      "24634-61-5|cas"
+    ]
+  },
+  {
+    "slug": "benzoic-acid",
+    "display_name": "Benzoic Acid",
+    "kind": "preservative",
+    "ins": "210",
+    "e": "E210",
+    "cas": "65-85-0",
+    "function": "Antimicrobial preservative, active in acidic foods.",
+    "synonyms": [
+      "benzoic acid|common",
+      "E210|e_number",
+      "INS 210|ins_number",
+      "65-85-0|cas"
+    ]
+  },
+  {
+    "slug": "sodium-benzoate",
+    "display_name": "Sodium Benzoate",
+    "kind": "preservative",
+    "ins": "211",
+    "e": "E211",
+    "cas": "532-32-1",
+    "function": "Antimicrobial preservative; can form benzene in the presence of ascorbic acid.",
+    "synonyms": [
+      "sodium benzoate|common",
+      "E211|e_number",
+      "INS 211|ins_number",
+      "benzoate of soda|common",
+      "532-32-1|cas",
+      "benzoate de sodium|common|fr",
+      "Natriumbenzoat|common|de",
+      "benzoato de sodio|common|es"
+    ]
+  },
+  {
+    "slug": "propylparaben",
+    "display_name": "Propylparaben",
+    "kind": "preservative",
+    "ins": "216",
+    "e": "E216",
+    "cas": "94-13-3",
+    "function": "Antimicrobial ester of p-hydroxybenzoic acid.",
+    "synonyms": [
+      "propylparaben|common",
+      "propyl paraben|common",
+      "propyl p-hydroxybenzoate|iupac",
+      "E216|e_number",
+      "INS 216|ins_number",
+      "94-13-3|cas"
+    ]
+  },
+  {
+    "slug": "sulphur-dioxide",
+    "display_name": "Sulphur Dioxide",
+    "kind": "preservative",
+    "ins": "220",
+    "e": "E220",
+    "cas": "7446-09-5",
+    "function": "Preservative and antioxidant; a declarable allergen in many markets.",
+    "synonyms": [
+      "sulphur dioxide|common",
+      "sulfur dioxide|common",
+      "E220|e_number",
+      "INS 220|ins_number",
+      "SO2|abbrev",
+      "sulphites|common",
+      "sulfites|common",
+      "7446-09-5|cas"
+    ]
+  },
+  {
+    "slug": "potassium-nitrite",
+    "display_name": "Potassium Nitrite",
+    "kind": "preservative",
+    "ins": "249",
+    "e": "E249",
+    "cas": "7758-09-0",
+    "function": "Curing salt for meat; inhibits Clostridium botulinum.",
+    "synonyms": [
+      "potassium nitrite|common",
+      "E249|e_number",
+      "INS 249|ins_number",
+      "7758-09-0|cas"
+    ]
+  },
+  {
+    "slug": "sodium-nitrite",
+    "display_name": "Sodium Nitrite",
+    "kind": "preservative",
+    "ins": "250",
+    "e": "E250",
+    "cas": "7632-00-0",
+    "function": "Curing salt giving cured meat its colour; can form nitrosamines on high-heat cooking.",
+    "synonyms": [
+      "sodium nitrite|common",
+      "E250|e_number",
+      "INS 250|ins_number",
+      "7632-00-0|cas",
+      "nitrite de sodium|common|fr",
+      "Natriumnitrit|common|de",
+      "nitrito de sodio|common|es"
+    ]
+  },
+  {
+    "slug": "sodium-nitrate",
+    "display_name": "Sodium Nitrate",
+    "kind": "preservative",
+    "ins": "251",
+    "e": "E251",
+    "cas": "7631-99-4",
+    "function": "Slow-release curing salt, reduced to nitrite during curing.",
+    "synonyms": [
+      "sodium nitrate|common",
+      "E251|e_number",
+      "INS 251|ins_number",
+      "chile saltpetre|common",
+      "7631-99-4|cas"
+    ]
+  },
+  {
+    "slug": "calcium-propionate",
+    "display_name": "Calcium Propionate",
+    "kind": "preservative",
+    "ins": "282",
+    "e": "E282",
+    "cas": "4075-81-4",
+    "function": "Mould inhibitor, near-universal in packaged bread.",
+    "synonyms": [
+      "calcium propionate|common",
+      "E282|e_number",
+      "INS 282|ins_number",
+      "4075-81-4|cas"
+    ]
+  },
+  {
+    "slug": "propyl-gallate",
+    "display_name": "Propyl Gallate",
+    "kind": "antioxidant",
+    "ins": "310",
+    "e": "E310",
+    "cas": "121-79-9",
+    "function": "Prevents oxidative rancidity in fats and oils.",
+    "synonyms": [
+      "propyl gallate|common",
+      "E310|e_number",
+      "INS 310|ins_number",
+      "121-79-9|cas"
+    ]
+  },
+  {
+    "slug": "tbhq",
+    "display_name": "TBHQ",
+    "kind": "antioxidant",
+    "ins": "319",
+    "e": "E319",
+    "cas": "1948-33-0",
+    "function": "Synthetic antioxidant for frying oils and snack fats.",
+    "synonyms": [
+      "TBHQ|abbrev",
+      "tertiary butylhydroquinone|common",
+      "tert-butylhydroquinone|iupac",
+      "E319|e_number",
+      "INS 319|ins_number",
+      "1948-33-0|cas"
+    ]
+  },
+  {
+    "slug": "bha",
+    "display_name": "BHA",
+    "kind": "antioxidant",
+    "ins": "320",
+    "e": "E320",
+    "cas": "25013-16-5",
+    "function": "Synthetic antioxidant for fats, cereals and snacks.",
+    "synonyms": [
+      "BHA|abbrev",
+      "butylated hydroxyanisole|common",
+      "E320|e_number",
+      "INS 320|ins_number",
+      "25013-16-5|cas"
+    ]
+  },
+  {
+    "slug": "bht",
+    "display_name": "BHT",
+    "kind": "antioxidant",
+    "ins": "321",
+    "e": "E321",
+    "cas": "128-37-0",
+    "function": "Synthetic antioxidant, often paired with BHA.",
+    "synonyms": [
+      "BHT|abbrev",
+      "butylated hydroxytoluene|common",
+      "E321|e_number",
+      "INS 321|ins_number",
+      "128-37-0|cas"
+    ]
+  },
+  {
+    "slug": "potassium-bromate",
+    "display_name": "Potassium Bromate",
+    "kind": "flour_treatment",
+    "ins": "924",
+    "e": "E924",
+    "cas": "7758-01-2",
+    "function": "Flour oxidiser that strengthens dough and increases loaf volume.",
+    "synonyms": [
+      "potassium bromate|common",
+      "E924|e_number",
+      "INS 924|ins_number",
+      "bromated flour|common",
+      "7758-01-2|cas"
+    ]
+  },
+  {
+    "slug": "azodicarbonamide",
+    "display_name": "Azodicarbonamide",
+    "kind": "flour_treatment",
+    "ins": "927a",
+    "e": "E927a",
+    "cas": "123-77-3",
+    "function": "Dough conditioner and flour bleaching agent.",
+    "synonyms": [
+      "azodicarbonamide|common",
+      "ADA|abbrev",
+      "E927a|e_number",
+      "INS 927a|ins_number",
+      "123-77-3|cas"
+    ]
+  },
+  {
+    "slug": "brominated-vegetable-oil",
+    "display_name": "Brominated Vegetable Oil",
+    "kind": "stabiliser",
+    "ins": "443",
+    "e": "E443",
+    "cas": null,
+    "function": "Brominated oil that keeps citrus flavouring suspended in soft drinks.",
+    "synonyms": [
+      "brominated vegetable oil|common",
+      "BVO|abbrev",
+      "E443|e_number",
+      "INS 443|ins_number"
+    ]
+  }
+]

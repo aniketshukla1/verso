@@ -1,0 +1,52 @@
+{
+  "pages": [
+    { "id": "flow-scan",    "name": "Scan to verdict" },
+    { "id": "flow-compare", "name": "Compare" },
+    { "id": "flow-library", "name": "Library and you" },
+    { "id": "flow-system",  "name": "Onboarding, states, devices" }
+  ],
+  "artboards": [
+    { "file": "Main.dc.html",              "page": "flow-scan", "x": 0,    "y": 0,    "w": 390, "h": 844,  "title": "1 · Scan — barcode" },
+    { "file": "ScanPanel.dc.html",         "page": "flow-scan", "x": 500,  "y": 0,    "w": 390, "h": 844,  "title": "2 · Scan — ingredient panel" },
+    { "file": "Analyzing.dc.html",         "page": "flow-scan", "x": 1000, "y": 0,    "w": 390, "h": 844,  "title": "3 · Reading" },
+    { "file": "VerdictMiss.dc.html",       "page": "flow-scan", "x": 1500, "y": 0,    "w": 390, "h": 844,  "title": "4 · Nothing read" },
+    { "file": "Verdict.dc.html",           "page": "flow-scan", "x": 0,    "y": 1000, "w": 390, "h": 1420, "title": "5 · Verdict — scored (full scroll)" },
+    { "file": "VerdictSuppressed.dc.html", "page": "flow-scan", "x": 500,  "y": 1000, "w": 390, "h": 940,  "title": "6 · Verdict — not scored" },
+    { "file": "Ingredient.dc.html",        "page": "flow-scan", "x": 1000, "y": 1000, "w": 390, "h": 1020, "title": "7 · Ingredient detail" },
+    { "file": "Citation.dc.html",          "page": "flow-scan", "x": 1500, "y": 1000, "w": 390, "h": 844,  "title": "8 · Source sheet" },
+    { "file": "Contribute.dc.html",        "page": "flow-scan", "x": 0,    "y": 2560, "w": 390, "h": 844,  "title": "9 · Send this label" },
+
+    { "file": "Compare.dc.html",           "page": "flow-compare", "x": 0,    "y": 0, "w": 390, "h": 1140, "title": "10 · Compare markets" },
+    { "file": "CompareHunting.dc.html",    "page": "flow-compare", "x": 500,  "y": 0, "w": 390, "h": 844,  "title": "11 · Finding other markets" },
+    { "file": "CompareNone.dc.html",       "page": "flow-compare", "x": 1000, "y": 0, "w": 390, "h": 844,  "title": "12 · No counterpart" },
+
+    { "file": "Library.dc.html",           "page": "flow-library", "x": 0,    "y": 0,    "w": 390, "h": 844, "title": "13 · Library — scans" },
+    { "file": "Watchlist.dc.html",         "page": "flow-library", "x": 500,  "y": 0,    "w": 390, "h": 844, "title": "14 · Library — watching" },
+    { "file": "AlertDetail.dc.html",       "page": "flow-library", "x": 1000, "y": 0,    "w": 390, "h": 844, "title": "15 · A change" },
+    { "file": "Profile.dc.html",           "page": "flow-library", "x": 1500, "y": 0,    "w": 390, "h": 844, "title": "16 · You" },
+    { "file": "Search.dc.html",            "page": "flow-library", "x": 0,    "y": 1000, "w": 390, "h": 844, "title": "17 · Search by name" },
+
+    { "file": "Onboarding.dc.html",        "page": "flow-system", "x": 0,    "y": 0,    "w": 390,  "h": 844, "title": "18 · Onboarding — what you avoid" },
+    { "file": "Permission.dc.html",        "page": "flow-system", "x": 500,  "y": 0,    "w": 390,  "h": 844, "title": "19 · Camera priming" },
+    { "file": "Methodology.dc.html",       "page": "flow-system", "x": 1000, "y": 0,    "w": 390,  "h": 980, "title": "20 · How scores work" },
+    { "file": "Offline.dc.html",           "page": "flow-system", "x": 1500, "y": 0,    "w": 390,  "h": 844, "title": "21 · No signal" },
+    { "file": "Rails.dc.html",             "page": "flow-system", "x": 0,    "y": 1140, "w": 1300, "h": 800, "title": "22 · One layout, every handset" }
+  ],
+  "annotations": [
+    { "id": "nav-model", "page": "flow-scan", "x": 0, "y": -300, "w": 900,
+      "text": "VERSO — WIREFRAMES, ALL SCREENS\n\nNavigation model: three bottom tabs — Scan (opens here), Library, You. Compare is deliberately NOT a tab: you cannot compare without a product in hand, so it is reached from a verdict.\n\nA verdict presents as a full-screen sheet over the camera, so dismissing it puts you straight back to scanning — the loop people actually do in an aisle is scan, glance, scan again.\n\nPlatform-neutral on purpose: bottom tabs, an explicit back chevron in every pushed screen (Android has a system back, iOS does not), no iOS-only gestures as the sole way to do anything, and no painted status bar or keyboard — the real OS draws those on top.\n\nEvery row and control is at least 44px tall. That, not aesthetics, is what sets row density here." },
+
+    { "id": "note-states", "page": "flow-scan", "x": 1000, "y": 2560, "w": 500,
+      "text": "The states are the design.\n\n4 · Nothing read is the most common outcome outside the EU and US — roughly 10K Indian products exist in the catalogue against 4M globally. It gets three ways out, not an apology.\n\n6 · Not scored is the suppression rule made visible: the findings stay, the number goes, and the gap is named. It is the screen that keeps the score honest." },
+
+    { "id": "note-compare", "page": "flow-compare", "x": 0, "y": -230, "w": 800,
+      "text": "COMPARE — the differentiator\n\nBuilt on the verified Lay's case: the India label lists palmolein, the US label lists sunflower, corn and canola in the same position.\n\nNo language about intent, cost or blame anywhere on this screen. Two labels side by side, the difference computed from the two lists rather than written by a model, and the sources and retrieval dates shown. That restraint is the legal posture in docs/claim-templates.md, in UI form.\n\n12 · No counterpart matters more than it looks: most scans will land here at first, and saying 'we have not verified one' is the honest version of an empty state." },
+
+    { "id": "note-library", "page": "flow-library", "x": 0, "y": -200, "w": 760,
+      "text": "LIBRARY AND YOU — the reason to open the app when not shopping\n\nScanning alone does not retain anyone. Watching an ingredient does: when a regulator acts, the alert fires only if the change touches something you actually scanned (15).\n\n'You' carries the market setting, the avoid list, and — not buried — how scores are worked out and where the data comes from." },
+
+    { "id": "note-devices", "page": "flow-system", "x": 0, "y": -230, "w": 800,
+      "text": "EVERY BRAND OF PHONE\n\n22 shows the same screen at 360, 390 and 430 px. One fluid column with a capped measure, not three device layouts. Type size never changes between widths — only gutters and wrap points do.\n\n360 is the floor we design against, because that is a current budget Android, not an old iPhone. The two-column compare stacks below 380. Above 390, extra width becomes margin rather than longer lines.\n\n21 · No signal is not an edge case for this product — supermarket basements are the normal case, so the offline answer is designed, not degraded." }
+  ],
+  "launch": { "view": "canvas", "page": "flow-scan" }
+}

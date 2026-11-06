@@ -1,0 +1,30 @@
+packages:
+  - 'packages/*'
+  - 'tools/*'
+  - 'services/*'
+  - 'apps/*'
+
+minimumReleaseAgeExclude:
+  - '@expo/cli@57.0.23'
+  - '@expo/metro-file-map@57.0.3'
+  - babel-preset-expo@57.0.11
+  - expo-modules-core@57.0.17
+  - expo-modules-jsi@57.1.0
+  - expo@57.0.21
+
+# React Native's Metro resolver cannot follow pnpm's symlinked store: bundling
+# fails to resolve expo-modules-core from inside node_modules/.pnpm/... .
+# Hoisting is the supported layout for React Native workspaces.
+nodeLinker: hoisted
+
+# Patched releases of vulnerable transitive dependencies, same major only
+# (pnpm audit, 2026-11-06). zod 4, uuid 11 and glob 14 need their parents
+# (Expo, the Anthropic SDK) upgraded first.
+overrides:
+  shell-quote@1: ^1.11.0
+  brace-expansion@5: ^5.0.12
+  node-forge@1: ^1.4.1
+  source-map-js@1: ^1.2.2
+  compression@1: ^1.8.2
+  fast-uri@3: ^3.1.9
+  fast-uri@4: ^4.2.3

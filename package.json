@@ -1,0 +1,34 @@
+{
+  "name": "verso",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "db:up": "docker compose up -d && node packages/db/src/wait.js",
+    "db:down": "docker compose down",
+    "db:reset": "docker compose down -v && pnpm db:up && pnpm migrate",
+    "migrate": "node packages/db/src/migrate.js",
+    "seed": "node packages/canon/src/seed.js && node packages/evidence/src/seed.js",
+    "lint:layers": "node tools/lint-layers/src/index.js",
+    "spike:coverage": "node tools/coverage-spike/src/index.js",
+    "check": "pnpm preflight && pnpm lint:layers && pnpm test && node tools/phase0-check/src/index.js",
+    "test": "node --test \"packages/**/test/*.test.js\"",
+    "api": "PORT=4310 node --env-file-if-exists=.env services/api/src/server.js",
+    "ingest": "node tools/off-ingest/src/index.js",
+    "mobile": "pnpm --filter @verso/mobile start",
+    "typecheck": "pnpm --filter @verso/mobile typecheck",
+    "api:lan": "HOST=0.0.0.0 PORT=4310 node --env-file-if-exists=.env services/api/src/server.js",
+    "dev": "./tools/dev-up/start.sh",
+    "preflight": "node -e \"const [a,b]=process.versions.node.split('.').map(Number);if(a<22||(a===22&&b<13)){console.error('Node '+process.versions.node+' is too old — need >=22.13. PATH is picking the wrong node: '+process.execPath);process.exit(1)}\"",
+    "ocr:report": "node tools/ocr-report/src/index.js",
+    "sources:sync": "node tools/source-sync/src/index.js",
+    "canon:generate": "node tools/canon-from-sources/src/index.js"
+  },
+  "devDependencies": {
+    "pg": "^8.13.1"
+  },
+  "packageManager": "pnpm@11.5.2"
+}

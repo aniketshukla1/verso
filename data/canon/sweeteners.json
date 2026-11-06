@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "acesulfame-k",
+    "display_name": "Acesulfame K",
+    "kind": "sweetener",
+    "ins": "950",
+    "e": "E950",
+    "cas": "55589-62-3",
+    "function": "High-intensity sweetener, roughly 200x sucrose; usually blended.",
+    "synonyms": [
+      "acesulfame k|common",
+      "acesulfame potassium|common",
+      "ace-k|abbrev",
+      "E950|e_number",
+      "INS 950|ins_number",
+      "55589-62-3|cas"
+    ]
+  },
+  {
+    "slug": "aspartame",
+    "display_name": "Aspartame",
+    "kind": "sweetener",
+    "ins": "951",
+    "e": "E951",
+    "cas": "22839-47-0",
+    "function": "High-intensity sweetener; requires a phenylketonurics warning.",
+    "synonyms": [
+      "aspartame|common",
+      "E951|e_number",
+      "INS 951|ins_number",
+      "22839-47-0|cas",
+      "Aspartam|common|de"
+    ]
+  },
+  {
+    "slug": "cyclamate",
+    "display_name": "Cyclamate",
+    "kind": "sweetener",
+    "ins": "952",
+    "e": "E952",
+    "cas": "100-88-9",
+    "function": "High-intensity sweetener, roughly 30x sucrose.",
+    "synonyms": [
+      "cyclamate|common",
+      "cyclamic acid|iupac",
+      "sodium cyclamate|common",
+      "E952|e_number",
+      "INS 952|ins_number",
+      "100-88-9|cas"
+    ]
+  },
+  {
+    "slug": "saccharin",
+    "display_name": "Saccharin",
+    "kind": "sweetener",
+    "ins": "954",
+    "e": "E954",
+    "cas": "81-07-2",
+    "function": "The oldest synthetic sweetener, roughly 300x sucrose.",
+    "synonyms": [
+      "saccharin|common",
+      "saccharine|misspelling",
+      "sodium saccharin|common",
+      "E954|e_number",
+      "INS 954|ins_number",
+      "81-07-2|cas"
+    ]
+  },
+  {
+    "slug": "sucralose",
+    "display_name": "Sucralose",
+    "kind": "sweetener",
+    "ins": "955",
+    "e": "E955",
+    "cas": "56038-13-2",
+    "function": "Chlorinated sucrose derivative, roughly 600x sucrose.",
+    "synonyms": [
+      "sucralose|common",
+      "E955|e_number",
+      "INS 955|ins_number",
+      "56038-13-2|cas"
+    ]
+  },
+  {
+    "slug": "steviol-glycosides",
+    "display_name": "Steviol Glycosides",
+    "kind": "sweetener",
+    "ins": "960",
+    "e": "E960",
+    "cas": null,
+    "function": "Plant-derived high-intensity sweetener from Stevia rebaudiana.",
+    "synonyms": [
+      "steviol glycosides|common",
+      "stevia|common",
+      "rebaudioside A|common",
+      "reb A|abbrev",
+      "E960|e_number",
+      "INS 960|ins_number"
+    ]
+  },
+  {
+    "slug": "neotame",
+    "display_name": "Neotame",
+    "kind": "sweetener",
+    "ins": "961",
+    "e": "E961",
+    "cas": "165450-17-9",
+    "function": "Aspartame derivative, roughly 8000x sucrose.",
+    "synonyms": [
+      "neotame|common",
+      "E961|e_number",
+      "INS 961|ins_number",
+      "165450-17-9|cas"
+    ]
+  },
+  {
+    "slug": "high-fructose-corn-syrup",
+    "display_name": "High-Fructose Corn Syrup",
+    "kind": "sweetener",
+    "ins": null,
+    "e": null,
+    "cas": null,
+    "function": "Enzymatically converted corn syrup used as a bulk liquid sweetener.",
+    "synonyms": [
+      "high fructose corn syrup|common",
+      "HFCS|abbrev",
+      "glucose-fructose syrup|common",
+      "isoglucose|common",
+      "corn syrup solids|common",
+      "fructose syrup|common",
+      "sirop de glucose-fructose|common|fr",
+      "Glukose-Fruktose-Sirup|common|de",
+      "jarabe de glucosa-fructosa|common|es"
+    ]
+  }
+]

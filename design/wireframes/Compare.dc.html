@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap">
+  <style>
+    body { margin: 0; background: #FFFFFF; font-family: 'Archivo', system-ui, sans-serif; }
+    a { color: #2E3F91; } a:hover { color: #22307A; }
+    .w * { box-sizing: border-box; }
+  </style>
+</helmet>
+<div class="w" style="width: 390px; height: 1140px; background: #FFFFFF; color: #1A1A1A; display: flex; flex-direction: column;">
+  <div style="height: 48px; flex: none;"></div>
+  <div style="display: flex; align-items: center; height: 56px; padding: 0 8px; border-bottom: 1px solid #D9D9D6; flex: none;">
+    <div style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"></path></svg>
+    </div>
+    <span style="font-size: 15.5px; font-weight: 600;">Compare</span>
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column;">
+    <div style="padding: 16px 20px 14px; display: flex; flex-direction: column; gap: 4px;">
+      <span style="font-size: 19px; font-weight: 700; letter-spacing: -0.015em;">Lay&rsquo;s Classic Salted</span>
+      <span style="font-size: 12.5px; color: #6E6E6B;">PepsiCo &middot; the same product in two markets</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; padding: 0 20px 16px;">
+      <div style="height: 44px; border: 1.5px solid #1A1A1A; border-radius: 4px; display: flex; align-items: center; justify-content: center; gap: 6px;">
+        <span style="font-size: 13.5px; font-weight: 600;">India</span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linecap="round"><path d="M6 9l6 6 6-6"></path></svg>
+      </div>
+      <div style="height: 44px; border: 1.5px solid #D9D9D6; border-radius: 4px; display: flex; align-items: center; justify-content: center; gap: 6px;">
+        <span style="font-size: 13.5px; font-weight: 600;">United States</span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linecap="round"><path d="M6 9l6 6 6-6"></path></svg>
+      </div>
+    </div>
+
+    <div style="margin: 0 20px; padding: 16px; border: 1px solid #1A1A1A; border-radius: 4px; display: flex; flex-direction: column; gap: 8px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; color: #6E6E6B;">ONE DIFFERENCE IN THE FRYING FAT</span>
+      <span style="font-size: 16px; font-weight: 600; line-height: 1.4;">The India label lists palmolein. The United States label lists sunflower, corn and canola oil in the same position.</span>
+    </div>
+
+    <div style="padding: 22px 20px 0;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; color: #6E6E6B;">BOTH LABELS, IN ORDER</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 10px; padding: 12px 20px 0;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.1em; color: #6E6E6B; padding-bottom: 8px; border-bottom: 1px solid #1A1A1A;">INDIA</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.1em; color: #6E6E6B; padding-bottom: 8px; border-bottom: 1px solid #1A1A1A;">UNITED STATES</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: transparent; color: #1A1A1A; font-weight: 400;">Potato</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: transparent; color: #1A1A1A; font-weight: 400;">Potatoes</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: #F7EFE9; color: #B3261E; font-weight: 600;">Palmolein</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: #F7EFE9; color: #B3261E; font-weight: 600;">Sunflower oil</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: #F7EFE9; color: #B3261E; font-weight: 600;">&nbsp;</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: #F7EFE9; color: #B3261E; font-weight: 600;">Corn oil</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: #F7EFE9; color: #B3261E; font-weight: 600;">&nbsp;</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: #F7EFE9; color: #B3261E; font-weight: 600;">Canola oil</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: transparent; color: #1A1A1A; font-weight: 400;">Salt</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: transparent; color: #1A1A1A; font-weight: 400;">Salt</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: #F7EFE9; color: #B3261E; font-weight: 600;">Spices &amp; condiments</span>
+      <span style="font-size: 13px; line-height: 1.4; padding: 9px 8px; border-bottom: 1px solid #E9E9E6; background: #F7EFE9; color: #B3261E; font-weight: 600;">&mdash;</span>
+    </div>
+
+    <div style="padding: 22px 20px 10px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; color: #6E6E6B;">WHAT THAT MEANS</span>
+    </div>
+    <div style="display: flex; gap: 12px; padding: 12px 20px; border-top: 1px solid #E9E9E6; border-bottom: 1px solid #E9E9E6;">
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 14px; line-height: 1.45;">Palmolein carries roughly 40% saturated fat. Sunflower carries roughly 11%, canola roughly 7%.</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; color: #9B9B97;">USDA FoodData Central</span>
+      </div>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none; margin-top: 3px;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+
+    <div style="padding: 18px 20px 0; display: flex; flex-direction: column; gap: 8px;">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2C6E49" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"></path></svg>
+        <span style="font-size: 12.5px; font-weight: 600; color: #2C6E49;">High confidence</span>
+      </div>
+      <span style="font-size: 12px; line-height: 1.5; color: #6E6E6B;">Compared from the India pack you scanned today and Frito-Lay&rsquo;s published US ingredients, retrieved 28 Aug 2026. The difference was computed from the two lists, not written by a model.</span>
+    </div>
+
+    <div style="padding: 16px 20px 0;">
+      <span style="font-family: 'Caveat', cursive; font-size: 16px; color: #6E6E6B; line-height: 1.35;">No language about intent, cost or blame anywhere on this screen &mdash; two labels, side by side.</span>
+    </div>
+  </div>
+
+  <div style="border-top: 1px solid #D9D9D6; padding: 12px 20px; display: flex; gap: 10px; flex: none;">
+    <div style="flex: 1; height: 50px; border: 1.5px solid #1A1A1A; border-radius: 4px; display: flex; align-items: center; justify-content: center; gap: 8px;">
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V4"></path><path d="M8 8l4-4 4 4"></path><path d="M5 15v3a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3"></path></svg>
+      <span style="font-size: 14.5px; font-weight: 600;">Share this comparison</span>
+    </div>
+  </div>
+  <div style="height: 28px; flex: none;"></div>
+</div>
+</x-dc>
+</body>
+</html>

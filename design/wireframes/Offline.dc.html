@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap">
+  <style>
+    body { margin: 0; background: #FFFFFF; font-family: 'Archivo', system-ui, sans-serif; }
+    a { color: #2E3F91; } a:hover { color: #22307A; }
+    .w * { box-sizing: border-box; }
+  </style>
+</helmet>
+<div class="w" style="width: 390px; height: 844px; background: #FFFFFF; color: #1A1A1A; display: flex; flex-direction: column;">
+  <div style="height: 48px; flex: none;"></div>
+  <div style="display: flex; align-items: center; gap: 9px; padding: 10px 20px; background: #F2F2F1; border-bottom: 1px solid #D9D9D6;">
+    <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#6E6E6B" stroke-width="1.8" stroke-linecap="round"><path d="M3 3l18 18"></path><path d="M5 12a10 10 0 0 1 4-2.5"></path><path d="M15 9.5a10 10 0 0 1 4 2.5"></path><path d="M12 18h.01"></path></svg>
+    <span style="font-size: 12.5px; font-weight: 600; color: #6E6E6B;">No signal &mdash; showing what is on this phone</span>
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column; padding: 20px 20px 0; gap: 20px;">
+    <div style="display: flex; flex-direction: column; gap: 7px;">
+      <span style="font-size: 20px; font-weight: 700; letter-spacing: -0.015em;">Unnamed bread</span>
+      <span style="font-size: 12.5px; color: #6E6E6B;">Read from the label just now</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 12px; border-top: 1px solid #D9D9D6; border-bottom: 1px solid #D9D9D6; padding: 16px 0;">
+      <div style="display: flex; gap: 12px; align-items: flex-start;">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#2C6E49" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" style="flex: none; margin-top: 1px;"><path d="M20 6L9 17l-5-5"></path></svg>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+          <span style="font-size: 14px; font-weight: 600;">7 ingredients identified</span>
+          <span style="font-size: 12px; line-height: 1.45; color: #6E6E6B;">From the additive list kept on this phone</span>
+        </div>
+      </div>
+      <div style="display: flex; gap: 12px; align-items: flex-start;">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#2C6E49" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" style="flex: none; margin-top: 1px;"><path d="M20 6L9 17l-5-5"></path></svg>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+          <span style="font-size: 14px; font-weight: 600;">2 flagged: bromate, azodicarbonamide</span>
+          <span style="font-size: 12px; line-height: 1.45; color: #6E6E6B;">Bans in the EU and India are cached</span>
+        </div>
+      </div>
+      <div style="display: flex; gap: 12px; align-items: flex-start;">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.8" stroke-linecap="round" style="flex: none; margin-top: 1px;"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg>
+        <div style="flex: 1; display: flex; flex-direction: column; gap: 3px;">
+          <span style="font-size: 14px; font-weight: 600; color: #6E6E6B;">Comparison waits for signal</span>
+          <span style="font-size: 12px; line-height: 1.45; color: #6E6E6B;">Finding other markets needs the network</span>
+        </div>
+      </div>
+    </div>
+
+    <div style="border: 1px solid #D9D9D6; border-radius: 4px; padding: 14px; display: flex; flex-direction: column; gap: 6px;">
+      <span style="font-size: 13.5px; font-weight: 600;">1 label queued to send</span>
+      <span style="font-size: 12.5px; line-height: 1.5; color: #6E6E6B;">Goes out on its own when you are back on a network.</span>
+    </div>
+
+    <span style="font-family: 'Caveat', cursive; font-size: 16px; color: #6E6E6B; line-height: 1.35;">Supermarket basements are the normal case, not an edge case.</span>
+  </div>
+  <div style="height: 28px; flex: none;"></div>
+</div>
+</x-dc>
+</body>
+</html>

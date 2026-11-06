@@ -1,0 +1,173 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap">
+  <style>
+    body { margin: 0; background: #FFFFFF; font-family: 'Archivo', system-ui, sans-serif; }
+    a { color: #2E3F91; } a:hover { color: #22307A; }
+    .w * { box-sizing: border-box; }
+  </style>
+</helmet>
+<div class="w" style="width: 390px; height: 1420px; background: #FFFFFF; color: #1A1A1A; display: flex; flex-direction: column;">
+  <div style="height: 48px; flex: none;"></div>
+  <div style="display: flex; align-items: center; justify-content: space-between; height: 56px; padding: 0 8px; border-bottom: 1px solid #D9D9D6; flex: none;">
+    <div style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.9" stroke-linecap="round"><path d="M6 6l12 12"></path><path d="M18 6L6 18"></path></svg>
+    </div>
+    <span style="font-size: 15.5px; font-weight: 600;">Result</span>
+    <div style="display: flex;">
+      <div style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V4"></path><path d="M8 8l4-4 4 4"></path><path d="M5 15v3a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3"></path></svg>
+      </div>
+      <div style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="2.2" stroke-linecap="round"><path d="M12 6h.01"></path><path d="M12 12h.01"></path><path d="M12 18h.01"></path></svg>
+      </div>
+    </div>
+  </div>
+  <div style="flex: 1; overflow: hidden; display: flex; flex-direction: column;">
+
+    <div style="padding: 18px 20px 16px; display: flex; flex-direction: column; gap: 7px;">
+      <div style="display: flex; align-items: center; gap: 7px;">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.1em; color: #6E6E6B; border: 1px solid #D9D9D6; padding: 3px 6px;">READ FROM LABEL</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.1em; color: #6E6E6B;">US</span>
+      </div>
+      <span style="font-size: 21px; font-weight: 700; letter-spacing: -0.015em;">Unnamed bread</span>
+      <span style="font-size: 12.5px; color: #6E6E6B;">Barcode not in any catalogue &mdash; read directly from the panel</span>
+    </div>
+
+    <div style="display: flex; align-items: center; gap: 18px; padding: 16px 20px; border-top: 1px solid #D9D9D6; border-bottom: 1px solid #D9D9D6;">
+      <div style="display: flex; flex-direction: column;">
+        <span style="font-size: 40px; font-weight: 700; line-height: 1; letter-spacing: -0.03em;">58</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.1em; color: #6E6E6B; padding-top: 4px;">HAZARD</span>
+      </div>
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 7px;">
+        <div style="display: flex; height: 6px; border-radius: 3px; overflow: hidden;">
+          <div style="width: 58%; background: #1A1A1A;"></div>
+          <div style="flex: 1; background: #E4E4E1;"></div>
+        </div>
+        <span style="font-size: 11.5px; color: #6E6E6B; line-height: 1.4;">Medium confidence &middot; label read in full, evidence covers 2 of 4</span>
+      </div>
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+
+    <div style="padding: 20px 20px 10px; display: flex; align-items: baseline; justify-content: space-between;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; color: #6E6E6B;">THE RECORD</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #6E6E6B;">5</span>
+    </div>
+    <div style="display: flex; gap: 12px; align-items: flex-start; padding: 13px 20px; border-top: 1px solid #E9E9E6; min-height: 48px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 8.5px; font-weight: 500; letter-spacing: 0.06em; color: #B3261E; border: 1px solid #B3261E; padding: 3px 5px; flex: none; margin-top: 2px;">BANNED</span>
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 14px; line-height: 1.42;">Potassium Bromate is not permitted in food in the European Union.</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; line-height: 1.4; color: #9B9B97;">Reg (EC) 1333/2008, Annex II</span>
+      </div>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none; margin-top: 4px;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; gap: 12px; align-items: flex-start; padding: 13px 20px; border-top: 1px solid #E9E9E6; min-height: 48px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 8.5px; font-weight: 500; letter-spacing: 0.06em; color: #B3261E; border: 1px solid #B3261E; padding: 3px 5px; flex: none; margin-top: 2px;">BANNED</span>
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 14px; line-height: 1.42;">Potassium Bromate is not permitted in food in India.</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; line-height: 1.4; color: #9B9B97;">FSSAI · effective 20 Jun 2016</span>
+      </div>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none; margin-top: 4px;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; gap: 12px; align-items: flex-start; padding: 13px 20px; border-top: 1px solid #E9E9E6; min-height: 48px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 8.5px; font-weight: 500; letter-spacing: 0.06em; color: #8A6212; border: 1px solid #8A6212; padding: 3px 5px; flex: none; margin-top: 2px;">2027</span>
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 14px; line-height: 1.42;">California has adopted a ban taking effect 1 Jan 2027. It remains permitted until then.</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; line-height: 1.4; color: #9B9B97;">California Food Safety Act (AB 418)</span>
+      </div>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none; margin-top: 4px;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; gap: 12px; align-items: flex-start; padding: 13px 20px; border-top: 1px solid #E9E9E6; min-height: 48px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 8.5px; font-weight: 500; letter-spacing: 0.06em; color: #6E6E6B; border: 1px solid #6E6E6B; padding: 3px 5px; flex: none; margin-top: 2px;">IARC 2B</span>
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 14px; line-height: 1.42;">Group 2B — possibly carcinogenic to humans.</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; line-height: 1.4; color: #9B9B97;">IARC Monographs, Volume 73</span>
+      </div>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none; margin-top: 4px;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; gap: 12px; align-items: flex-start; padding: 13px 20px; border-top: 1px solid #E9E9E6; min-height: 48px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 8.5px; font-weight: 500; letter-spacing: 0.06em; color: #B3261E; border: 1px solid #B3261E; padding: 3px 5px; flex: none; margin-top: 2px;">BANNED</span>
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 14px; line-height: 1.42;">Azodicarbonamide is not permitted in food in the European Union.</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; line-height: 1.4; color: #9B9B97;">Reg (EC) 1333/2008, Annex II</span>
+      </div>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none; margin-top: 4px;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="padding: 22px 20px 10px; display: flex; align-items: baseline; justify-content: space-between; border-top: 1px solid #D9D9D6;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; color: #6E6E6B;">INGREDIENTS</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #6E6E6B;">7 / 7 READ</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 0 20px; height: 48px; border-top: 1px solid #E9E9E6;">
+      <span style="font-size: 14.5px; font-weight: 500; color: #1A1A1A; flex: 1;">Enriched Flour</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;"></span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #1A1A1A;"></span>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 0 20px; height: 48px; border-top: 1px solid #E9E9E6;">
+      <span style="font-size: 14.5px; font-weight: 500; color: #1A1A1A; flex: 1;">Water</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;"></span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #1A1A1A;"></span>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 0 20px; height: 48px; border-top: 1px solid #E9E9E6;">
+      <span style="font-size: 14.5px; font-weight: 500; color: #B3261E; flex: 1;">Potassium Bromate</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;">E924</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #B3261E;">3 actions</span>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 0 20px; height: 48px; border-top: 1px solid #E9E9E6;">
+      <span style="font-size: 14.5px; font-weight: 500; color: #B3261E; flex: 1;">Azodicarbonamide</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;">E927a</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #B3261E;">1 action</span>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 0 20px; height: 48px; border-top: 1px solid #E9E9E6;">
+      <span style="font-size: 14.5px; font-weight: 500; color: #1A1A1A; flex: 1;">Calcium Propionate</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;">E282</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #1A1A1A;"></span>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 0 20px; height: 48px; border-top: 1px solid #E9E9E6;">
+      <span style="font-size: 14.5px; font-weight: 500; color: #1A1A1A; flex: 1;">Soy Lecithin</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;">E322</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #1A1A1A;"></span>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 0 20px; height: 48px; border-top: 1px solid #E9E9E6;">
+      <span style="font-size: 14.5px; font-weight: 500; color: #1A1A1A; flex: 1;">Salt</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: #9B9B97;"></span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #1A1A1A;"></span>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+    <div style="margin: 20px; padding: 16px; border: 1px solid #D9D9D6; border-radius: 4px; display: flex; flex-direction: column; gap: 10px;">
+      <span style="font-size: 14px; font-weight: 600;">Help the next person who scans this</span>
+      <span style="font-size: 12.5px; line-height: 1.45; color: #6E6E6B;">This pack is not in the catalogue. Sending the label adds it for everyone.</span>
+      <div style="height: 44px; border: 1.5px solid #1A1A1A; border-radius: 4px; display: flex; align-items: center; justify-content: center;">
+        <span style="font-size: 13.5px; font-weight: 600;">Send this label</span>
+      </div>
+    </div>
+
+    <div style="padding: 0 20px 18px; display: flex; flex-direction: column; gap: 4px;">
+      <span style="font-size: 10.5px; line-height: 1.5; color: #9B9B97;">Method 0.1.0 &middot; every point of the score is itemised</span>
+      <span style="font-size: 10.5px; line-height: 1.5; color: #9B9B97;">Product data from Open Food Facts, licensed under ODbL 1.0</span>
+    </div>
+  </div>
+
+  <div style="border-top: 1px solid #D9D9D6; padding: 12px 20px; display: flex; gap: 10px; flex: none; background: #FFFFFF;">
+    <div style="flex: 1; height: 50px; background: #1A1A1A; border-radius: 4px; display: flex; align-items: center; justify-content: center; gap: 8px;">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H4v18h4"></path><path d="M16 3h4v18h-4"></path><path d="M12 7v10"></path></svg>
+      <span style="font-size: 15px; font-weight: 600; color: #FFFFFF;">Compare markets</span>
+    </div>
+  </div>
+  <div style="height: 28px; flex: none;"></div>
+</div>
+</x-dc>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html",       "x": 0,    "y": 0, "w": 390, "h": 940, "title": "A · The Dossier" },
+    { "file": "Instrument.dc.html", "x": 500,  "y": 0, "w": 390, "h": 940, "title": "B · The Instrument" },
+    { "file": "Signal.dc.html",     "x": 1000, "y": 0, "w": 390, "h": 940, "title": "C · The Signal" },
+    { "file": "Passport.dc.html",   "x": 1500, "y": 0, "w": 390, "h": 940, "title": "D · The Passport" }
+  ],
+  "annotations": [
+    { "id": "brief", "x": 0, "y": -230, "w": 900,
+      "text": "VERSO — four directions for the verdict screen\n\nSame real scan in all four: a US bread whose label declares potassium bromate. Every claim and citation on screen comes from the live API, so this is a fair comparison of treatment, not of content.\n\nPick one and I'll build the Compare screen — the cross-market feature — in that language, then the full screen set.\n\nThe constraint they all answer to: docs/naming.md commits Verso to pointing without accusing. A direction that reads as an accusation undermines the legal posture in docs/claim-templates.md." },
+
+    { "id": "note-a", "x": 0, "y": 1010, "w": 390,
+      "text": "A · THE DOSSIER  ← my recommendation\n\nAxis: evidence-led, editorial.\nNewsreader serif + Archivo + Plex Mono, ink on document paper.\n\nThe headline IS the finding, stated as fact. The score is small and quiet; the record is the hero. Citations sit in mono directly under each claim at equal typographic weight — nothing hidden behind 'view source'.\n\nWhy: it looks like something that gets things right, which is what you are actually selling. Furthest from Yuka's colour-score register.\n\nTradeoff: the least immediate in an aisle. Reading, not glancing." },
+
+    { "id": "note-b", "x": 500, "y": 1010, "w": 390,
+      "text": "B · THE INSTRUMENT\n\nAxis: scientific, measured.\nIBM Plex Mono + Plex Sans, dark instrument panel, amber readout.\n\nSignature move: the score is a measurement with its uncertainty shown. The hatched region of the gauge is what we have NOT measured — evidence coverage rendered honestly instead of buried in small print.\n\nWhy: makes the suppression rule a visible virtue rather than an apology, and reads as precision.\n\nTradeoff: dense and cold. Risks feeling like a tool for experts, not a shopper." },
+
+    { "id": "note-c", "x": 1000, "y": 1010, "w": 390,
+      "text": "C · THE SIGNAL\n\nAxis: signage, immediate.\nArchivo 900 at poster scale, flat signal red, no gradients.\n\nThe count is the hero — readable at arm's length in bad supermarket light, in under two seconds. This is the one that gets screenshotted and shared.\n\nWhy: maximum immediacy and virality.\n\nTradeoff — and it is real: the register drifts toward accusation. A 118px red '2 countries ban it' is a verdict on a company, not a citation. Beautiful, and the direction most likely to attract a letter." },
+
+    { "id": "note-d", "x": 1500, "y": 1010, "w": 390,
+      "text": "D · THE PASSPORT\n\nAxis: jurisdiction as the native metaphor.\nInstrument Serif + Archivo, security-paper guilloche, rubber stamps, a machine-readable strip.\n\nEach jurisdiction is a physical mark, so 'banned in two countries, pending in a third' is legible at a glance without shouting. The ingredient is the subject of a record; markets endorse or refuse it.\n\nWhy: the most distinctive of the four, and the only one where Compare is native rather than an extra tab.\n\nTradeoff: the strongest metaphor, so the most that can go wrong at scale — 400 ingredients of stamps could tire." }
+  ],
+  "launch": { "view": "canvas" }
+}

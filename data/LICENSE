@@ -1,0 +1,21 @@
+The curated datasets in data/canon/ and data/evidence/ are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International licence
+(CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/
+
+Copyright (c) 2026 Aniket Shukla
+
+You may share and adapt them for non-commercial purposes, with attribution
+("Verso ingredient canon and evidence, by Aniket Shukla") and a link to the
+licence. For commercial use, ask through github.com/aniketshukla1/verso.
+
+Not covered by this licence, and not ours to license:
+
+- Text quoted from regulators and agencies inside data/evidence/ (EFSA, the
+  European Commission, FDA, IARC, OEHHA, FSSAI, the Codex Alimentarius). It
+  stays with its publisher and is reproduced as cited quotation.
+- data/canon/eu-additives.generated.json, generated from the EU Food Additives
+  Database: © European Union, reused under Commission Decision 2011/833/EU.
+- data/sources/, which is not in this repository: the official lists that
+  `pnpm sources:sync` downloads, each under its publisher's own terms.
+
+The code in this repository is MIT-licensed: see ../LICENSE.

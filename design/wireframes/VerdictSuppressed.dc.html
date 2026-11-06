@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap">
+  <style>
+    body { margin: 0; background: #FFFFFF; font-family: 'Archivo', system-ui, sans-serif; }
+    a { color: #2E3F91; } a:hover { color: #22307A; }
+    .w * { box-sizing: border-box; }
+  </style>
+</helmet>
+<div class="w" style="width: 390px; height: 940px; background: #FFFFFF; color: #1A1A1A; display: flex; flex-direction: column;">
+  <div style="height: 48px; flex: none;"></div>
+  <div style="display: flex; align-items: center; height: 56px; padding: 0 8px; border-bottom: 1px solid #D9D9D6; flex: none;">
+    <div style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1A1A1A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"></path></svg>
+    </div>
+    <span style="font-size: 15.5px; font-weight: 600;">Result</span>
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column;">
+    <div style="padding: 18px 20px 16px; display: flex; flex-direction: column; gap: 7px;">
+      <div style="display: flex; align-items: center; gap: 7px;">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.1em; color: #6E6E6B; border: 1px solid #D9D9D6; padding: 3px 6px;">READ FROM LABEL</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.1em; color: #6E6E6B;">IN</span>
+      </div>
+      <span style="font-size: 21px; font-weight: 700; letter-spacing: -0.015em;">Unnamed snack</span>
+    </div>
+
+    <div style="margin: 0 20px; padding: 18px; border: 1px solid #D9D9D6; border-radius: 4px; display: flex; flex-direction: column; gap: 10px; background: #FAFAF9;">
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6E6E6B" stroke-width="1.7" stroke-linecap="round"><circle cx="12" cy="12" r="9"></circle><path d="M12 8v5"></path><path d="M12 16h.01"></path></svg>
+        <span style="font-size: 18px; font-weight: 700;">Not scored</span>
+      </div>
+      <span style="font-size: 13.5px; line-height: 1.5; color: #1A1A1A;">Evidence covers only 1 of 5 ingredients we can assess. A number here would imply we had checked everything on this label, and we have not.</span>
+      <span style="font-size: 12.5px; line-height: 1.5; color: #6E6E6B;">What we did find is below, and it is verified.</span>
+    </div>
+
+    <div style="padding: 22px 20px 10px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; color: #6E6E6B;">THE RECORD</span>
+    </div>
+    <div style="display: flex; gap: 12px; align-items: flex-start; padding: 13px 20px; border-top: 1px solid #E9E9E6; border-bottom: 1px solid #E9E9E6;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 8.5px; letter-spacing: 0.06em; color: #8A6212; border: 1px solid #8A6212; padding: 3px 5px; flex: none; margin-top: 2px;">WARNING</span>
+      <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 14px; line-height: 1.42;">In the European Union, food containing Tartrazine must carry the label warning: &lsquo;may have an adverse effect on activity and attention in children&rsquo;.</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; color: #9B9B97;">Reg (EC) 1333/2008, Annex V</span>
+      </div>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="#9B9B97" stroke-width="1.9" stroke-linecap="round" style="flex: none; margin-top: 4px;"><path d="M9 6l6 6-6 6"></path></svg>
+    </div>
+
+    <div style="padding: 22px 20px 10px;">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.16em; color: #6E6E6B;">NOT YET RESEARCHED</span>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 7px; padding: 0 20px;">
+      <span style="font-size: 12.5px; padding: 7px 11px; background: #F2F2F1; border-radius: 3px;">Palmolein</span>
+      <span style="font-size: 12.5px; padding: 7px 11px; background: #F2F2F1; border-radius: 3px;">Sodium Benzoate</span>
+      <span style="font-size: 12.5px; padding: 7px 11px; background: #F2F2F1; border-radius: 3px;">TBHQ</span>
+      <span style="font-size: 12.5px; padding: 7px 11px; background: #F2F2F1; border-radius: 3px;">Monosodium Glutamate</span>
+    </div>
+    <div style="padding: 14px 20px 0;">
+      <span style="font-family: 'Caveat', cursive; font-size: 16px; color: #6E6E6B; line-height: 1.35;">Naming the gap is the point &mdash; it is what stops the score being a lie, and it tells the team what to research next.</span>
+    </div>
+  </div>
+
+  <div style="border-top: 1px solid #D9D9D6; padding: 12px 20px; display: flex; gap: 10px; flex: none;">
+    <div style="flex: 1; height: 50px; background: #1A1A1A; border-radius: 4px; display: flex; align-items: center; justify-content: center;">
+      <span style="font-size: 15px; font-weight: 600; color: #FFFFFF;">Compare markets</span>
+    </div>
+  </div>
+  <div style="height: 28px; flex: none;"></div>
+</div>
+</x-dc>
+</body>
+</html>
