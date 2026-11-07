@@ -53,6 +53,8 @@ packages/verdict     score.js (methodology), templates.js (claim templates), bui
 services/api         Fastify: POST /v1/verdict, POST /v1/compare, POST /v1/ocr,
                      GET /v1/products, GET /v1/unresolved
 apps/mobile          Expo app: guided capture, offline cache, verdict UI
+site/                the website (plain HTML, CSS, JS), published to GitHub Pages by
+                     .github/workflows/pages.yml; its phone loops are filmed from the real app
 tools/lint-layers    enforces rule 1
 tools/off-ingest     Open Food Facts -> LAYER 1 ONLY
 tools/coverage-spike measures real barcode hit rate per market

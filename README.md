@@ -8,12 +8,13 @@
 <br>
 <br>
 
+<a href="https://aniketshukla1.github.io/verso/"><img alt="Website: aniketshukla1.github.io/verso" src="https://img.shields.io/badge/website-aniketshukla1.github.io%2Fverso-2E3F91?style=flat-square"></a>
 <a href="LICENSE"><img alt="Code: MIT" src="https://img.shields.io/badge/code-MIT-2E3F91?style=flat-square"></a>
 <a href="data/LICENSE"><img alt="Data: CC BY-NC 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC%204.0-2E3F91?style=flat-square"></a>
 <img alt="iOS and Android with Expo SDK 57" src="https://img.shields.io/badge/iOS%20%C2%B7%20Android-Expo%20SDK%2057-141A26?style=flat-square">
 <img alt="Node 22.13 or later" src="https://img.shields.io/badge/node-%E2%89%A522.13-141A26?style=flat-square">
 
-**[See it work](#see-it-work)** &nbsp;·&nbsp; **[What it does](#what-it-does)** &nbsp;·&nbsp; **[How it works](#how-it-works)** &nbsp;·&nbsp; **[Sources](#official-sources)** &nbsp;·&nbsp; **[Quick start](#quick-start)** &nbsp;·&nbsp; **[License](#license)**
+**[Website](https://aniketshukla1.github.io/verso/)** &nbsp;·&nbsp; **[See it work](#see-it-work)** &nbsp;·&nbsp; **[What it does](#what-it-does)** &nbsp;·&nbsp; **[How it works](#how-it-works)** &nbsp;·&nbsp; **[Sources](#official-sources)** &nbsp;·&nbsp; **[Quick start](#quick-start)** &nbsp;·&nbsp; **[License](#license)**
 
 </div>
 
@@ -22,7 +23,7 @@
 <div align="center">
   <a href="docs/media/verso-demo.mp4"><img src="docs/media/verso-demo.gif" width="92%" alt="Verso demo: a US bread label lists potassium bromate, banned in the EU and India; the app shows the verdict, the regulations behind it, and Lay's India compared with Lay's US"></a>
   <br>
-  <sub><a href="docs/media/verso-demo.mp4">▶&nbsp; Watch the 20-second demo with sound</a></sub>
+  <sub><a href="docs/media/verso-demo.mp4">▶&nbsp; Watch the 20-second demo with sound</a> &nbsp;·&nbsp; <a href="https://aniketshukla1.github.io/verso/">See more on the website</a></sub>
 </div>
 
 ## What it does
